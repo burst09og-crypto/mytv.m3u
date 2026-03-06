@@ -65,6 +65,11 @@ http://103.78.149.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf3vB85n/images_(4).png" group-title="Movie",Anmol cinema 2
 http://103.78.149.54:8000/play/a01o/index.m3u8
 
+
+#EXTINF:-1 tvg-name="Naruto" tvg-logo="https://i.postimg.cc/tTzPRzth/download.jpg" group-title="Anime",Naruto
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0vcJSZh/images_(3).png" group-title="Movie",Colors cineplex
 http://116.90.120.152:8000/play/a0ji/index.m3u8
 
