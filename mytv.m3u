@@ -5,6 +5,12 @@
 https://tvpass.org/live/NationalGeographicEast/hd
 
 
+#EXTINF:-1 tvg-name="Disney USA" tvg-logo="https://i.postimg.cc/MGnqpZ77/o-Fr-Ab-Wve-SRbde-CXBK7Ii-Zc82Jc66u-USJf-G137-ur-du9m7b-ODr-KQGd-H0g-YBm-JTARtpvn-Yuh-s900-c-k-c0x00.jpg" group-title="Kids",Disney USA
+http://104.255.88.155/disney/playlist.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://i.postimg.cc/dVzSGqMn/USA-Network-2020.jpg" group-title="Sports",USA Network
+https://tvpass.org/live/USANetworkEast/sd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f10j2S2/images-(15).jpg" group-title="Movie",All time movies
 http://103.78.149.54:8000/play/a00i/index.m3u8
 
