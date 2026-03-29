@@ -11,6 +11,14 @@ https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-name="Disney USA" tvg-logo="https://i.postimg.cc/MGnqpZ77/o-Fr-Ab-Wve-SRbde-CXBK7Ii-Zc82Jc66u-USJf-G137-ur-du9m7b-ODr-KQGd-H0g-YBm-JTARtpvn-Yuh-s900-c-k-c0x00.jpg" group-title="Kids",Disney USA
 http://104.255.88.155/disney/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://i.postimg.cc/RZNTRHPC/download.jpg" group-title="Cooking",Gordon Ramsay's Hell's Kitchen
+https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
+
+#EXTINF:-1 tvg-name="beIN sports Xtra" tvg-logo="https://i.postimg.cc/Fs1c5Q0n/download.png" group-title="Sports",beIN sports Xtra
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-name="USA Network" tvg-logo="https://i.postimg.cc/dVzSGqMn/USA-Network-2020.jpg" group-title="Sports",USA Network
 https://tvpass.org/live/USANetworkEast/sd
 
