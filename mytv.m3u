@@ -322,3 +322,6 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Namma Bangalore" tvg-logo="https://i.postimg.cc/nLwxkh5g/images-(13).jpg" group-title="Undefined",Namma Bangalore
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/namma-bangalore/index.m3u8?ads.vf=A9CcATZmBw0
+
+#EXTINF:-1 tvg-name="Capital TV" tvg-logo="https://i.postimg.cc/XYMWjjSy/download.png" group-title="Nepali",Capital Tv
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
