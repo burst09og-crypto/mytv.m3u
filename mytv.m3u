@@ -7,6 +7,8 @@ https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 tvg-name="Takeshi Castle" tvg-logo="https://i.postimg.cc/x8JKPyd8/download.jpg" group-title="Reality Show",Takeshi Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 
+#EXTINF:-1 tvg-name="ADN TV+" tvg-logo="https://i.postimg.cc/jS2r4M07/download.jpg" group-title="Anime",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
 #EXTINF:-1 tvg-name="Disney USA" tvg-logo="https://i.postimg.cc/MGnqpZ77/o-Fr-Ab-Wve-SRbde-CXBK7Ii-Zc82Jc66u-USJf-G137-ur-du9m7b-ODr-KQGd-H0g-YBm-JTARtpvn-Yuh-s900-c-k-c0x00.jpg" group-title="Kids",Disney USA
 http://104.255.88.155/disney/playlist.m3u8
