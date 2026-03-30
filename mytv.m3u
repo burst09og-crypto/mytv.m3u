@@ -148,7 +148,7 @@ http://103.229.254.25:7001/play/a0a1/index.m3u8
 http://103.113.103.202:8001/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKd51SYG/images_(4).jpg" group-title="Entertainment",And TV
-http://103.161.153.165:8000/play/a05c/index.m3u8
+http://103.229.254.25:7001/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yhHZtrt/images.png" group-title="Entertainment",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
