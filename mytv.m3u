@@ -104,6 +104,8 @@ http://103.78.149.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf3vB85n/images_(4).png" group-title="Movie",Anmol cinema 2
 http://103.78.149.54:8000/play/a01o/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLRxn6ZK/download.png" group-title="Nature",InWild
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/240p-en/index.m3u8
 
 #EXTINF:-1 tvg-name="Naruto" tvg-logo="https://i.postimg.cc/tTzPRzth/download.jpg" group-title="Anime",Naruto
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
@@ -122,6 +124,9 @@ http://103.78.149.54:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5h4BR1M/Zee_Cinema_logo.png" group-title="Movie",Zee cinema
 http://103.178.78.151:7505/play/a0wb/index.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://i.postimg.cc/D0cYjYRC/2.webp" group-title="Movie",The Movie Club (1080p)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25JpxfWw/images_(1).jpg" group-title="Movie",Star gold
 http://103.99.249.139/stargold/index.m3u8
@@ -287,6 +292,9 @@ https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMQxPzy3/images_(1).jpg" group-title="Music",Mh1 music
 http://103.140.254.2:3500/live/742.m3u8
+
+#EXTINF:-1 tvg-id="DesiChannel.in@SD"  tvg-logo="https://i.postimg.cc/gc4XpHyL/download.png" group-title="Music",Desi Channel (720p)
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvjW7bSF/images.png" group-title="Music",Mtv India
 http://103.253.18.58:8000/play/a01t
