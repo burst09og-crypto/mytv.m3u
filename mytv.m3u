@@ -283,7 +283,7 @@ http://103.161.153.165:8000/play/a05a/index.m3u8
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Kids",DISCOVERY KIDS
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
+http://103.161.153.165:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 group-title="Kids",Disney jr
 http://116.90.120.152:8000/play/a0gu/index.m3u8
