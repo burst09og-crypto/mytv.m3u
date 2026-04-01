@@ -68,7 +68,7 @@ https://cdn-2.pishow.tv/live/231/master.m3u8
 http://103.229.254.25:7001/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtWBZpf2/images_(1).png" group-title="Movie",Sony max
-http://103.113.103.202:8001/play/a025/index.m3u8
+http://103.161.153.165:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9064vfkz/images_(2).png" group-title="Movie",Zee Bollywood
 http://161.248.38.40:8000/play/a075/index.m3u8
@@ -81,6 +81,19 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9frpJNt8/LOGO-HD-image-(1).png" group-title="Movie",Zee Cinema
 http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
+http://103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Gold 
+http://103.161.153.165:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Classic
+http://103.161.153.165:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Pictures
+http://103.161.153.165:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8NZqcFF/Manoranjan_Movies_Logo.jpg" group-title="Movie",Manoranjan movies
 https://cdn-2.pishow.tv/live/228/master.m3u8
@@ -200,7 +213,7 @@ https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8QZ2yq/LOGO-HD-image-(2).png" group-title="Entertainment",Zee TV
-http://103.229.254.25:7001/play/a0cs/index.m3u8
+http://103.161.153.165:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png" group-title="Entertainment",Sony pal
 http://103.78.149.54:8000/play/a016/index.m3u8
@@ -407,3 +420,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-name="Capital TV" tvg-logo="https://i.postimg.cc/XYMWjjSy/download.png" group-title="Nepali",Capital Tv
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+
+#EXTINF:-1 tvg-name="Euro Sports TV" tvg-logo="https://i.postimg.cc/XYMWjjSy/download.png" group-title="Sports",Euro Sports TV
+http://103.161.153.165:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
+http://103.161.153.165:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png"group-title="KIDS",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Entertainment",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood 
+http://103.175.73.12:8080/live/52/52_0.m3u8
