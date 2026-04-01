@@ -127,6 +127,12 @@ http://103.78.149.54:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5h4BR1M/Zee_Cinema_logo.png" group-title="Movie",Zee cinema
 http://103.178.78.151:7505/play/a0wb/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5txVJXdw/download.jpg" group-title="Movie",Hindi Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movie",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://i.postimg.cc/D0cYjYRC/2.webp" group-title="Movie",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
@@ -223,6 +229,11 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z54J9ZP6/images.png" group-title="Sports",FIFA +
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbkFFHDG/download.png" group-title="Sports",T Sports
+ http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=0337229c3f681692019b28082560988b23e7b4c9-84859c699a15f1d6158d2418836e3885-1668513342-166850
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPk2MSDC/Bein-sport-logo.png" group-title="Sports",Bein esports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
@@ -257,7 +268,11 @@ http://161.248.38.40:8000/play/a071/index.m3u8
 http://116.90.120.152:8000/play/a0hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM79WRGQ/Star_Sports_2.webp" group-title="Sports",Star sports 2
-http://103.121.6.5:8000/play/a05u/index.m3u8
+http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d114mYdj/download.jpg" group-title="Sports",IPL
+http://stvlive.net:8080/sonyten5/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y089x3xr/images-(4).jpg" group-title="Sports",Star sports 2 Hindi
 http://111.88.78.21:8000/play/a0x8/index.m3u8
@@ -334,6 +349,9 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cRB01rT/images-(4).jpg" group-title="Kids",Sony yay
 http://103.229.254.25:7001/play/a0cl/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLPPNnTS/download.jpg" group-title="Kids",Hindi Cartoons
+ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Pxz3nL/2019-Disney-Channel-logo.jpg" group-title="Kids",Disney
 http://103.167.255.18:8085/play/a0kq/index.m3u8
 
@@ -348,6 +366,13 @@ http://111.88.78.21:8000/play/a0qo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmtzcT8L/Gubbare_cl.webp" group-title="Kids",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzp8bPpZ/download.jpg" group-title="Kids",Tom and Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28MQgWWX/images.png" group-title="Kids",Zoo Moo
+ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T31QR5LP/images_(6).jpg" group-title="Kids",Powerkids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -365,9 +390,14 @@ http://103.229.254.25:7001/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/fLJ8QWf6/images_(4).jpg" group-title="Nature",Discovery HD
 
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/bYR1YMtZ/download.png" group-title="Nature",Animal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony BBC Earth" tvg-logo="https://i.postimg.cc/RFNgxCL2/images_(5).jpg" group-title="Nature",Sony BBC Earth
 http://111.88.78.21:8000/play/a0uh/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/JhBd9mtJ/download.jpg" group-title="Nature",BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kantipur" tvg-logo="https://i.postimg.cc/xCzpHpYB/images-(5).jpg" group-title="Nepali",Kantipur
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
