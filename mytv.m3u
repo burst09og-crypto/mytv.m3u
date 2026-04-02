@@ -345,6 +345,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Hangama TV
 http://111.88.78.21:8000/play/a0z1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Green Gold TV
+https://prod-runn.cdn.runn.tv/greengold/stream/grngld/manifest/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNmxN7Qr/download.png" group-title="Kids",Super hangama
 http://103.161.153.165:8000/play/a05a/index.m3u8
 
