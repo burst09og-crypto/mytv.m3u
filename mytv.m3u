@@ -180,10 +180,10 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJb9hjQ1/SET_India_logo_svg.png" group-title="Entertainment",Sony
-http://103.113.103.202:8001/play/a02z/index.m3u8
+http://103.161.153.165:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKd51SYG/images_(4).jpg" group-title="Entertainment",And TV
-http://103.229.254.25:7001/play/a09v/index.m3u8
+http://103.161.153.165:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.postimg.cc/fyvxQ4zv/download.jpg" group-title="Entertainment",Dangal 2 (720p)
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
@@ -198,7 +198,7 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 http://103.78.149.54:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Sony sab
-http://103.229.254.25:7001/play/a0db/index.m3u8
+http://103.161.153.165:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D06bwL6W/images-(3).jpg" group-title="Entertainment",Star plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
@@ -438,3 +438,21 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood 
 http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-id="4K TRAVEL TV (1080p)"  group-title="Nature",4K TRAVEL TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
+
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="Music",Balle Balle (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=b8WZfP1_RIy
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
+#http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
+http://103.175.73.12:8080/live/23/23_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Prime
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Grend
+http://103.175.73.12:8080/live/19/19_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali" Me Tv
+https://ott-nettv-02.nettv.com.np/ott_abr/METVHDabr.stream/ottlive/MeTV.stream_480p/chunks.m3u8?nimblesessionid=9397113&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjozOTo1MSBBTSZoYXNoX3ZhbHVlPWN6YWVNZFRta3JJa09xLzFnL0grdUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
