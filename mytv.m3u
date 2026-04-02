@@ -201,8 +201,67 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyhW4j4t/Sony-WAH-Logo-(2022).png" group-title="Entertainment",Sony wah
 http://103.78.149.54:8000/play/a01p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyhW4j4t/Sony-WAH-Logo-(2022).png" group-title="Entertainment",Dice Media
+https://runn-filtercopy.keralive.workers.dev/dicmed/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyhW4j4t/Sony-WAH-Logo-(2022).png" group-title="Entertainment",Filter Copy
+https://runn-filtercopy.keralive.workers.dev/fltrcopy/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyhW4j4t/Sony-WAH-Logo-(2022).png" group-title="Movie",Bollywood Max
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Alright
+https://prod-runn.cdn.runn.tv/ruskmedia/stream/alrght/manifest/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Movie",Hollywood Desi
+https://cc-u6hadnoh0u6td.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/2f573e3e-f379-432f-8b30-351eb9c79a1c/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Sony sab
 http://103.161.153.165:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Kids",Doraemon 24 hrs
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Kids",KidsMatrix
+https://cc-le0kohm4qt3mk.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/6ea26bb9-c9ec-4d34-96a7-01e32e4f8844/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Cooking",Cook and Bake
+https://cc-swbj49v56imaw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/6dd10566-0676-44d5-8e4d-01a670b445c2/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Cooking",Foodie Hub
+https://cc-oq5ndvigrlkaa.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/d6cf4942-af05-470e-92e9-7c458fae484b/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",NH Bollygold
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Pocket Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",RUn Short Films
+https://supertamil.keralive.workers.dev/p_runshf/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Cine shorts Premier
+https://supertamil.keralive.workers.dev/p_cinshf/manifest/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Chanazor
+https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/cc78257e-2a03-4846-b2b2-56c674c2b94f/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Comedy Tadka
+https://sofast-lg.vgcdn.net/WiseM3U8_27/sofast/cleanhls/bitrate2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="KDrama", Korean TV
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/7c635890-7509-431d-b7a2-96b499668e92/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Youtube",Mr Beast
+https://playyonogames.in/sliv/stream.m3u8?live=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f2669bc6c4bcb492fb00d7dc4b3fb952a85f632e6e8b0aef805a795e842d48ec445205f1ace04205b59a53f4235892321d8823e7327d63b3e0de0c0c5ffc4f5792d111d887107cd1a8389bebc142989549566e8f04212932f319104ec4e9d5929adcca326e243725d245c867acc2708baeb444c3aef14e276ac8fc769b24d3e31e194d60d995bc6a4bd3925a8df3f975cb6ff2caabaf700b4e5769711f28cbe16d6d098b25b43bb90a6e31d9dbf30d2de1f533e2c398aa1bdc2d25ef6858bed5d6771e2571e9898c4b259e2a61d3565fac148d03f2a77ba2f34589d786688be841bfa814f181195f5f676fcfc2e9ed1d32f0c4c756eeab4dfe1e988c3b3df94e854a80e4b040af58743ccd808b6452a27a1329c6859e43d175a77e398aa24c18b1c1711086a458b84cf07eb1734d8fc74d89e06660efee1de3be1ea263d6d1f79554a62279f7430a1d360ae31039d98b5e3fa000c774ff2e4d973fbfb558b0a9550cefbc23d557adc0a81b6a2b315f368fed0c28ffcd39bb94b903fcffad2e6e53a1a0cb4bf01b30c931ef120235fc01647&segment=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Nepali",Sajha Tv
+https://webott.viatv.com.np/v0t1/SajhaTV.stream/chunks.m3u8?nimblesessionid=22965104
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Nepali",Seven Star 4k TV
+https://webott.viatv.com.np/v0t1/7star.stream/chunks.m3u8?nimblesessionid=22965187
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D06bwL6W/images-(3).jpg" group-title="Entertainment",Star plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
@@ -294,6 +353,9 @@ http://stvlive.net:8080/sonyten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y089x3xr/images-(4).jpg" group-title="Sports",Star sports 2 Hindi
 http://111.88.78.21:8000/play/a0x8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y089x3xr/images-(4).jpg" group-title="Sports",Real Madrid TV HD
+https://b96bc664.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzLWNhX1JlYWxNYWRyaWRfSExT/b0850e98-a958-444f-b4ce-0235c647c0ba/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVYSJ47S/Star-Sports3India.webp" group-title="Sports",Star sports 3
 http://103.121.6.5:8000/play/a05y/index.m3u8
 
@@ -320,6 +382,9 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52RKhStY/images-(2).png" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52RKhStY/images-(2).png" group-title="Music",Saregama Hindi
+https://saregama.keralive.workers.dev/saregama/live_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJPtvdY0/B4U_Music_logo_2014.webp" group-title="Music",B4u music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
@@ -348,8 +413,27 @@ http://111.88.78.21:8000/play/a0z1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Green Gold TV
 https://prod-runn.cdn.runn.tv/greengold/stream/grngld/manifest/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Power Rangers
+https://aka-live1050.delivery.roku.com/5f50daaa-1789-48e2-b536-559a5a86a052/t2-origin/out/v1/live_404.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Oggy and the Cockroaches
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Powerkids Kartoon Channel
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/bfeebc45-a54f-41d4-9201-5d93d4b3425e/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNmxN7Qr/download.png" group-title="Kids",Super hangama
 http://103.161.153.165:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="KDrama",KDrama Plus
+https://d3mlyypr4o0lnu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/b0803935-e062-4caf-a49b-71a4f44fe710/0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="KDrama",Studio Genie KDrama
+https://d1rj7ynwht55e7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e34fd0nr7780g/0992be22-781e-4ca5-bc0c-d886a64c31b0/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M4W7VJz/images-(1).jpg" group-title="Kids",Unique TV
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
@@ -462,7 +546,8 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 http://103.175.73.12:8080/live/19/19_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Me Tv
-https://ott-nettv-02.nettv.com.np/ott_abr/METVHDabr.stream/ottlive/MeTV.stream_480p/chunks.m3u8?nimblesessionid=804&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
+https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8?nimblesessionid=22965631
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",AP1HD
 https://ott-nettv-01.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo0NDo0MiBBTSZoYXNoX3ZhbHVlPVArcVBFWVl2NFk4dmhSaVgyYU05M3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
 
@@ -484,7 +569,7 @@ https://ott-lb.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8?wmsAuthSign=ht
 https://ott-lb.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8?wmsAuthSign=https://ott-nettv-02.nettv.com.np/ott_abr/jantahdabr.stream/ottlive/netJANTATV720.stream/chunks.m3u8?nimblesessionid=202&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Yoho HD
-https://ott-nettv-01.nettv.com.np/iptvlivestream/netYohoTv1500.stream/chunks.m3u8?nimblesessionid=80912548&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1MDoyMyBBTSZoYXNoX3ZhbHVlPVhYcWE2NlZxTDBuWndtYmRJNHJYZ0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
+https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8?nimblesessionid=22965701
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Global Tv HD
 https://ott-nettv-01.nettv.com.np/iptvlivestream/netGlobalTvNep.stream/chunks.m3u8?nimblesessionid=80912195&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1MDoyMyBBTSZoYXNoX3ZhbHVlPVhYcWE2NlZxTDBuWndtYmRJNHJYZ0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
@@ -492,8 +577,7 @@ https://ott-nettv-01.nettv.com.np/iptvlivestream/netGlobalTvNep.stream/chunks.m3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",News 24
 https://ott-nettv-01.nettv.com.np/ott_abr/news24abr.sstream/ottlive/netNEWSHIGH.stream/chunks.m3u8?nimblesessionid=80923410&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Sagarmatha TV
-https://ott-nettv-01.nettv.com.np/ott_abr/sagarmathaabr.stream/ottlive/netSAGARHIGH.stream/chunks.m3u8?nimblesessionid=80913916&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
-
+https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8?nimblesessionid=22965371
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",ABC News HD
 https://ott-nettv-01.nettv.com.np/ott_abr/abcnewsabr.stream/ottlive/netABCHIGH.stream/chunks.m3u8?nimblesessionid=80914362&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
