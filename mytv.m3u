@@ -572,8 +572,7 @@ https://ott-lb.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8?wmsAuthSign=ht
 https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Global Tv HD
-https://ott-nettv-01.nettv.com.np/iptvlivestream/netGlobalTvNep.stream/chunks.m3u8?nimblesessionid=80912195&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1MDoyMyBBTSZoYXNoX3ZhbHVlPVhYcWE2NlZxTDBuWndtYmRJNHJYZ0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
-
+https://webott.viatv.com.np/v0t1/GlobalTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",News 24
 https://ott-nettv-01.nettv.com.np/ott_abr/news24abr.sstream/ottlive/netNEWSHIGH.stream/chunks.m3u8?nimblesessionid=80923410&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Sagarmatha TV
@@ -621,19 +620,19 @@ https://webott.viatv.com.np/v0t1/PublicTV.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/Tvtoday.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Himshikhar TV
+https://webott.viatv.com.np/v0t1/HimshikharTv.stream/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Bagmati TV
+https://webott.viatv.com.np/v0t1/BagmatiTv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",National Gold TV
+https://webott.viatv.com.np/v0t1/NationalGoldTv.stream/chunks.m3u8
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Suryadaya TV
+https://webott.viatv.com.np/v0t1/SuryadayaTv.stream/chunks.m3u8
 
 
 
