@@ -633,8 +633,8 @@ https://webott.viatv.com.np/v0t1/NationalGoldTv.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/SuryadayaTv.stream/chunks.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Zee Nepal TV
+https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
 
 
 
