@@ -563,11 +563,10 @@ https://ntvedge.truestreamz.com/ntvlive/ntvplus-abr.stream/ntvlive/ntvplus406.st
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Prime HD
-https://ott-lb.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8?wmsAuthSign=https://ott-nettv-02.nettv.com.np/ott_abr/primetvabr.stream/ottlive/netPRIMETVHIGH.stream/chunks.m3u8?nimblesessionid=70&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc==
+https://ott-nettv-02.nettv.com.np/ott_abr/primetvabr.stream/ottlive/netPRIMETVHIGH.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Janata HD
-https://ott-lb.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8?wmsAuthSign=https://ott-nettv-02.nettv.com.np/ott_abr/jantahdabr.stream/ottlive/netJANTATV720.stream/chunks.m3u8?nimblesessionid=202&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc==
-
+https://webott.viatv.com.np/v0t1/JanataTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Yoho HD
 https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8
 
@@ -596,8 +595,7 @@ https://ott-nettv-02.nettv.com.np/iptvlivestream/rajya4k.stream/chunks.m3u8?nimb
 https://ott-nettv-02.nettv.com.np/iptvlivestream/netSPACE4K.stream/chunks.m3u8?nimblesessionid=9399420&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Ray Tv
-https://ott-nettv-01.nettv.com.np/iptvlivestream/BijayKilla.stream/chunks.m3u8?nimblesessionid=80917042&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
-
+https://webott.viatv.com.np/v0t1/RayTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",Image HD
 https://ott-nettv-02.nettv.com.np/ott_abr/imageabr.stream/ottlive/netIMAGEHIGH.stream/chunks.m3u8?nimblesessionid=9399672&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
 
