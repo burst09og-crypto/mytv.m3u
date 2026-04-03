@@ -456,7 +456,7 @@ http://103.229.254.25:7001/play/a0cl/index.m3u8
  https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Pxz3nL/2019-Disney-Channel-logo.jpg" group-title="Kids",Disney
-http://103.167.255.18:8085/play/a0kq/index.m3u8
+https://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZvCrgTb/Nick-Hindi.png" group-title="Kids",Nick
 http://103.229.254.25:7001/play/a0cq/index.m3u8
@@ -619,7 +619,6 @@ https://webott.viatv.com.np/v0t1/PublicTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Nepali",TV Today
 https://webott.viatv.com.np/v0t1/Tvtoday.stream/chunks.m3u8
-
 
 
 
