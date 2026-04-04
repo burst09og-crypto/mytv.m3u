@@ -810,3 +810,12 @@ https://muc002.myturn1.top:8088/live/webcricn02/playlist.m3u8?vidictid=205477009
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",IPL Hindi
 https://muc002.myturn1.top:8088/live/webcrichindi/playlist.m3u8?vidictid=205476115162&id=119771&pk=dfbb8a11f0930887060f7ed08e388fd18d0d53224d811119f84c6568c86409e9ab4e503d360532b216fc37acf43f56a5549ccfbb520e354c6eca6b94ad4516a9
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Laliga China
+http://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",RM Match
+https://1a-1791.com/live/za4hy30t/slot-149/y4kj-8ls2_1080p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Serie A
+https://24a1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=45a8f21da340ad53e019bd0a2cda3231f72503bc-e3-1775364086-1775310086
