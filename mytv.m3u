@@ -618,7 +618,7 @@ https://ott-nettv-01.nettv.com.np/iptvlivestream/national-chitwan.stream/chunks.
 https://webott.viatv.com.np/v0t1/NagarikTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC0MJCTL/download.png" group-title="Nepali",Arena TV
-https://webott.viatv.com.np/v0t1/Arenatv.stream/chunks.m3u8
+https://ott-nettv-01.nettv.com.np/iptvlivestream/arenatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1kMxCHJ/download.jpg" group-title="Nepali",Public TV
 https://webott.viatv.com.np/v0t1/PublicTV.stream/chunks.m3u8
@@ -644,6 +644,55 @@ https://webott.viatv.com.np/v0t1/SuryadayaTv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hj5WzXbM/download.png" group-title="Nepali",Zee Nepal TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg0QwccH/download.jpg" group-title="Nepali",City One HD
+https://ott-nettv-02.nettv.com.np/iptvlivestream/netCity1HD1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkKnQLWC/download.jpg" group-title="Nepali",Prisma TV HD
+https://ott-nettv-02.nettv.com.np/iptvlivestream/netPrismaHD.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDTsMxH5/download.jpg" group-title="Nepali",Makalu Tv
+https://ott-nettv-01.nettv.com.np/iptvlivestream/netMakaluTvHD.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85Zq67DW/images.jpg" group-title="Nepali",Kastamandap Gold TV
+https://ott-nettv-01.nettv.com.np/iptvlivestream/KARUWATV.STREAM/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdYRgfT/download.jpg" group-title="Nepali",Nepali Network TV
+https://ott-nettv-01.nettv.com.np/iptvlivestream/netNepalNetwork.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0rRZMv61/download.jpg" group-title="Nepali",Kastamandap Tv
+https://ott-nettv-02.nettv.com.np/iptvlivestream/Kasthmandap/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ytqFBV4/download.jpg" group-title="Nepali",Araniko Tv
+https://ott-nettv-01.nettv.com.np/iptvlivestream/xraytv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKzvQcVR/download.jpg" group-title="Nepali",TV Birgunj HD
+https://ott-nettv-02.nettv.com.np/iptvlivestream/netTvBirgunjHD.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hj6ZR6B4/download.jpg" group-title="Nepali",Red Tv HD
+https://ott-nettv-01.nettv.com.np/iptvlivestream/REDTV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyYCnbC8/download.jpg" group-title="Nepali",Prithivi TV
+https://ott-nettv-02.nettv.com.np/iptvlivestream/PrithiviTv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NjXfcJH/download.png" group-title="Nepali",Sunrise Tv
+https://ott-nettv-01.nettv.com.np/iptvlivestream/SunriseTv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqpYq8qV/download.jpg" group-title="Nepali",TNN HD
+https://ott-nettv-01.nettv.com.np/iptvlivestream/netPanchaliTv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dfc4Dsdt/download.jpg" group-title="Nepali",One Plus HD
+https://ott-nettv-01.nettv.com.np/iptvlivestream/OnePlusHD.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50bNq7GN/download.png" group-title="Nepali",GTV
+https://ott-nettv-02.nettv.com.np/iptvlivestream/netGTV1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",City One HD
+
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",City One HD
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c48Z3Bz0/download.jpg" group-title="Kids",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
