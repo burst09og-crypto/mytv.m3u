@@ -642,3 +642,5 @@ https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Kids",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Youtube",Mr. Beast HD
+https://csm-e-cetubilusordlive-84853345.csm.tubi.video/csm/live/750520276.m3u8?playback_start_ts=1775272022&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
