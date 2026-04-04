@@ -762,11 +762,45 @@ https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/63d0269d60bc8f000890f
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6972546cc62833833a187f50livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjA4ZjNlZjJiLTlkNGItNGJjOS04NDAzLTkzODk0MzkyNGFkNCIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NTM0NTI0OSwiaWF0IjoxNzc1MjU4ODQ5LCJqdGkiOiJlNjliYzQxMi1lYjVlLTQ2NGQtOTBiOS1iMGQ3YWZhMGZhOTEifQ.DZPvLTLuMqzd_9lh9AZoc2UaN6tc35hunw8ufWDcJP8&profilesFromStream=true
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Premier League
+https://live5.msrktz.app/live/97312754.m3u8
+https://8c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=a759bdfbf5d4d157ba7c78cbad5c1161befe093e-10-1775348936-1775294936
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Laliga TV
+https://24a1.streameasthd.net/espnplus2/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=6b2539a67dd8e351e4f0ebb566b7130e2296f820-01-1775349039-1775295039
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Saudi Pro League HD
+https://24a1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=49f938e053f4ce15a137a0779542f74277a608dd-91-1775349106-1775295106
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",F1
+https://pecdl1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=a5573cba2586f99a371f95de5bcf0cbe19f04a64-42-1775349338-1775295338
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Now Sports 2
+https://a4.kora-plus.dad/watch/now2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",BeIN Sports 3
+https://a1.kora-plus.dad/watch/b3.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",BeIN Sports 1 Prem
+https://a1.kora-plus.dad/watch/b1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",FA CUP
+https://storage.googleapis.com/unxwerrtitoobrixa1/mux_video_ts/index-1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",SKy Sports Bundesliga 5
+https://a4.kora-plus.dad/watch/bundes5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",SKy Sports Bundesliga 3
+https://a1.kora-plus.dad/watch/bundes3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Dazn Serie A
+https://a1.kora-plus.dad/watch/daznit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Star playz sports
+https://a4.kora-plus.dad/watch/ad1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Sky Sports Bundesliga
+https://a1.kora-plus.dad/watch/bundes2.m3u8
