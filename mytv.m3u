@@ -552,20 +552,19 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ypV4sKN/download.jpg" group-title="Nepali",AP1HD
-https://ott-nettv-01.nettv.com.np/ott_abr/ap1hdabr.stream/playlist.m3u8
+https://ott-nettv-01.nettv.com.np/ott_abr/ap1hdabr.stream/ottlive/netAP1HD720.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowMjoxNCBBTSZoYXNoX3ZhbHVlPUs5VWU5T0w2SHliVGhwOXUwT2tXeXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1Pv4kTr/download.jpg" group-title="Nepali",Himalayan Tv
-https://ott-nettv-02.nettv.com.np/ott_abr/himalayahdabr.stream/ottlive/netHIMALAYA720.stream/chunks.m3u8?nimblesessionid=1906&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
+https://ott-nettv-01.nettv.com.np/ott_abr/himalayahdabr.stream/ottlive/netHIMALAYA720.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowMjoxNCBBTSZoYXNoX3ZhbHVlPUs5VWU5T0w2SHliVGhwOXUwT2tXeXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYqVJ0bV/download.png" group-title="Nepali",Nepal Tv
-https://ntvedge.truestreamz.com/ntvlive/ntvnational-abr.stream/ntvlive/ntvnational720P.stream/chunks.m3u8?nimblesessionid=1122865&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgODo0MzowNiBBTSZoYXNoX3ZhbHVlPVA0aXZqalJjb3hNWjdFaFd1MnVsUXc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
+https://ott-nettv-01.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowMjoxNCBBTSZoYXNoX3ZhbHVlPUs5VWU5T0w2SHliVGhwOXUwT2tXeXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXnJ0bYt/download.jpg" group-title="Nepali",NTV News
 https://ntvedge.truestreamz.com/ntvlive/ntvnews-abr.stream/ntvlive/ntvnews720P.stream/chunks.m3u8?nimblesessionid=1122907&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgODo0NTo1MSBBTSZoYXNoX3ZhbHVlPXZ4OGhlZk8za01HVWVIelArMmd4NUE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCD8x9XP/download.png" group-title="Nepali",NTV Plus
-https://ntvedge.truestreamz.com/ntvlive/ntvplus-abr.stream/ntvlive/ntvplus406.stream/chunks.m3u8?nimblesessionid=1122893&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgODo0NToxNyBBTSZoYXNoX3ZhbHVlPTlxTS8rckhHQmtYZHB1ME96bmVSVFE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
-
+https://ott-nettv-01.nettv.com.np/ott_abr/ntvplushdabr.stream/ottlive/netNTVPLUS720.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGJPCRyV/download.jpg" group-title="Nepali",Prime HD
 https://ott-nettv-02.nettv.com.np/ott_abr/primetvabr.stream/ottlive/netPRIMETVHIGH.stream/chunks.m3u8
@@ -580,16 +579,16 @@ https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/GlobalTv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj9CKSwc/download.jpg" group-title="Nepali",News 24
-https://ott-nettv-01.nettv.com.np/ott_abr/news24abr.sstream/ottlive/netNEWSHIGH.stream/chunks.m3u8?nimblesessionid=80923410&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
+https://ott-nettv-01.nettv.com.np/ott_abr/news24abr.sstream/ottlive/netNEWSHIGH.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmL4xNnM/download.jpg" group-title="Nepali",Sagarmatha TV
 https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMdhzqbr/download.jpg" group-title="Nepali",ABC News HD
-https://ott-nettv-01.nettv.com.np/ott_abr/abcnewsabr.stream/ottlive/netABCHIGH.stream/chunks.m3u8?nimblesessionid=80914362&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
+https://ott-nettv-01.nettv.com.np/ott_abr/abcnewsabr.stream/ottlive/netABCHIGH.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb2jmf69/download.jpg" group-title="Nepali",Aveneus Tv
-https://ott-nettv-02.nettv.com.np/ott_abr/avenuesabr.stream/ottlive/netAVENEWSHIGH.stream/chunks.m3u8?nimblesessionid=9398991&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjYgNjo1NDoyMiBBTSZoYXNoX3ZhbHVlPXU4TFVRalBUWk04SjNmZlpTaXdYdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXlPRFEzT0RFc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjZsUkdYaFZCV2JxTnI1Z3VGLUZXSC02YWczMlJ6MEw1Wlc3bGo0SzY3SGc=
+https://ott-nettv-02.nettv.com.np/ott_abr/avenuesabr.stream/ottlive/netAVENEWSHIGH.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26sqdSCh/download.png" group-title="Nepali",Life Ok Nepal
@@ -687,10 +686,25 @@ https://ott-nettv-01.nettv.com.np/iptvlivestream/OnePlusHD.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50bNq7GN/download.png" group-title="Nepali",GTV
 https://ott-nettv-02.nettv.com.np/iptvlivestream/netGTV1500.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Nepali",City One HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXW4K954/2022-06-12-085022-62a557f20885e-png.png" group-title="Nepali",Rapti Darpan HD
+https://ott-nettv-02.nettv.com.np/iptvlivestream/netRAPTITV.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrGyDyd/2020-07-01-110119-5efc1c2356a90-png.jpg" group-title="Nepali",Birat Television
+https://ott-nettv-02.nettv.com.np/iptvlive_abr/birattvabr.stream/iptvlivestream/netBIRATTV1500.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
-#EXTINF:-1 tvg-logo=" " group-title="Nepali",City One HD
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
 
 
 
