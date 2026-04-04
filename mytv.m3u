@@ -804,3 +804,8 @@ https://a4.kora-plus.dad/watch/ad1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",Sky Sports Bundesliga
 https://a1.kora-plus.dad/watch/bundes2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvLr4Ty/Willow-Sports-dark-Background-1500-1000-color.webp" group-title="Sports",IPL1
+https://muc002.myturn1.top:8088/live/webcricn02/playlist.m3u8?vidictid=205477009469&id=115656&pk=dfbb8a11f0930887060f7ed08e388fd18d0d53224d811119f84c6568c86409e9ab4e503d360532b216fc37acf43f56a5549ccfbb520e354c6eca6b94ad4516a9
+
+
