@@ -419,7 +419,7 @@ https://prod-runn.cdn.runn.tv/greengold/stream/grngld/manifest/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W19bs1qt/download.jpg" group-title="Kids",Power Rangers
 https://aka-live1050.delivery.roku.com/5f50daaa-1789-48e2-b536-559a5a86a052/t2-origin/out/v1/live_404.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Oggy and the Cockroaches
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxc7PHnR/Oggy-and-the-Cockroaches-Logo.webp" group-title="Kids",Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9FpNNnk/Enf-Ksg6UYAEIzn-Q.jpg" group-title="Kids",Doraemon
