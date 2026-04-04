@@ -250,6 +250,10 @@ https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/manifest/611
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="Entertainment",Comedy Tadka
 https://sofast-lg.vgcdn.net/WiseM3U8_27/sofast/cleanhls/bitrate2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="KDrama", K Content
+https://cc-o7iz6ey4x2e4g.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/a1765a24-af3d-414c-8fcd-ac67b3d62d15/0.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLh37Bgw/images-(2).jpg" group-title="KDrama", Korean TV
 https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/7c635890-7509-431d-b7a2-96b499668e92/0.m3u8
 
