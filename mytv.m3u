@@ -46,10 +46,13 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 https://tvpass.org/live/USANetworkEast/sd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f10j2S2/images-(15).jpg" group-title="Movie",All time movies
-http://103.78.149.54:8000/play/a00i/index.m3u8
+https://mumt03.tangotv.in/ALLTIMEMOVIES/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Z45VK9/images-(1).jpg" group-title="Movie",Max movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY5KTm8L/Chat-GPT-Image-Oct-15-2025-10-21-50-PM-1-200x300.png" group-title="Movie",8XM
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movie",Max music
 
@@ -270,7 +273,7 @@ http://103.229.254.25:7001/play/a09z/index.m3u8
 http://103.121.6.5:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1mwsGr7/images_(7).jpg" group-title="Entertainment",MH One Dil Se (576p)
-https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+https://mumt01.tangotv.in/MHONEDILSE/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK53nsdC/images_(6).jpg" group-title="Entertainment",Zee Dil se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
@@ -717,3 +720,38 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd1X2JkD/download.jpg" group-title="Youtube",Mr. Beast HD
 https://csm-e-cetubilusordlive-84853345.csm.tubi.video/csm/live/750520276.m3u8?playback_start_ts=1775272022&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66n61Gn0/Chat-GPT-Image-Jan-22-2026-09-07-34-PM-1-200x300.png" group-title="Comedy",Kings of Comedy
+https://cc-ejrl4az77gvl4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejrl4az77gvl4/89439f8d-a2d4-48bd-9119-19d675a13eb4/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jfT1x9n/Chat-GPT-Image-Apr-1-2026-10-11-30-AM-1-200x300.png" group-title="Comedy",Comedy King
+https://d348ydbk2sf0eq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ttp5jxbr5oygy/d5634014-eff2-47fb-a68a-5d2a379c7446/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHJTjm2s/Chat-GPT-Image-Dec-30-2025-03-59-00-PM-1-200x300.png" group-title="Entertainment",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklist_b1628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF0fLLNg/download.jpg" group-title="Music",Shemaroo Filmy Gaane
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv26pdmN/Chat-GPT-Image-Oct-4-2025-03-44-00-PM-1-200x300.png" group-title="Crime",House of Crime
+https://cc-y2z89muounal4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/cb64ba44-28ef-4500-88ff-5d9b4079b129/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wNbf6fW/Chat-GPT-Image-Sep-8-2025-09-53-44-PM-1-200x300.png" group-title="Movie",Big Star Bollywood
+https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w1941138316.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC5mTLbd/Chat-GPT-Image-Dec-18-2025-12-18-43-PM-1-200x300.png" group-title="Movie",Bollywood4U
+https://streams2.sofast.tv/ptnr-whaletv/title-BOLLYWOOD-4U-ENG_WHALETV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/f89681f7-77ad-4107-aff3-74c8a14a0ad6/1583fbba-8ce9-465c-a194-3fb024bcc876/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MFXkW5B/download.jpg" group-title="Entertainment",Sony KAl
+https://e77bef9b.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/7dac79a3-149d-4e36-817b-29c2150b0903/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkfYvfvh/download.png" group-title="Music",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQwhLNnQ/Chat-GPT-Image-Jan-17-2026-01-23-34-PM-1-200x300.png" group-title="Entertainment",Q TV
+https://mumt05.tangotv.in/THEQ/tracks-v2a1/mono.m3u8
+
+
+
+
