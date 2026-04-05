@@ -772,11 +772,11 @@ https://live5.msrktz.app/live/97312754.m3u8
 https://8c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=a759bdfbf5d4d157ba7c78cbad5c1161befe093e-10-1775348936-1775294936
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3qFT3xk/download.png" group-title="Sports",Laliga TV
+https://a4.kora-plus.dad/watch/now2.m3u8
 https://24a1.streameasthd.net/espnplus2/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=6b2539a67dd8e351e4f0ebb566b7130e2296f820-01-1775349039-1775295039
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqPQ8XVF/download.jpg" group-title="Sports",Saudi Pro League HD
-https://24a1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=49f938e053f4ce15a137a0779542f74277a608dd-91-1775349106-1775295106
-
+https://a1.kora-plus.dad/watch/thman2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzHqW39L/download.jpg" group-title="Sports",F1
 https://pecdl1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=a5573cba2586f99a371f95de5bcf0cbe19f04a64-42-1775349338-1775295338
@@ -835,6 +835,25 @@ https://70.hls-syria.live/live/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyrwzh4v/download.jpg" group-title="Entertainment",Colors Rishtey
 http://xxip25.top:8080/live/V9uBS5/971043/125806.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgPndMzp/download.png" group-title="Sports",Espn _
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgPndMzp/download.png" group-title="Sports",Espn +2
 https://darmasaki888.s3.us-east-1.amazonaws.com/bucks_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgPndMzp/download.png" group-title="Sports",Bundesliga
+https://70.hls-syria.live/live/shahid1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJsg8MtP/bein-sports-1.jpg" group-title="Sports",Bein Sports 1 HD
+https://70.hls-syria.live/live/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzh459B9/70ud6o1656963115.png" group-title="Sports",Sky Sports Calcio
+https://a1.kora-plus.dad/watch/calcio.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgMCqx0w/download.jpg" group-title="Sports",TNT Sports 1
+https://a1.kora-plus.dad/watch/tnt1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xk1kFWP/download.jpg" group-title="Sports",Dazn 1
+https://a1.kora-plus.dad/watch/daznde1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2HtMWGZ/Sky-Sports-ME-2020-logo-250.png" group-title="Sports",Sky Sports Main Event
+https://a1.kora-plus.dad/watch/main.m3u8
 
