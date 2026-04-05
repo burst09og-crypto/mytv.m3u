@@ -49,7 +49,10 @@ https://tvpass.org/live/USANetworkEast/sd
 https://mumt03.tangotv.in/ALLTIMEMOVIES/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Z45VK9/images-(1).jpg" group-title="Movie",Max movies
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+https://live.maxtn.in/maxmovies/maxmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63H0dCG1/mh-1-movies-in.png" group-title="Movie",Mh1 movies
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY5KTm8L/Chat-GPT-Image-Oct-15-2025-10-21-50-PM-1-200x300.png" group-title="Movie",8XM
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
@@ -369,7 +372,7 @@ http://103.78.149.54:8000/play/a02i/index.m3u8
 https://24a1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=ec5a6008e9c1cdce793ef0ddb2ad7bae591e2398-c7-1775287457-1775233457
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x5j6rXS/images_(3).jpg" group-title="Music",Max music
-https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+https://live.maxtn.in/maxmusic/maxmusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLkMvZCJ/9xm_red.jpg" group-title="Music",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
@@ -399,7 +402,7 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMQxPzy3/images_(1).jpg" group-title="Music",Mh1 music
-http://103.140.254.2:3500/live/742.m3u8
+https://mumt04.tangotv.in/MHONE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DesiChannel.in@SD"  tvg-logo="https://i.postimg.cc/gc4XpHyL/download.png" group-title="Music",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
@@ -542,7 +545,7 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLG82Hbp/download.jpg" group-title="Music",Balle Balle (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=b8WZfP1_RIy
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movie",Manoranjan Movies
 #http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
@@ -824,7 +827,7 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Cooking",Food Food
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QpLBDK7/Food-Food.png" group-title="Cooking",Food Food
 http://xxip25.top:8080/live/V9uBS5/971043/125807.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Entertainment",Colors Rishtey
