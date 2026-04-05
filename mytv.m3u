@@ -863,3 +863,6 @@ https://a1.kora-plus.dad/watch/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XKwRwHj/USA-Network-logo-original-svg.png" group-title="Sports",USA Network HD
 https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NGdLvx4/fjy5d31700902671.png" group-title="Sports",Sports TV 3
+https://a4.kora-plus.dad/watch/tv3.m3u8
