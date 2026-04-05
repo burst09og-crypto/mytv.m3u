@@ -413,8 +413,8 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHw9QYTF/download.jpg" group-title="Kids",Green Chillies TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8?ads.vf=iDj4O1BVx1u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Hangama TV
-http://111.88.78.21:8000/play/a0z1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbGXKLr/images-(1).png" group-title="Kids",Hungama TV
+http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN9wFTzs/download.jpg" group-title="Kids",Green Gold TV
 https://prod-runn.cdn.runn.tv/greengold/stream/grngld/manifest/1.m3u8
@@ -437,6 +437,8 @@ http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNr11Bcb/download.png" group-title="KDrama",KDrama Plus
 https://d3mlyypr4o0lnu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/b0803935-e062-4caf-a49b-71a4f44fe710/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43xkSVJ4/Nick-Jr-logo-2023-(outline)-svg.png" group-title="Kids",Nick Jr
+http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twn65d1g/download.jpg" group-title="KDrama",Studio Genie KDrama
 https://d1rj7ynwht55e7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e34fd0nr7780g/0992be22-781e-4ca5-bc0c-d886a64c31b0/0.m3u8
@@ -463,7 +465,7 @@ http://103.229.254.25:7001/play/a0cl/index.m3u8
  https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Pxz3nL/2019-Disney-Channel-logo.jpg" group-title="Kids",Disney
-https://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
+http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZvCrgTb/Nick-Hindi.png" group-title="Kids",Nick
 http://103.229.254.25:7001/play/a0cq/index.m3u8
