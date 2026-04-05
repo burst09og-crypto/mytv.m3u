@@ -818,8 +818,7 @@ http://live5.msrktz.app/live/79665343.m3u8
 https://1a-1791.com/live/za4hy30t/slot-149/y4kj-8ls2_1080p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y4L4S2b/download.jpg" group-title="Sports",Serie A
-https://24a1.streameasthd.net/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=116.66.195.198&token=45a8f21da340ad53e019bd0a2cda3231f72503bc-e3-1775364086-1775310086
-
+https://70.hls-syria.live/live/ad1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6pc5Tvh/arirang-logo-png-seeklogo-208999.webp" group-title="KDrama",Arirang TV
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
@@ -830,7 +829,10 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QpLBDK7/Food-Food.png" group-title="Cooking",Food Food
 http://xxip25.top:8080/live/V9uBS5/971043/125807.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Entertainment",Colors Rishtey
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LdkVtJc/images.png" group-title="Sports",Bein Sports 2
+https://70.hls-syria.live/live/bein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyrwzh4v/download.jpg" group-title="Entertainment",Colors Rishtey
 http://xxip25.top:8080/live/V9uBS5/971043/125806.m3u8
 
 
