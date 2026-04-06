@@ -873,3 +873,39 @@ https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGdKcHH/download.png" group-title="Sports",Bein Sports 3
 https://planetary.lovetier.bz/beINAR3/tracks-v1a1/mono.m3u8?token=YmVJTkFSM3xub19jaGVja19pcHwxNzc1NDU5MTc2.b8c10419281ca36d7519087db703b580c4d6969d5e456a3a3bee9e3887c09f26
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGdKcHH/download.png" group-title="Sports",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGdKcHH/download.png" group-title="Game and Esports",Esports MAx
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGdKcHH/download.png" group-title="Sports",Fox Sports HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
