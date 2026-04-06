@@ -853,6 +853,7 @@ https://a1.kora-plus.dad/watch/calcio.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgMCqx0w/download.jpg" group-title="Sports",TNT Sports 1
+http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=8941
 https://a1.kora-plus.dad/watch/tnt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xk1kFWP/download.jpg" group-title="Sports",Dazn 1
@@ -866,3 +867,7 @@ https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NGdLvx4/fjy5d31700902671.png" group-title="Sports",Sports TV 3
 https://a4.kora-plus.dad/watch/tv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGdKcHH/download.png" group-title="Sports",Claro Sports Mexico
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+
