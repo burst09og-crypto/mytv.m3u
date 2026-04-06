@@ -890,10 +890,11 @@ https://a1.kora-plus.dad/watch/daznit.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjCNrxF/download.png" group-title="Sports",Dazn Italy 2
 https://simpleblog.shop/default/1/default.default
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjCNrxF/download.png" group-title="Sports",Alwan 2 
+https://a1.kora-plus.dad/watch/alwan2.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjCNrxF/download.png" group-title="Sports",Sky Sports Football 
+https://a4.kora-plus.dad/watch/skyf.m3u8
 
 
 
