@@ -585,7 +585,7 @@ https://ott-nettv-01.nettv.com.np/ott_abr/primetvabr.stream/ottlive/netPRIMETVHI
 https://webott.viatv.com.np/v0t1/JanataTv.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVKybxWv/download.jpg" group-title="Nepali",Yoho HD
-https://ott-nettv-01.nettv.com.np/iptvlivestream/netYohoTv1500.stream/chunks.m3u8
+https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvYBb2kP/download.png" group-title="Nepali",Global Tv HD
 https://webott.viatv.com.np/v0t1/GlobalTv.stream/chunks.m3u8
@@ -637,13 +637,13 @@ https://ott-nettv-01.nettv.com.np/iptvlivestream/arenatv.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/PublicTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4t35G3X/download.png" group-title="Nepali",TV Today
-https://ott-nettv-02.nettv.com.np/ott_abr/tvtodayabr.stream/ottlive/netTVTODAYHIGH.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzozNTozOSBBTSZoYXNoX3ZhbHVlPXdWaGVseUxZZ0kzZGVDamk2KzF3dkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
-
+https://webott.viatv.com.np/v0t1/Tvtoday.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq1f0bWb/download.jpg" group-title="Nepali",Himshikhar TV
 https://webott.viatv.com.np/v0t1/HimshikharTv.stream/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNh6p5rb/Chat-GPT-Image-Mar-3-2026-01-37-58-PM-1-185x278.png" group-title="Nepali",Mukundasen
+https://webott.viatv.com.np/v0t1/Tvtoday.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCRGtmFK/download.jpg" group-title="Nepali",Bagmati TV
 https://webott.viatv.com.np/v0t1/BagmatiTv.stream/chunks.m3u8
@@ -654,6 +654,8 @@ https://webott.viatv.com.np/v0t1/NationalGoldTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nt2n20k/download.jpg" group-title="Nepali",Suryadaya TV
 https://webott.viatv.com.np/v0t1/SuryadayaTv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPs88M2/Chat-GPT-Image-Mar-3-2026-01-52-17-PM-1-185x278.png" group-title="Nepali",Pokhara TV
+https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hj5WzXbM/download.png" group-title="Nepali",Zee Nepal TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
