@@ -9,11 +9,23 @@ https://26.run.place:9443/today/star_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",City TV
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Sky Sports Austria 2
+https://a4.kora-plus.dad/watch/aust2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Bein Sports 1 (1080p)
+https://a1.kora-plus.dad/watch/b1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Seven Two HD
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Spotv 2
 https://hls.iill.top/api/Spotv-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Premier Sports 1
+https://a4.kora-plus.dad/watch/prem1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",beIN Sports 2 HD
+https://a4.kora-plus.dad/watch/b2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXPsYLP/images_(9).jpg" group-title="Sports",Champions TV HD
 http://smt.4666888.xyz/lr/dLQOnEmhjW6uZWslpNm7jNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=2aa88877&cd=8219962e&cp=625f5b1a&cn=adbe0514&rp=dP1NjLm4dih2&ct=20550&tsum=fa9c7843bb740e32efad6db2a8a74ac0&tid=m14560416
