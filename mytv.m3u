@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Cartoon Classics (1080p)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 
+#EXTINF:-1 tvg-id="ipl@hd" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",IPL HD
+https://26.run.place:9443/today/star_360p/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="Sonichd" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Kids",Sonic HD
 https://m3uplay.com/leo/live.m3u8
 
