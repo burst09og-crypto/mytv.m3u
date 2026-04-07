@@ -6,9 +6,32 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="ipl@hd" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",IPL HD
 https://26.run.place:9443/today/star_360p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ipl@hd" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",City TV
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Seven Two HD
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXPsYLP/images_(9).jpg" group-title="Sports",Champions TV HD
+http://smt.4666888.xyz/lr/dLQOnEmhjW6uZWslpNm7jNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=2aa88877&cd=8219962e&cp=625f5b1a&cn=adbe0514&rp=dP1NjLm4dih2&ct=20550&tsum=fa9c7843bb740e32efad6db2a8a74ac0&tid=m14560416
 
 #EXTINF:-1 tvg-id="Sonichd" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Kids",Sonic HD
 https://m3uplay.com/leo/live.m3u8
+
+#EXTINF:-1 tvg-id="Sonichd" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Kids",Kids Flix Hd
+https://stream.ads.ottera.tv/cl/260407d7ajovigfmkouveoe3u0/960x540_900000_4_f.m3u8
+
+#EXTINF:-1 tvg-id="MAx2" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Movie",Sony Max 2 HD
+https://ottking.top/toffe/sonymax_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXPsYLP/images_(9).jpg" group-title="Sports",Sky Sports News
+https://river-1.rutube.ru/stream/genetta-302.m9.rutube.ru/N0rD9ziQDzP7QhaKJa0sAQ/1776186867/e5bacac3b8e730791d4cab20ae81cd8f/720p_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXPsYLP/images_(9).jpg" group-title="Sports",N Sports
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqXPsYLP/images_(9).jpg" group-title="Nature",Love Nature HD
+https://aka-live1050.delivery.roku.com/531982b9-848e-4563-ac86-022c63975be7/t2-origin/out/v1/live_216_low.m3u8
 
 #EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-logo="https://i.postimg.cc/2j9FzYr3/download.jpg" group-title="Movies",South Station (1080p)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
@@ -823,6 +846,9 @@ https://a1.kora-plus.dad/watch/bundes2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZMq7wCH/download.jpg" group-title="Sports",Laliga China
 http://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZMq7wCH/download.jpg" group-title="Sports",Laliga China HD
+http://173.208.128.194:82/live/fyzq.m3u8?jsbt=1775583172&jsbk=177260ff7067e3e48beebb4d3ab12c61
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j20SL7kC/download.jpg" group-title="Sports",RM Match
 https://1a-1791.com/live/za4hy30t/slot-149/y4kj-8ls2_1080p/chunklist.m3u8
