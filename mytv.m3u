@@ -931,8 +931,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFSPMLS/Esports-max-blanco.png" group-title="Game and Esports",Esports MAx
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFSPMLS/Esports-max-blanco.png" group-title="Kids",Nick USA
+http://79.127.207.193/Nickelodeon/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryxBgT4s/FOX-Sports-logo-svg.png" group-title="Sports",Fox Sports HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryxBgT4s/FOX-Sports-logo-svg.png" group-title="Sports",ESPN Deportes
+http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjCNrxF/download.png" group-title="Sports",Dazn Italy
 https://a1.kora-plus.dad/watch/daznit.m3u8
@@ -945,6 +951,9 @@ https://a1.kora-plus.dad/watch/alwan2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjCNrxF/download.png" group-title="Sports",Sky Sports Football 
 https://a4.kora-plus.dad/watch/skyf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjCNrxF/download.png" group-title="Sports",Fox Sports Argentina
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QtCF6ks/Dynamic-K-logo-with-motion-lines-1-90x135.png" group-title="KDrama",K Series by MBC
 https://dxsqzqm5bzymd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/977cf6a8-cb4c-4fbf-9466-17bc1b72cf76/0.m3u8
