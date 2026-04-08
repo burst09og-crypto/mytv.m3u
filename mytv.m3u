@@ -36,6 +36,9 @@ http://smt.4666888.xyz/lr/dLQOnEmhjW6uZWslpNm7jNt8QZe8vZnBjRBl6PF/playlist.m3u8?
 #EXTINF:-1 tvg-id="Sonichd" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Kids",Sonic HD
 https://m3uplay.com/leo/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Laliga Tv
+https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Sonichd" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Kids",Kids Flix Hd
 https://stream.ads.ottera.tv/cl/260407d7ajovigfmkouveoe3u0/960x540_900000_4_f.m3u8
 
