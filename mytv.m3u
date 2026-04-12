@@ -18,6 +18,51 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",NICK USA HD
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",NICK Online
+https://x1co.com.br/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",FTF Sports
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR_v4.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Reality",MTV Reality
+https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Reality",World of love island
+https://jmp2.uk/plu-6440f6e25a0cd500083b1ca4.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Cooking",Masterchief
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Reality",Ninja Warrior
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_3.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",FOX_Sports1080p
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Trace Sports
+https://tracesportstars-klowdtv.amagi.tv/playlist240P.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Sky Sports Premier League
+https://river-1.rutube.ru/stream/genetta-302.m9.rutube.ru/4aUScjS9VRB6B5_CI2rPfw/1776600992/e5bacac3b8e730791d4cab20ae81cd8f/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",ESPN 6
+http://hls1.sua.tv/live/espnextrafhd/s.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Canal 6 Tv
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Cooking",Come Dine With Me
+https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/cb7d3e1a7b716f8d92ca3f6cd3f340a5d1536a80013a87306fac5ec576c64a5387b8f3c2e74abe3a58bd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05943c66cbfb10248854c14b1d30090cb19b887ca5898519271f445cf93f4df810d81809765b456b33258152378cfd034929b0cb38ec9393cce747e402c798cccfb328912fc256d6cba9ae5ba75fe1fbce64fe34104cbcb1cd2e64aee4ab900a69b2eeacde99b2a4548c4a43b0147c0b980f39b5553dd069b97c9971d5d8aff15376cc879d02f2a3694e8f1d9e5a91abbb9398cb8651c7795df15dbd5858ae1b4825d8f65e4f3b4c96d0c1e3844358f53f4ce369b318b2ce18e32314c41419a9f57ef8fcd11653118c8d308945b3091efa6af934e37c36b1e1acf65da500a258c17646eea20fcd56d38df685acb6573ab18068144fdaa25baf288b24868e3acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaad0c6b1776cc42e8d6b091540112e3fac8be8d130f0e37135d1b98a080549e9dcb3d1206cb3174309471e8668a780f7e78e14eba4a5589dc0900887280d1d8/20/1920x1080_5130400/index.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",TNA HD
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/373a61f6-52f0-42e5-a78e-bb51dc52b183/0.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",UFC
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids", FXX USA
 http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 
