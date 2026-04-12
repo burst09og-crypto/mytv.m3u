@@ -24,6 +24,9 @@ https://x1co.com.br/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR_v4.m3u8
 
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Futbol Tv
+https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Reality",MTV Reality
 https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
 
