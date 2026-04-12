@@ -24,6 +24,15 @@ https://d10iiii9kmxmu8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Movies
 https://d1rj7ynwht55e7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e34fd0nr7780g/ef2d67d9-ad46-4b01-a8e3-067c2bae6a9b/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New K Movies
+https://d142avk5g3brgu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-14jx63ma70xji/57e9e002-1d53-4fbc-bdd1-fc021d1e7eda/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Hi Dost
+https://cdn-1.pishow.tv/live/224/224_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New Korean Movies
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/747f62f7-a350-4a68-8875-47be98c3717d/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",City TV
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
@@ -1005,7 +1014,36 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Fashion",New Fashion TV 5
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Nature",Discovery 1
+https://mumbai-edge.smartplaytv.in/Discovery/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Deewana HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Hitz Entertainment
+https://amigofx.com:1936/hitzentertainment/hitzentertainment/chunklist_w206592778.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Kids",Kiddo Matrix
+https://cc-le0kohm4qt3mk.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/511c3461-6218-456b-93f1-9ba821db8d88/0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Nature",Wildflix
+https://cc-qgrxgp51645lw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/059e8f75-19b6-4368-85f7-9e9c0231c656/0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Hindi Hits HD
+https://mumt01.tangotv.in/HINDIHITS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Melody Hits HD
+https://mumt03.tangotv.in/MELODYHITS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Movies",Hiff Movies
+https://desitashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8
+
+#EXTINF:-1 tvg-id="bandbudh1" tvg-name="Bandbudh Aur Budbak EP1" group-title="Kids Hindi",Bandbudh Aur Budbak - EP1
+https://vod3.cf.dmcdn.net/sec2(MH-V4vAgq7GYn2etTQk1eCCz-DjbJDz-tijrhT6uQSNCBgDa1t1NKeyj6Z8TAUlV4_ONh0cOnu7ZW8Qj--VDwjQJ-gcLOT172XwibjYHB-Rl6kGztdeldgza-yu5ozol9ROvwWEVpxdxbJW1ftqp941Wml3GeLb_lyk80V7RH9aoSxxJU8mlwwdkBgYSQFVO4dBhX5ZrLRcaNInoJZD1bA)/video/fmp4/604802230/h264_aac_hd/2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="bandbudh2" tvg-name="Bandbudh Aur Budbak EP2" group-title="Kids Hindi",Bandbudh Aur Budbak - EP2
+https://vod3.cf.dmcdn.net/sec2(W-z8ofuCa70MCeFdYYs6CRnGyxEeCCxskjEUGU0iVyKaRjPWaGNfkb4V_STFZ8YCakKo1krF94-r98MHzyGkrj13XIwBQUuimABXXJ5Er6i9aIlerb57VwdILdePR_5IWCO9YbW12SddxBlghQ4m6ATiRYYEa6GDlIYBT4AsIMgd-Z-GpM8gHKomk7E5jd9DWtIAae6lAjm2dHUPnK7nUg)/video/fmp4/606451970/h264_aac_hd/2/manifest.m3u8
 
 
 
