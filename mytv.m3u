@@ -910,6 +910,15 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",AVS Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",AVS Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="Movie",Cinex
+https://gcinemahls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QpLBDK7/Food-Food.png" group-title="Cooking",Food Food
 http://xxip25.top:8080/live/V9uBS5/971043/125807.m3u8
 
@@ -1198,3 +1207,40 @@ https://vod3.cf.dmcdn.net/sec2(GkjoOi7BoJNWX5aroP8EBWTnHFXuBkjcvVMCbMpo6NSuyxyZJ
 
 #EXTINF:-1tvg-name="Shinchan" group-title="Kids Hindi",Oggy new gen 5
 https://vod3.cf.dmcdn.net/sec2(TRXsbNB2mv3mkmkTyMG62X3tXOnmRHak-xZzwYi1fYnM2PA6xxtc8BcE7kDymf9PjZ2vIJNt73CBmAnU3dB-mZZi6DtVwfAtj1Q0AC0Zq8AAyLV5u44Wg10yn36wnnGxbvRXxUGVJ39jB4z37-SLIVpXbS5qfeRxWzH4jzCOz2Q)/video/152/148/506841251_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Nepali",Moomin 1
+https://vod3.cf.dmcdn.net/sec2(0lY2e0ACXFiXtekJq4OkAt1Cspc3PR_fq567NucfBciAuPKe2SjIcX_zvJ8jL1eHAMgT8ttUNStw3zEnT7-ieUyyrsRhFkxWwAL17w31Hy4oIWH3J_gjGJGmfGCeVFOHo5loB0zu2_uGz_oyd_u3FEyuH1ZObROPomTshAuG8cg)/video/696/209/387902696_mp4_h264_aac_hq.m3u8
+
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Nepali",Moomin 2
+https://vod3.cf.dmcdn.net/sec2(a4bU63XTuCzuwXXOiRUc4mqhULCeHy-Y--Y-x5Wrxc-YZ4ylU-AV9QeEwLTbgCLSAgWQWDodRwefprwM3--MHM6CAHnkqAeMXIuhDmR4elrzXBDQtOsSYMk33OdMYiXakRV9Ge0jZJ_uZcKqkuu2XFhsVl5YUOjnp5H2LH_aXE0)/video/796/919/387919697_mp4_h264_aac_hq.m3u8
+
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Nepali",Moomin 3
+https://vod3.cf.dmcdn.net/sec2(L1f_bgtqY50XF-fNIF1RDHPBi-b90i8DtS4ZHLgifW9GFgB1b26iOZCRuw1m1kieGRcPV9Oiq4XBR3NuAtFg1tX125fPOez6a3ZS3rerTUZcgPDuYrG7Odagy8THHNbRnPsh97SP0JTx_g_RXmVScvbR60-0Sml1tmASSS8D_78)/video/928/909/387909829_mp4_h264_aac_3.m3u8
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Nepali",Moomin 4
+https://vod3.cf.dmcdn.net/sec2(MvIGeRvM84E0-Z8DLFVXfAUN_xWV6mqqyh2bLq9kX0BmD-kDPp_tuXFty_u_ZpXrquo-PBdBeawB-TJNZXhrvDWit-2K3vSdvAo6r6bjq1LLumdlsIXG3kJ4bY_6RfRNKj7h5ItcomeurGsOdrYkx2wIUyZZhLwUFIb2sYmi8rQ)/video/928/909/387909829_mp4_h264_aac_3.m3u8
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Nepali",Moomin 5
+https://vod3.cf.dmcdn.net/sec2(EIhbBRY6YejRtZ-qWRKg_LZecsxFvCO2aXa9K9N6zas6J-Oj6twjtH9cbaJIKsIh5yDHPKEY63R9bZeEKyIHhRmgdTuhePjuPNYrpNTZ7MnBZfz0_lFXgXYQdekXkKnH5lH_7JgQKge7W9smDpe_rhOVqx4iOJ0ySmGsajS9Lh8)/video/447/919/387919744_mp4_h264_aac.m3u8
+
+
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids hindi",Ninja Hattori 7
+https://vod3.cf.dmcdn.net/sec2(0LrUX6EF7G-KzcfgKI3nmU13yEaEvdtPPnA13_OULKgLAZw8bwdbwho3JkP2pWe7t626a0V3-S0GFXu_Mvw7rICS-08DugAQInopb757xQsJfpgDmJVIsve9ScWOjxFV6fcY34jrzqCQCOWv0LcOPaesNTwJ06uX5r47pVCwnYc3UuctXR-l5-PTVcE37wVH)/video/494/389/579983494_mp4_h264_aac_hd_3.m3u8
+
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Hindi",Ninja Hattori 8
+https://vod3.cf.dmcdn.net/sec2(ibaljHgoYWTyRfl78yyMHNlVSyI6S615_-VMsm6m7uuoMBhu3FYqL1aUM-EI2o5N_snsS2ZAsmMo_7sI9PFi8Bv7bkSvHg0PqXaHS3YK4GpVSXxpk9Vev48mweWwZaA4zuOvcqJ4xxlfYYZLzQakz22iq_KOIduWw2K-u47P0vVOcyHgAIpUPjjC52Ph4x-M)/video/848/777/579777848_mp4_h264_aac_hd_4.m3u8
+
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids hindi",Ninja Hattori 2
+https://vod3.cf.dmcdn.net/sec2(ctcXRMHGzzrUyecv6_8Lgsbk8QeOqlp85ZsD2hNgdRHu2saKNi4mq0mMHsUsbk3RkuIb3Y6U5kLIumgoK5YedVSSEMcX8bzoFfM00MKiZAMOwRRW8TXA0gKzpo9axPZRNqllYvqktr0ZTknuFHYhOiSrRqEfCtm-Cjk5F23Xp7A)/video/992/633/331336299_mp4_h264_aac_1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
