@@ -9,8 +9,26 @@ https://26.run.place:9443/today/star_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",ISL HD
 https://pull.niues.live/live/stream-596191_lhd.m3u8
 
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Spot Tv 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Spot Tv 1
+https://hls.iill.top/api/Spotv-1/index.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",NICK USA HD
+http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids", FXX USA
+http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="caze" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Caze Tv
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+
+#EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Nature",Nature Time
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 
 #EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Redbull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
