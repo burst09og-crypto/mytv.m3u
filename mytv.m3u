@@ -1029,6 +1029,8 @@ https://cc-le0kohm4qt3mk.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 #EXTINF:-1 tvg-logo="" group-title="Nature",Wildflix
 https://cc-qgrxgp51645lw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/059e8f75-19b6-4368-85f7-9e9c0231c656/0.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN the echo
+https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/840fa95c-674c-4d1b-8b0a-5ae93178f69c/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Hindi Hits HD
 https://mumt01.tangotv.in/HINDIHITS/tracks-v2a1/mono.m3u8
@@ -1038,6 +1040,31 @@ https://mumt03.tangotv.in/MELODYHITS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Movies",Hiff Movies
 https://desitashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Game and Esports",Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Weather",Weather Spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/1200.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="bandbudh1" tvg-name="Bandbudh Aur Budbak EP1" group-title="Kids Hindi",Bandbudh Aur Budbak - EP1
 https://vod3.cf.dmcdn.net/sec2(MH-V4vAgq7GYn2etTQk1eCCz-DjbJDz-tijrhT6uQSNCBgDa1t1NKeyj6Z8TAUlV4_ONh0cOnu7ZW8Qj--VDwjQJ-gcLOT172XwibjYHB-Rl6kGztdeldgza-yu5ozol9ROvwWEVpxdxbJW1ftqp941Wml3GeLb_lyk80V7RH9aoSxxJU8mlwwdkBgYSQFVO4dBhX5ZrLRcaNInoJZD1bA)/video/fmp4/604802230/h264_aac_hd/2/manifest.m3u8
@@ -1163,5 +1190,11 @@ https://vod3.cf.dmcdn.net/sec2(3unb9thfllSFCN49pcidk-L58cVhrjHHmHT9uCVPJnxXtcsb1
 #EXTINF:-1tvg-name="Shinchan" group-title="Kids Hindi",Oggy new gen 2
 https://vod3.cf.dmcdn.net/sec2(5vor8nMZN9PAtQiF36_C3hkyjapPDOGflw7EoK_tSTn0IFmM7a5xibsMYDZdhKg_A5Jw6JQklRCO082Duo0kRNXgibuntx5yeoKHiXLgiCBXkAwUZC8q_CzYgnRVI_A6TrmN646C0HTkij4cYrZJB2098eiwHuHWreZLNygXQ1c)/video/947/575/505575749_mp4_h264_aac_hd.m3u8
 
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Hindi",Oggy new gen 3
+https://vod3.cf.dmcdn.net/sec2(4MUbDVvIj_2bQQIFNtAJdA82s3-0GEW5RzjlRBScddJ94yNUPT-t2YQLx-7j2_c6X60nKFLjGqMKm1cBtdSElyJBFtiG4uKF4TvU1TO4FckuZuO6yV1O-gmWBp1kX2XOxNt4iv_JG7R8HYTANQWTkDTAA9GaCCYAZOe3otRSgGlgWjRmyfRxU1PbKsWShwpI)/video/690/660/520066096_mp4_h264_aac_hq_3.m3u8#cell=cf3
 
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Hindi",Oggy new gen 4
+https://vod3.cf.dmcdn.net/sec2(GkjoOi7BoJNWX5aroP8EBWTnHFXuBkjcvVMCbMpo6NSuyxyZJEOyJCTLG14o9sE_q-KzbqSTW0M7HZjZwtHh7-3i5pM_vBUCdoJUkQnfBnmXmLM4tn9mxLXvsnaPlJ5ViL8o062gseV5kEi4cV8sy4uUZgq5pF2xaCo5r6XQWCM)/video/955/775/505577559_mp4_h264_aac_hd.m3u8
 
+#EXTINF:-1tvg-name="Shinchan" group-title="Kids Hindi",Oggy new gen 5
+https://vod3.cf.dmcdn.net/sec2(TRXsbNB2mv3mkmkTyMG62X3tXOnmRHak-xZzwYi1fYnM2PA6xxtc8BcE7kDymf9PjZ2vIJNt73CBmAnU3dB-mZZi6DtVwfAtj1Q0AC0Zq8AAyLV5u44Wg10yn36wnnGxbvRXxUGVJ39jB4z37-SLIVpXbS5qfeRxWzH4jzCOz2Q)/video/152/148/506841251_mp4_h264_aac_hd.m3u8
