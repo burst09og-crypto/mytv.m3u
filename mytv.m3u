@@ -16,6 +16,8 @@ http://103.157.248.140:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo=" " group-title="Movie",Star Gold 2 (576p)
 http://103.157.248.140:8000/play/a00e/index.m3u8
 
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo=" " group-title="Sports",Sony Sports Ten 5 HD (1080p)
+http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo=" " group-title="Sports",Sony Sports Ten 2 HD (1080p)
 http://103.229.254.25:7001/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo=" " group-title="Sports",Sony Sports Ten 3 Hindi (576p)
