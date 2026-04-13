@@ -81,8 +81,26 @@ https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Redbull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Oman Sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
+
+#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",ACI Sports Tv
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=XvewdnmqXivqvKV7jF3bZs
+
+#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",W Sports
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU0IbAIs_UzmCdo6qdMrKADpMlvkq8dvvCi4HnAkj-xZMyba0usMt7dJ3qLknN8kTO030UuWgU8iB62VMtTyV5_V4MECCvbiTTNJejXfU_luzmeov5ElIoW66B_ZqWfDL8qyybJVui2JutazGNd-nP_gtw4m66KQ3rnmmSxJuhYdNgOxCkrMhlG9OOxik-DpWdMcPYaNTM31V40PpKaAEK-w.m3u8
+
+#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",tigo Sports
+https://live.enhdtv.com:8081/8160/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie",Sparkle Movies
 https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/93efc4af-00cb-4100-af51-9d6ceef868ed/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Nature",Stringray Music
+https://d9rd4243pcy92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/cc2f8419-2b32-4e57-8150-fd625e26f865/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Drama
+https://stream-us-east-1.getpublica.com/cl/260413d7e58nmbk1qplhr3p8tg/1280x720_4636230_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie
 https://d10iiii9kmxmu8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9rzu3nqyvzkf7/c603b4fe-ea4e-4943-a13a-6ff74bfc284d/0.m3u8
@@ -95,6 +113,9 @@ https://d142avk5g3brgu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Hi Dost
 https://cdn-1.pishow.tv/live/224/224_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Nature",Holiday escape
+https://d10cyxntpn0bwm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/b762b239-8d44-464c-9e3b-6bf1209be8d4/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New Korean Movies
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/747f62f7-a350-4a68-8875-47be98c3717d/5.m3u8
