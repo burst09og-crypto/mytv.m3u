@@ -1098,6 +1098,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Amazing Tv Channel
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts.m3u8
 
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Amazing Tv Channel 2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Fashion",New Fashion TV 2
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 
