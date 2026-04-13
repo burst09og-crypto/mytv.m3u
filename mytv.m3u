@@ -420,6 +420,9 @@ https://cc-o7iz6ey4x2e4g.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKFLgfx4/download.jpg" group-title="KDrama",Hi Dost HD
 https://mumt03.tangotv.in/HIDOST/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKFLgfx4/download.jpg" group-title="KDrama",K Series by MDC HD
+https://dxsqzqm5bzymd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/5c9b3b55-d0fb-4403-b28b-d2a59be2c868/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf53Gc0d/Chat-GPT-Image-Apr-1-2026-10-05-09-AM-1-200x300.png" group-title="KDrama", Korean TV
 https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/7c635890-7509-431d-b7a2-96b499668e92/0.m3u8
 
@@ -1003,6 +1006,9 @@ https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",AVS Series
 https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",K Movies and Series
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e761f6a4-9c7f-443f-b986-362582e86b88/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="Movie",Cinex
 https://gcinemahls.wns.live/hls/stream.m3u8
