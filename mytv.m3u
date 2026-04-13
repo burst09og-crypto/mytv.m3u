@@ -268,6 +268,8 @@ http://103.161.153.165:8000/play/a03e/index.m3u8
 https://cdn-2.pishow.tv/live/228/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzxDLMVT/22fec733247999_56a6096d3c84d.jpg" group-title="Movie",B4u movie
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtSynJLw/images-(1).jpg" group-title="Movie",Goldmine movies
