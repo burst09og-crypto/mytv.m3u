@@ -26,6 +26,44 @@ http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo=" " group-title="Sports",Skysports LaLiga TV
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 
+#EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo=" " group-title="Entertainment",StarPlus (1080p)
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-logo=" " group-title="Entertainment",Colors Cineplex HD (1080p)
+http://116.90.120.151:8000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-logo=" " group-title="Entertainment",Colors Cineplex Superhits (576p)
+http://116.90.120.151:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-logo=" " group-title="Movies",Star Gold 2 HD (1080p)
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo=" " group-title="Movies",Star Gold HD (1080p)
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo=" " group-title="Movies",Star Gold Select HD (1080p)
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="StarMaaGold.in@SD" tvg-logo=" " group-title="Movies",Star Maa Gold (576p)
+http://103.121.6.5:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo=" " group-title="Movies",Star Utsav Movies (576p)
+http://116.90.120.151:8000/play/a0ka/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@APAC" tvg-logo=" " group-title="Movies",B4U Movies APAC (720p)
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-movies-apac
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo=" " group-title="Movies",B4U Movies India (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo=" " group-title="Music",B4U Music (1080p)
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo=" " group-title="Music",B4U Music (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@APAC" tvg-logo=" " group-title="Music",B4U Music APAC (720p)
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-music
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD" tvg-logo=" " group-title="Movies",Anmol Cinema (576p)
+http://116.90.120.151:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-id="AnmolTV.in@SD" tvg-logo=" " group-title="Entertainment",Anmol TV (576p)
+http://163.61.227.29:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo=" " group-title="Movies",&pictures HD (1080p)
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo=" " group-title="Entertainment",&TV (576p)
+http://103.229.254.25:7001/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo=" " group-title="Entertainment",&TV HD (1080p)
+http://103.161.153.165:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo=" " group-title="Entertainment",&TV HD (1080p)
+http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo=" " group-title="Sports",Sports Italia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/640x360_985600/chunklist.m3u8
 
