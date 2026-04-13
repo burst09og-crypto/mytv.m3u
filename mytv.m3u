@@ -15,9 +15,6 @@ https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Spot Tv 1
 https://hls.iill.top/api/Spotv-1/index.m3u8
 
-#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Amazing Tv Channel
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",NICK USA HD
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 
@@ -1098,6 +1095,8 @@ https://59ec5453559f0.streamlock.net/miamitvmodels/_definst_/smil:529634/chunkli
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Fashion",New Fashion TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8?rand=0.41250887938985337
 
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Amazing Tv Channel
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Fashion",New Fashion TV 2
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
