@@ -3,6 +3,24 @@
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Cartoon Classics (1080p)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Nature",National Geographic Wild HD (1080p)
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo=" " group-title="Sports",Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo=" " group-title="Sports",Star Sports 1 Hindi (576p)
+http://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo=" " group-title="Movie",Star Gold Thrills (576p)
+http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo=" " group-title="Movie",Star Gold Romance (576p)
+http://103.157.248.140:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo=" " group-title="Movie",Star Gold 2 (576p)
+http://103.157.248.140:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo=" " group-title="Sports",Sony Sports Ten 2 HD (1080p)
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo=" " group-title="Sports",Sony Sports Ten 3 Hindi (576p)
+http://103.229.254.25:7001/play/a09q/index.m3u8
+
 #EXTINF:-1 tvg-id="ipl@hd" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",IPL HD
 https://26.run.place:9443/today/star_360p/chunks.m3u8
 
@@ -117,6 +135,10 @@ https://d142avk5g3brgu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Hi Dost
 https://cdn-1.pishow.tv/live/224/224_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZvCrgTb/Nick-Hindi.png" group-title="Kids",Nickelodeon (576p)
+http://103.157.248.140:8000/play/a01n/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Nature",Holiday escape
 https://d10cyxntpn0bwm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/b762b239-8d44-464c-9e3b-6bf1209be8d4/5.m3u8
 
@@ -151,7 +173,7 @@ https://a4.kora-plus.dad/watch/b2.m3u8
 http://smt.4666888.xyz/lr/dLQOnEmhjW6uZWslpNm7jNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=2aa88877&cd=8219962e&cp=625f5b1a&cn=adbe0514&rp=dP1NjLm4dih2&ct=20550&tsum=fa9c7843bb740e32efad6db2a8a74ac0&tid=m14560416
 
 #EXTINF:-1 tvg-id="Sonichd" tvg-logo="https://i.postimg.cc/htvdqwZz/download.jpg" group-title="Kids",Sonic HD
-https://m3uplay.com/leo/live.m3u8
+http://103.229.254.25:7001/play/a0dl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Laliga Tv
 https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/tracks-v1a1/mono.m3u8
@@ -504,7 +526,7 @@ http://103.229.254.25:7001/play/a02t/index.m3u8
 http://103.229.254.25:7001/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqXgJP0/Ten3_HD.png" group-title="Sports",Sony ten 5
-http://116.90.120.151:8000/play/a0hb/index.m3u8
+http://103.157.248.140:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw7k5gMG/Star_sports_select_1.webp" group-title="Sports",Star sports select 1
 http://103.113.103.202:8001/play/a02e/index.m3u8
@@ -516,10 +538,10 @@ http://103.113.103.202:8001/play/a02q/index.m3u8
 http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsK2wRxZ/Star_Sports_1_HD_Hindi.webp" group-title="Sports",Star sports 1 Hindi
-http://161.248.38.40:8000/play/a071/index.m3u8
+http://103.157.248.140:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKq1XRLw/Sports18_1_SD.png" group-title="Sports",Star sports 2 Hindi
-http://116.90.120.152:8000/play/a0hi/index.m3u8
+http://103.157.248.140:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM79WRGQ/Star_Sports_2.webp" group-title="Sports",Star sports 2
 http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
@@ -527,6 +549,18 @@ http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d114mYdj/download.jpg" group-title="Sports",IPL
 http://stvlive.net:8080/sonyten5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d114mYdj/download.jpg" group-title="Entertainment",SET
+http://103.157.248.140:8000/play/a004/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo=" " group-title="Entertainment",Sony SAB HD (1080p)
+http://103.157.248.140:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo=" " group-title="Entertainment",Sony SAB (576p)
+http://103.157.248.140:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@SD"tvg-logo=" " group-title="Movies",Sony Max (576p)
+http://103.157.248.140:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo=" " group-title="Entertainment",Zee TV (1080p)
+http://103.229.254.25:7001/play/a0cs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y089x3xr/images-(4).jpg" group-title="Sports",Star sports 2 Hindi
 http://111.88.78.21:8000/play/a0x8/index.m3u8
