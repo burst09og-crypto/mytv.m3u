@@ -6,11 +6,23 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Bollywood 
+http://176.118.197.101/Bollywood_HD/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo=" " group-title="Nature",Safari TV
 https://cdn-6.pishow.tv/live/1513/master.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Win+ Futbol
 http://190.60.40.34:8001/play/a02r
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Astro Premier League
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Sky racing
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/chunklist_w1126457871.m3u8
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Polsat Sports 2
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8
 
 #EXTINF:-1 tvg-id="Futbol.tj"tvg-logo="https://i.imgur.com/RngmCDn.png"tvg-shift=""group-title="Sports":http-referrer="":http-user-agent="",Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
