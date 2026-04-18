@@ -21,6 +21,12 @@ https://cdn-6.pishow.tv/live/1513/master.m3u8
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Win+ Futbol
 http://190.60.40.34:8001/play/a02r
 
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Euro Sports 1
+http://cff6333d.cbilant.com/iptv/9L8GL53YPY3MER/19432/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports",TNT Sports 4 UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
+
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",AAA Lucha Libre
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
