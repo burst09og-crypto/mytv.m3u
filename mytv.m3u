@@ -6,6 +6,9 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Music",Saga Music
+https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Bollywood 
 http://176.118.197.101/Bollywood_HD/tracks-v1a1/mono.ts.m3u8
 
