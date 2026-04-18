@@ -23,6 +23,53 @@ http://190.60.40.34:8001/play/a02r
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Euro Sports 1
 http://cff6333d.cbilant.com/iptv/9L8GL53YPY3MER/19432/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.(RS).rs" tvg-name="Eurosport 2 4K RS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/eurosport-2-rs.png?raw=true" group-title="Sports",Eurosport 2 4K RS
+http://cff6333d.cbilant.com/iptv/9L8GL53YPY3MER/19431/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/500px-FS2_logo_2015.svg.png" group-title="Sports",FS2
+http://cord-cutter.net:8080/bn80NG/909467/1847
+
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN 4K" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports",NESN 4K
+https://xemzi.short.gy/4000080
+
+EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="Sports",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="Sports",NBC Sports Bay Area
+http://kstv.us:8080/4VUyfZBQzk/95104974615/28744
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="Sports",NBC Sports Boston
+http://kstv.us:8080/4VUyfZBQzk/95104974615/28743
+#EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="Sports",NBC Sports California
+http://kstv.us:8080/4VUyfZBQzk/95104974615/28742
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="Sports",NBC Sports Philadelphia
+http://kstv.us:8080/4VUyfZBQzk/95104974615/28738
+
+#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature 4K CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="Nature",Love Nature 4K CA
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.4K.ca2" tvg-name="Sportsnet 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true" group-title="Sports",Sportsnet 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260804
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true" group-title="Sports",Sportsnet One 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="Sports",TSN 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
+
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true" group-title="Sports",SKY Sport 1 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307979
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-nz.png?raw=true" group-title="Sports",SKY Sport 2 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307980
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-nz.png?raw=true" group-title="Sports",SKY Sport 3 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307981
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-nz.png?raw=true" group-title="Sports",SKY Sport 4 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307982
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-nz.png?raw=true" group-title="Sports",SKY Sport 5 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307983
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-nz.png?raw=true" group-title="Sports",SKY Sport 6 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307984
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-nz.png?raw=true" group-title="Sports",SKY Sport 7 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307985
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-name="SKY Sport 8 Premier League NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-nz.png?raw=true" group-title="Sports",SKY Sport 8 Premier League NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307986
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-name="SKY Sport 9 NZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-nz.png?raw=true" group-title="Sports",SKY Sport 9 NZ
+http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307987
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports",TNT Sports 4 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
