@@ -27,10 +27,86 @@ http://cff6333d.cbilant.com/iptv/9L8GL53YPY3MER/19432/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports",TNT Sports 4 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
 
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="Sports",TNT Sports 2 UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports",TNT Sports 3 UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Premier Sports 1 UK
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Premier Sports 2 UK
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="Sports",Sky Sports Cricket UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47864
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="Sports",Sky Sports Premier League UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
+
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="Sports",TSN1 CA
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15929
+#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN2 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="Sports",TSN2 CA
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15928
+#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN3 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="Sports",TSN3 CA
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15927
+#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="Sports",TSN4 CA
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15926
+#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN5 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="Sports",TSN5 CA
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15925
+
+#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="Sports",WWE Network
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47642
+#EXTINF:-1 tvg-id="99951134" tvg-name="UFC" tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/168x168.png?type=color_onBlack" group-title="Sports",UFC
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Sports",beIN SPORTS
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15922
+#EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" group-title="Sports",Fubo Sports Network
+https://dnf08l6u6uxnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwrh2vjyudfjo/5999cb1e-489e-434e-b70a-755f69ec828e/5.m3u8
+
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport NL" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports",Ziggo Sport NL
+https://xemzi.short.gy/140001
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_2_302080.png" group-title="Sports",Ziggo Sport 2 NL
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/239449
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo Sport 3 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_3_302082.png" group-title="Sports",Ziggo Sport 3 NL
+https://xemzi.short.gy/140003
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport 4 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_4_302083.png" group-title="Sports",Ziggo Sport 4 NL
+https://xemzi.short.gy/140004
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn_2x.png" group-title="Sports",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn2_2x.png" group-title="Sports",ESPN2
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/38227
+
+#EXTINF:-1 tvg-id="Eurosport.Italia.it" tvg-name="EuroSport 1 IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-1-fr.png?raw=true" group-title="Sports",EuroSport 1 IT
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/266666
+#EXTINF:-1 tvg-id="Eurosport.2.Italia.it" tvg-name="EuroSport 2 IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-2-fr.png?raw=true" group-title="Sports",EuroSport 2 IT
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/266670
+
+#EXTINF:-1 tvg-id="FoxSports501.au" tvg-name="Fox Sports 501 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-au.png?raw=true" group-title="Sports",Fox Sports 501 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6079
+#EXTINF:-1 tvg-id="FoxSports502.au" tvg-name="Fox Sports 502 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="Sports,Fox Sports 502 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6080
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-au.png?raw=true" group-title="Sports,Fox Sports 503 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6081
+#EXTINF:-1 tvg-id="FoxSports504.au" tvg-name="Fox Sports 504 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="Sports",Fox Sports 504 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6082
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-au.png?raw=true" group-title="Sports",Fox Sports 505 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6083
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true" group-title="Sports",Fox Sports 506 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6084
+#EXTINF:-1 tvg-id="FoxSports507.au" tvg-name="Fox Sports 507 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="Sports",Fox Sports 507 AU
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6085
+
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",AAA Lucha Libre
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="KDRama",Drama 2 HD
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/500px-Paramount_Network_2024.svg.png" group-title="Entertainment",Paramount Network
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23254
+
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="KDrama",Drama 2 HD
 https://stream-us-east-1.getpublica.com/cl/260418d7hiba73t2k2jck1tpbg/1280x720_4616076_0_f.m3u8
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo=" " group-title="Sports",Astro Premier League
