@@ -1061,7 +1061,7 @@ https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/GlobalTv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj9CKSwc/download.jpg" group-title="Nepali",News 24
-https://ott-nettv-01.nettv.com.np/ott_abr/news24abr.sstream/ottlive/netNEWSHIGH.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmL4xNnM/download.jpg" group-title="Nepali",Sagarmatha TV
 https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
@@ -1074,6 +1074,9 @@ https://webott.viatv.com.np/v0t1/Avenews,.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26sqdSCh/download.png" group-title="Nepali",Life Ok Nepal
 https://ott-nettv-02.nettv.com.np/iptvlivestream/netlifeoknepal.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="JMusicTV.np@SD" tvg-logo="https://i.postimg.cc/gJwVz1c4/download.png" group-title="Nepali",J Music TV (480p)
+http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0SZ19Xg/download.png" group-title="Nepali",Rajya Television
 https://ott-nettv-02.nettv.com.np/iptvlivestream/rajya4k.stream/chunks.m3u8
@@ -1130,7 +1133,7 @@ https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg0QwccH/download.jpg" group-title="Nepali",City One HD
-https://ott-nettv-02.nettv.com.np/iptvlivestream/netCity1HD1500.stream/chunks.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkKnQLWC/download.jpg" group-title="Nepali",Prisma TV HD
 https://ott-nettv-02.nettv.com.np/iptvlivestream/netPrismaHD.stream/chunks.m3u8
