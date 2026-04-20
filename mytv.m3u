@@ -9,6 +9,9 @@ http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids",Sony Yay
 https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",The Q TV
+https://mumt05.tangotv.in/THEQ/index.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",Discovery Kids
 http://nor3live.win:80/livehttpplay?channel_id=23329
 
