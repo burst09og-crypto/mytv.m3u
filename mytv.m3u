@@ -6,6 +6,26 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Superhits
+http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sky Sports Main event(Max)
+http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Music",YRF Music (Max)
+http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Reality Show",Ninja Warrior(Max)
+http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",& TV(Max)
+http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Sony Max 2(Max)
+http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids",Sony Yay
 https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
 
@@ -23,6 +43,10 @@ https://mumt05.tangotv.in/THEQ/index.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",Discovery Kids
 http://nor3live.win:80/livehttpplay?channel_id=23329
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",Discovery Kids(Max)
+http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten sports 1
 http://tv.cloudcdn.me/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -136,18 +160,22 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Sports",beIN SPORTS
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15922
+
 #EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" group-title="Sports",Fubo Sports Network
 https://dnf08l6u6uxnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwrh2vjyudfjo/5999cb1e-489e-434e-b70a-755f69ec828e/5.m3u8
 
 
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport NL" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports",Ziggo Sport NL
 https://xemzi.short.gy/140001
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_2_302080.png" group-title="Sports",Ziggo Sport 2 NL
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_2_302080.png" group-title="Sports",Ziggo Sport 2 NL  
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/239449
-#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo Sport 3 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_3_302082.png" group-title="Sports",Ziggo Sport 3 NL
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo Sport 3 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_3_302082.png" group-title="Sports",Ziggo Sport 3 NL  
 https://xemzi.short.gy/140003
+
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport 4 NL" tvg-logo="http://spott4k.online:8080/images/logopedia/NL_ZIGGO_SPORT_4_302083.png" group-title="Sports",Ziggo Sport 4 NL
-https://xemzi.short.gy/140004
+https://xemzi.short.gy/140004 
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn_2x.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -997,7 +1025,13 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jS2vsnw5/images_(5).png" group-title="Kids",Wow kids
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS2vsnw5/images_(5).png" group-title="Kids",Cartoon Network HD+(Max)
+http://maxotts.maxdigitaltv.com/x-media/C119/1/master.m3u8
+
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS2vsnw5/images_(5).png" group-title="Music",9XM(Max)
+http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
 
 #EXTINF:-1 tvg-name="Nature Stream TV" tvg-logo="https://i.postimg.cc/fTsGYdyC/images-(14).jpg" group-title="Nature",Nature Stream TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=iVvecfyrHqW
@@ -1065,6 +1099,8 @@ https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ypV4sKN/download.jpg" group-title="Nepali",AP1HD
 https://webott.viatv.com.np/v0t1/AP1576.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwKScKVd/download.png" group-title="Nepali",NTV Itahari
+http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwKScKVd/download.png" group-title="Nepali",Rodhi Tv
@@ -1080,7 +1116,14 @@ http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYqVJ0bV/download.png" group-title="Nepali",Nepal Tv
 https://webott.viatv.com.np/v0t1/Ntv576.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYqVJ0bV/download.png" group-title="Nepali",Bhadagaun TV
+http://maxotts.maxdigitaltv.com/x-media/C143/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXnJ0bYt/download.jpg" group-title="Nepali",NTV News
+http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
+
+123
 http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
 
 https://ntvedge.truestreamz.com/ntvlive/ntvnews-abr.stream/ntvlive/ntvnews720P.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzo0MDowMiBBTSZoYXNoX3ZhbHVlPTJDZUwyWG90VEVjRDUrakhkZ29hREE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
@@ -1119,6 +1162,11 @@ https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMdhzqbr/download.jpg" group-title="Nepali",ABC News HD
 http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
+
+
+
+
+123
 http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
 https://ott-nettv-01.nettv.com.np/ott_abr/abcnewsabr.stream/ottlive/netABCHIGH.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
@@ -1145,6 +1193,9 @@ http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HW7J3XcL/download.png" group-title="Nepali",NTV World
 http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HW7J3XcL/download.png" group-title="Nepali",NTV Kohalpur
+http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zRD4Xz3/download.png" group-title="Nepali",Space 4k
@@ -1337,6 +1388,8 @@ http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWcTCm5Z/download.jpg" group-title="Nepali",Nepali Cultural Tv
 http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWcTCm5Z/download.jpg" group-title="Nepali",Nepali Tv
+http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1X0Z8myc/download.jpg" group-title="Nepali",Buddha Television
 http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
@@ -1380,6 +1433,23 @@ http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Zee TV (Max)
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Dangal (Max)
+http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Shemaroo Umang (Max)
+http://maxotts.maxdigitaltv.com/x-media/C252/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Shemaroo TV (Max)
+http://maxotts.maxdigitaltv.com/x-media/C253/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Dangal 2 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C254/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Music India (Max)
+http://maxotts.maxdigitaltv.com/x-media/C255/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Planet Fun (Max)
+http://maxotts.maxdigitaltv.com/x-media/C277/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Venus HD
 http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
@@ -1387,6 +1457,17 @@ http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Star Bharat HD (Max)
 http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Colors HD (Max)
+http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Music",B4u Music (Max)
+http://maxotts.maxdigitaltv.com/x-media/C512/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Music",Balle Balle(Max)
+http://maxotts.maxdigitaltv.com/x-media/C513/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Music",9X Jalwa(Max)
+http://maxotts.maxdigitaltv.com/x-media/C514/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Entertainemnt",Star Plus HD (Max)
 http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
@@ -1447,6 +1528,11 @@ http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Sports",Sony Ten Sports 3 Hd (Max)
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Movie",Zee Cinema HD (Max)
+http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Movie",B4u Movie (Max)
+http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Sports",WWE and PPV (Max)
 http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
@@ -1465,9 +1551,11 @@ http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c48Z3Bz0/download.jpg" group-title="Kids",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd1X2JkD/download.jpg" group-title="Youtube",Mr. Beast HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd1X2JkD/download.jpg" group-title="Youtube",Mr. Beast HD     
 https://csm-e-cetubilusordlive-84853345.csm.tubi.video/csm/live/750520276.m3u8?playback_start_ts=1775272022&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd1X2JkD/download.jpg" group-title="Youtube",Mr. Beast HD(Refined)
+https://csm-e-cetubilusordlive-84853345.csm.tubi.video/csm/live/750520276.m3u8?playback_start_ts=1775272022&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66n61Gn0/Chat-GPT-Image-Jan-22-2026-09-07-34-PM-1-200x300.png" group-title="Comedy",Kings of Comedy
 https://cc-ejrl4az77gvl4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejrl4az77gvl4/89439f8d-a2d4-48bd-9119-19d675a13eb4/0.m3u8
