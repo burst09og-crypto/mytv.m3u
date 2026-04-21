@@ -9,6 +9,12 @@ http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Superhits
 http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Ziggo Sports 3
+https://xemzi.short.gy/140003
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Ziggo Sports 4
+https://xemzi.short.gy/140004 
+
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sky Sports Main event(Max)
 http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
@@ -47,6 +53,11 @@ http://nor3live.win:80/livehttpplay?channel_id=23329
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",Discovery Kids(Max)
 http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Fox Sports 503
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6081
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Fox Sports %02
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6080
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten sports 1
 http://tv.cloudcdn.me/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -1116,6 +1127,9 @@ http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYqVJ0bV/download.png" group-title="Nepali",Nepal Tv
 https://webott.viatv.com.np/v0t1/Ntv576.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYqVJ0bV/download.png" group-title="Nepali",NTV News
+http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYqVJ0bV/download.png" group-title="Nepali",Bhadagaun TV
 http://maxotts.maxdigitaltv.com/x-media/C143/master.m3u8
 
@@ -1156,6 +1170,8 @@ http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj9CKSwc/download.jpg" group-title="Nepali",Mountain Television
 http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj9CKSwc/download.jpg" group-title="Nepali",ABC News
+http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmL4xNnM/download.jpg" group-title="Nepali",Sagarmatha TV
 https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
@@ -1399,6 +1415,9 @@ http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Crime",Crime Tv
 http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Youtube",Mr. Beast TV 2
+https://cc-ejrl4az77gvl4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejrl4az77gvl4/89439f8d-a2d4-48bd-9119-19d675a13eb4/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgPP2tFW/download.jpg" group-title="Sports",Sky Sports Crickrt
 http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
