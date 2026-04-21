@@ -9,6 +9,15 @@ http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids",Sony Yay
 https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Star Gold Romance 123
+http://103.253.18.58:8000/play/a017
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/DzyyFnXp/download.png" group-title="Anime",Hallo Animme
+https://cdn-3.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/W3GZK2Lg/Logo-Ligue-1-2024.jpg" group-title="Sports",Ligue 1 Chinese
+http://198.204.228.26/live/cctv16hd.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",The Q TV
 https://mumt05.tangotv.in/THEQ/index.m3u8
 
@@ -1561,6 +1570,9 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",K Drama +
+https://stream-us-east-1.getpublica.com/cl/260421d7jk7dm0n8obm63ktai0/1280x720_3653759_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",AVS Family
 https://familyhls.avatv.live/hls/stream.m3u8
