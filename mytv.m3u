@@ -19,11 +19,20 @@ http://103.72.101.252:8080/live/2757.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Ziggo Sports 3
 https://xemzi.short.gy/140003
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Color Infinity
+http://103.72.101.252:8080/live/1325.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",New Tv
 http://114.250.17.90:4022/rtp/239.3.1.89:4120?
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Espn 3
 http://nor3live.win:80/livehttpplay?channel_id=23344
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Astro Premier League 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:48:48:FE&stream=571248&extension=ts&play_token=560vLRBtJH
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids",Sonic
+http://103.72.101.252:8080/live/815.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Game and Esports",Box Gamers
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/I67TC7A/3AE09B3449C6/m.m3u8
