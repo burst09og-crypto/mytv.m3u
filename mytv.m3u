@@ -12,6 +12,10 @@ http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Ziggo Sports 3
 https://xemzi.short.gy/140003
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Xplorer HD
+https://mini.allinonereborn.fun/tata.php?id=11619
+
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
 
