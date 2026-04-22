@@ -12,6 +12,18 @@ http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Ziggo Sports 3
 https://xemzi.short.gy/140003
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",New Tv
+http://114.250.17.90:4022/rtp/239.3.1.89:4120?
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Espn 3
+http://nor3live.win:80/livehttpplay?channel_id=23344
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Game and Esports",Box Gamers
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/I67TC7A/3AE09B3449C6/m.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Box Movies
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Xplorer HD
 https://mini.allinonereborn.fun/tata.php?id=11619
 
