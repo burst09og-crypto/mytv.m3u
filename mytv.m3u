@@ -6,14 +6,94 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Music",Zoom(Max)
+http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Music",T-Series(Max)
+http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="General",CNN
 http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",The Best
 http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/HkP4GHxG/Polsat-Sport-1-2024.jpg" group-title="Sports",Polsat Sports 1
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/vZ83F3t3/Polsat-Sport-2-2024.jpg" group-title="Sports",Polsat Sports 2
+http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/Cx09ZGHd/Polsat-Sport-3-2024.jpg" group-title="Sports",Polsat Sports 3
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VN6GMDSC/images.png" group-title="Sports",Polsat Sports 4
+http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/52Fj0MgW/Polsat-Sport-News-Logo-2016-svg.png" group-title="Sports",Polsat Sports News
+http://maxotts.maxdigitaltv.com/x-media/C243/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/7h0w4xDp/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="Sports",ESPN(Max)
+http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Sony Sab(Max)
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten 2 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten 5 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten 1 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten 3 Hindi (Max)
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Star Sports 1 Hindi (Max)
+http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Star Sports 2 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Star Sports 1 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Espn (Max)
+http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Sony Set(Max)
+http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Espn
+http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Sony Max(Max)
+http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Sony Sab(Max)
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Sony Pal(Max)
+http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",MTV Global(Max)
+http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Football
 http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sky Sports Cricket
+http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Star Gold HD(Max)
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Superhits
 http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
@@ -1158,6 +1238,10 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgKTW29V/download.jpg" group-title="Movie",Manoranjan Grand
 http://103.175.73.12:8080/live/19/19_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvg7LCvX/download.jpg" group-title="Nepali",Sarokar TV
+http://maxotts.maxdigitaltv.com/x-media/C130/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDk5FfD5/download.jpg" group-title="Nepali",Me Tv
 https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
 
@@ -1197,6 +1281,9 @@ http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
 https://ntvedge.truestreamz.com/ntvlive/ntvnews-abr.stream/ntvlive/ntvnews720P.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzo0MDowMiBBTSZoYXNoX3ZhbHVlPTJDZUwyWG90VEVjRDUrakhkZ29hREE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCD8x9XP/download.png" group-title="Nepali",NTV Plus
+http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
+
+Not Working
 https://ott-nettv-01.nettv.com.np/ott_abr/ntvplushdabr.stream/ottlive/netNTVPLUS720.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNzowNjozMiBBTSZoYXNoX3ZhbHVlPWdCLzBlK2JKKzNYa0VobHp3eW1DTkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM056VXpPRGN6TWpjc0luTjFZbk5qY21saVpYSmZhV1FpT2lJeE1URXhOVFl5TVNJc0luTjBZaUk2SW1kc1h6RXhNRFV4TVRJd05EUTFORGMzTmpVeU9EWXpOUzB4TURjaWZRLjk1STR1V0NFR2M5Y1lpak5HM3NYdURNNUt1c3hDZlNqZDQyVE1iV2xlS0E=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGJPCRyV/download.jpg" group-title="Nepali",Prime HD
