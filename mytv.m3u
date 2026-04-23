@@ -3,11 +3,29 @@
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Cartoon Classics (1080p)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Movie",Colors Cineplex (576p)
+http://103.72.101.252:8080/live/482.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Movie",Colors Cineplex (576p)
+http://103.72.101.252:8080/live/482.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Music",Zoom(Max)
 http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids",Nick Hd+
+http://103.72.101.252:8080/live/1226.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Big Magic
+https://mumt05.tangotv.in/BIGMAGIC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",E24
+https://mumt04.tangotv.in/E24/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood (576p)
+http://103.72.101.252:8080/live/1763.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Music",T-Series(Max)
 http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
