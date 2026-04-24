@@ -18,8 +18,17 @@ http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids",Nick Hd+
 http://103.72.101.252:8080/live/1226.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Hi Tv
+https://mini.allinonereborn.fun/tata.php?id=11596
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",Sony Set
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Star Utsav Movie
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Entertainment",E24
 https://mumt04.tangotv.in/E24/tracks-v2a1/mono.m3u8
