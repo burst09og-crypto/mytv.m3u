@@ -1707,6 +1707,15 @@ http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Drama",HUM(Max)
 http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="KDrama",Rakuten Viki
+https://newidco-rakutenviki-1-us.roku.wurl.tv/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="KDrama",Rakuten Viki 2
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Nature",Wild Earth
+https://wildearth-xumo.amagi.tv/masterR216lp.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydL7j6MK/images.jpg" group-title="Drama",Express(Max)
 http://maxotts.maxdigitaltv.com/x-media/C273/master.m3u8
 
