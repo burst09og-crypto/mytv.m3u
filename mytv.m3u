@@ -1531,7 +1531,8 @@ https://m3uplay.com/leo/live.m3u8?cid=559&chunks=RxIQjyNtpUwxT6SbNXD4QpeWtuoM8Ul
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5074xNNJ/images.png" group-title="Nepali",Samata Television
 http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Nepali",Birat Television
+#EXTINF:-1 tvg-logo=" " group-title="Nepali",Network Television
+http://maxotts.maxdigitaltv.com/x-media/C668/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Nepali",Action Sports
 http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
@@ -1599,6 +1600,22 @@ http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Music",MTV (Max)
 http://maxotts.maxdigitaltv.com/x-media/C655/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Sports",ESPN 4 (Max)
+http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Sports",Fightbox (Max)
+http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Movie",Sony Pix(Max)
+http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Nature",Travelxp (Max)
+http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Entertainment",IPN TV (Max)
+http://maxotts.maxdigitaltv.com/x-media/C276/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Nature",Animal Planet HD(Max)
 http://maxotts.maxdigitaltv.com/x-media/C87/1/master.m3u8
