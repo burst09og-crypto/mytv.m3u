@@ -1840,6 +1840,8 @@ https://a4.kora-plus.dad/watch/ad1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLfwTXk/Sky-Sport-Bundesliga-UHD.png" group-title="Sports",Sky Sports Bundesliga
 https://a1.kora-plus.dad/watch/bundes2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLfwTXk/Sky-Sport-Bundesliga-UHD.png" group-title="Cooking",Masterchief UK
+https://d1nn4ic5ci0eid.cloudfront.net/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZMq7wCH/download.jpg" group-title="Sports",Laliga China
 http://live5.msrktz.app/live/79665343.m3u8
@@ -1861,6 +1863,9 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",K Drama +
 https://stream-us-east-1.getpublica.com/cl/260421d7jk7dm0n8obm63ktai0/1280x720_3653759_0_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",Asiancrush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_384x216.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqTbjqt8/7Dqg-ELX-d.webp" group-title="KDrama",AVS Family
 https://familyhls.avatv.live/hls/stream.m3u8
