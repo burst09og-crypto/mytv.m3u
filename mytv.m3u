@@ -10,6 +10,9 @@ https://saregama.keralive.workers.dev/saregama/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Movie",Colors Cineplex (576p)
 http://103.72.101.252:8080/live/482.m3u8
 
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Kids",Sony YAy 
+https://alymize.com/sliv/stream.m3u8?id=1000001971
+
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="KDrama",New K Movives
 https://d142avk5g3brgu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-14jx63ma70xji/95a49677-8dfc-4c04-9069-670a4e7868e7/0.m3u8
 
