@@ -7,6 +7,9 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://saregama.keralive.workers.dev/saregama/live_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Sports",Rally TV USA
+https://di4fb7mbsq3nf.cloudfront.net/playlist_webvtt.m3u8
+
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Movie",Colors Cineplex (576p)
 http://103.72.101.252:8080/live/482.m3u8
 
