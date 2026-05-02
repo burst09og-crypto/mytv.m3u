@@ -1524,6 +1524,10 @@ http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7KGtPgK/download.jpg" group-title="Nepali",Times TV HD
 http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7KGtPgK/download.jpg" group-title="Nepali",Bhairahawa HD Tv
+http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgPcvCm6/download.png" group-title="Nepali", Kalika Tv
 http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
 
