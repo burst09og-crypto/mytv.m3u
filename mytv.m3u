@@ -16,6 +16,9 @@ https://alymize.com/sliv/stream.m3u8?id=1000044878
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Kids",Sony YAy 
 https://alymize.com/sliv/stream.m3u8?id=1000001971
 
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Kids",Nick Hd+
+https://alymize.com/dd/live.m3u8?id=1226&token=JITENDRA_KUMAR
+
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Kids",Gubbare
 https://alymize.com/dd/live.m3u8?id=3385&token=JITENDRA_KUMAR
 
