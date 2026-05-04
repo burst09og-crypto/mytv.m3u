@@ -7,6 +7,21 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://saregama.keralive.workers.dev/saregama/live_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
+https://alymize.com/dd/live.m3u8?id=1763&token=JITENDRA_KUMAR
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Superhits
+https://alymize.com/dd/live.m3u8?id=1450&token=JITENDRA_KUMAR
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex
+https://alymize.com/dd/live.m3u8?id=482&token=JITENDRA_KUMAR
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex HD
+https://alymize.com/dd/live.m3u8?id=1477&token=JITENDRA_KUMAR
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Rishtey
+https://alymize.com/dd/live.m3u8?id=279&token=JITENDRA_KUMAR
+
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Sports",Rally TV USA
 https://di4fb7mbsq3nf.cloudfront.net/playlist_webvtt.m3u8
 
@@ -241,6 +256,9 @@ https://mumt05.tangotv.in/THEQ/index.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",Discovery Kids
 http://nor3live.win:80/livehttpplay?channel_id=23329
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",PowerKids
+https://alymize.com/dd/live.m3u8?id=2774&token=JITENDRA_KUMAR
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="kids",Discovery Kids(Max)
 http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
