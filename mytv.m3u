@@ -1021,6 +1021,25 @@ http://103.161.153.165:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png" group-title="Entertainment",Sony pal
 http://103.78.149.54:8000/play/a016/index.m3u8
 
+
+
+#EXTINF:-1 tvg-name="DAZN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DAZN_Logo.svg/512px-DAZN_Logo.svg.png" group-title="Sports",DAZN 5
+http://46.151.196.223:14424
+
+#EXTINF:-1 tvg-name="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DAZN_Logo.svg/512px-DAZN_Logo.svg.png" group-title="Sports",DAZN 4
+http://46.151.196.223:14423
+
+#EXTINF:-1 tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DAZN_Logo.svg/512px-DAZN_Logo.svg.png" group-title="Sports",DAZN 3
+http://46.151.196.223:14422
+
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DAZN_Logo.svg/512px-DAZN_Logo.svg.png" group-title="Sports",DAZN 2
+http://46.151.196.223:14421
+
+#EXTINF:-1 tvg-name="LaLiga Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_Sports_TV_logo.png/512px-LaLiga_Sports_TV_logo.png" group-title="Sports",LaLiga Sports
+http://46.151.196.223:14440/
+
+#EXTINF:-1 tvg-name="LaLiga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_Sports_TV_logo.png/512px-LaLiga_Sports_TV_logo.png" group-title="Sports",LaLiga 2
+http://46.151.196.223:14438/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdC50B6g/images_(10).jpg" group-title="Sports",Sports Connect
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu
 
