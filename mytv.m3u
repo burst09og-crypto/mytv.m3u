@@ -10,6 +10,32 @@ https://saregama.keralive.workers.dev/saregama/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
 https://alymize.com/dd/live.m3u8?id=1763&token=JITENDRA_KUMAR
 
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",& TV Flix
+http://103.157.248.140:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", Eurosports HD(AEW)
+http://103.157.248.140:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", starsports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", Star Sports Select 1 HD
+http://103.157.248.140:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", Star Sports Select 1 HD
+http://103.157.248.140:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", Bein SportS 1
+http://ugeen.live:8080/Ugeen_VIP68YgPi/TTD7Tj/3221
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", Test
+http://103.157.248.140:8000/play/a00q/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
+http://103.157.248.140:8000/play/a00x/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Superhits
 https://alymize.com/dd/live.m3u8?id=1450&token=JITENDRA_KUMAR
 
