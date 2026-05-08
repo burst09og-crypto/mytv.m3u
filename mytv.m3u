@@ -6,6 +6,36 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="KDrama",Korean TV
 https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/392cd3aa-0bb7-408e-8600-0eee98a31756/0.m3u8
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",K drama plus
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Movie 
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=geniek-movie&channel_id=newid_350&apikey=b97c7a7d0c82424bb607e141ef215779&auth=cb09d9f2-275bc291-0cf2a07c-2c92754e&ads.live=[CONTENT_LIVE]&ads.device_did={PSID}&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy={US_PRIVACY}&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.app.name={APP_NAME}&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.content_title=[PROGRAM_TITLE]&ads.content_series=[SERIES_TITLE]&ads.content_season=[SEASON_TITLE]&ads.content_episode=[EPISODE_NO]&ads.content_length=[CONTENT_LENGTH]&ads.device.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&nh=true&ads.device_dnt={TARGETOPT}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai_vendor=SSSLIVE&ads.service_id=GB21000038X
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Drama
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=geniek-drama&channel_id=newid_351&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b4c04261-6048346a-3e54f396-6b8183b5&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2100002R7
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",K series by MDC
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New k movies
+https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?ads.xumo_channelId=99991386
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN UK event
+http://inthezone.pro:80/Sofia/Sofia/634664
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Max 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True football 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8
+
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Game And Esports",Via x esports
 http://38.44.109.41:8003/play/a0cy/index.m3u8
 
