@@ -34,24 +34,6 @@ http://190.0.247.38:8000/play/a00z
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Laliga M plus 
 http://dynato.xyz:80/yBq496/85475728/8083
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",RPL
-http://141.95.55.143/CH3827/index.m3u8
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Subtitle
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656014
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Asian
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96381/hls/pl.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Step family 
-	http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95947/hls/pl.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Asian 
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Pigoo (Fashion)
-http://arva.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
