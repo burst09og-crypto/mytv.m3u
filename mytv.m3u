@@ -22,6 +22,36 @@ https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New k movies
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?ads.xumo_channelId=99991386
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Digi sports
+http://91.201.172.14:35005/
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Digi sports 2
+http://91.201.172.14:35006/
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Bundesliga
+http://190.0.247.38:8000/play/a00z
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Laliga M plus 
+http://dynato.xyz:80/yBq496/85475728/8083
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",RPL
+http://141.95.55.143/CH3827/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Subtitle
+http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656014
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Asian
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96381/hls/pl.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Step family 
+	http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95947/hls/pl.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Asian 
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Fashion",Pigoo (Fashion)
+http://arva.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
@@ -131,8 +161,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=959377&ex
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Premier league:
 http://192.142.28.55:8080/live/MLS003/qZj4zbPNDn/130726.m3u8?token=OFpYTGJ6dEwwQ1A4S09l
-#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",
-Play sports 1:
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Play sports 1
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130760.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Euro sports 1
@@ -1745,8 +1775,7 @@ http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7KGtPgK/download.jpg" group-title="Nepali",Himalayan Sports
 http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7KGtPgK/download.jpg" group-title="Nepali",Test Tv
-http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgPcvCm6/download.png" group-title="Nepali", Kalika Tv
 http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
