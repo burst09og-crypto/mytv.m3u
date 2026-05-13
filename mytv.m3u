@@ -38,6 +38,9 @@ http://dynato.xyz:80/yBq496/85475728/8083
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Cooking",Food Food (max)
+http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
+
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN UK event
 http://inthezone.pro:80/Sofia/Sofia/634664
@@ -56,6 +59,9 @@ http://smart.lokkeweb.workers.dev/ID=1313768516f4e2fb1853d4
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",S sports 1
 http://smart.lokkeweb.workers.dev/ID=35317621955a43bd93b947
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Sky sports Cricket
+http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro pl 
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775977&extension=m3u8
