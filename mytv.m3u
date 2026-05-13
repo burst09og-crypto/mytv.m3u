@@ -22,6 +22,44 @@ https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New k movies
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?ads.xumo_channelId=99991386
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B sports 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B sports 2
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776211&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True sports 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776202&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True sports 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776200&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True 4U
+	http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775999&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Now sports 1
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:D7:94:2B&stream=1032487&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN
+http://matrivagoweb.xyz:8080/mauri000/03031993/67369
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",TNT
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1596285&extension=ts&play_token=sn8JXgt0AX
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Anime",Death note
+https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Anime",Death note 2
+https://acortar.link/tLnmbU
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 2
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/afa256cb-1e06-4c00-992d-f8cc37529a88/2.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 1
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN3600005NF&ads.ssai_vendor=SSSLIVE&pb_type=pb-y5gitldbaizaw_cloudfront
+
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Digi sports
 http://91.201.172.14:35005/
 
