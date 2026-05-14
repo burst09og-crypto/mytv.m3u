@@ -12,7 +12,8 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775978&extension
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro Premier League
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775975&extension=m3u8
 
-
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Sonic
+https://alymize.com/dd/live.m3u8?id=815&token=JITENDRA_KUMAR
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Baseball
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109110
