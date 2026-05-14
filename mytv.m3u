@@ -12,8 +12,7 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775978&extension
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro Premier League
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775975&extension=m3u8
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Spor
-http://95.9.245.251:9981/play/ticket/stream/service/0c892b7621214fd1290c5790f349606c?title=T%C4%B0V%C4%B0BU%20SPOR%20HD%20%2F%20TTNET
+
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Baseball
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109110
@@ -27,8 +26,7 @@ http://46.149.191.217:9010/play/a017
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN Laliga
 http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/244
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Music",Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
 
 
 
