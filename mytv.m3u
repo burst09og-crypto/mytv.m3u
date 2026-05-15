@@ -6,6 +6,9 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Mahsun sports
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
+#EXTINF:-1 tvg-id="1529" tvg-name="MI TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MI_TV.png" tvg-language="English" group-title="Sports", MI TV
+http://103.159.180.34:5001/live/1529.m3u8
+
 #EXTINF:-1 tvg-id="3231" tvg-name="Apex Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" tvg-language="Bhojpuri" group-title="Entertainment", Apex Entertainment
 http://103.159.180.34:5001/live/3231.m3u8
 
