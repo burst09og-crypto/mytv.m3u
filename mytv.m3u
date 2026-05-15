@@ -6,6 +6,33 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Mahsun sports
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
+#EXTINF:-1 tvg-id="3231" tvg-name="Apex Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" tvg-language="Bhojpuri" group-title="Entertainment", Apex Entertainment
+http://103.159.180.34:5001/live/3231.m3u8
+
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png" tvg-language="Hindi" group-title="Kids", Hungama
+https://mini.allinonereborn.fun/tata.php?id=11646
+
+#EXTINF:-1 tvg-id="903" tvg-name="Only Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png" tvg-language="Punjabi" group-title="Music", Only Music
+https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u
+
+#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" group-title="Music", E 24
+https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeZing.png" tvg-language="Hindi" group-title="Music", Zing
+http://103.159.180.34:5001/live/585.m3u8
+
+#EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-language="English" group-title="Movies", MN+ HD
+http://103.159.180.34:5001/live/477.m3u8
+
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+https://zee5.cr7x.workers.dev/live/999/999/0-9-zeeclassic/master.m3u8
+
+#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
+http://103.159.180.34:5001/live/962.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports", Ten 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 #EXTINF:-1 tvg-id="2936" tvg-name="Oye Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Oye_Music.png" tvg-language="Hindi" group-title="Music", Oye Music
 https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8
 
