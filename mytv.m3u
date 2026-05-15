@@ -6,6 +6,34 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Mahsun sports
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
+#EXTINF:-1 tvg-id="2230" tvg-name="Jio Specials HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" tvg-language="English" group-title="Music", Jio Specials HD
+http://103.159.180.34:5001/live/2230.m3u8
+#EXTINF:-1 tvg-id="2252" tvg-name="Desi Music Station" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Music_Station.png" tvg-language="Hindi" group-title="Music", Desi Music Station
+http://103.159.180.34:5001/live/2252.m3u8
+
+#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
+http://103.159.180.34:5001/live/2327.m3u8
+#EXTINF:-1 tvg-id="2328" tvg-name="CyberPeace TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CyberPeace_TV.png" tvg-language="English" group-title="Educational", CyberPeace TV
+http://103.159.180.34:5001/live/2328.m3u8
+#EXTINF:-1 tvg-id="2962" tvg-name="NoFilterNeha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/No_Filter_Neha.png" tvg-language="Hindi" group-title="Entertainment", NoFilterNeha
+http://103.159.180.34:5001/live/2962.m3u8
+
+#EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" group-title="Entertainment", BH OTT India Fest
+http://103.159.180.34:5001/live/3028.m3u8
+#EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-language="Hindi" group-title="Entertainment", Sun Neo HD
+http://103.159.180.34:5001/live/3088.m3u8
+
+
+#EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold 2 HD
+http://103.159.180.34:5001/live/3096.m3u8
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" tvg-language="Hindi" group-title="Movies", Star Gold Romance
+http://103.159.180.34:5001/live/3097.m3u8
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" tvg-language="Hindi" group-title="Movies", Star Gold Thrills
+http://103.253.18.58:8000/play/a00o
+
+#EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" tvg-language="English" group-title="Sports", Penta TV
+http://103.159.180.34:5001/live/3204.m3u8
+
 #EXTINF:-1 tvg-id="1529" tvg-name="MI TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MI_TV.png" tvg-language="English" group-title="Sports", MI TV
 http://103.159.180.34:5001/live/1529.m3u8
 
