@@ -3,6 +3,54 @@
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Cartoon Classics (1080p)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=931
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9244
+https://mini.allinonereborn.fun/tata.php?id=9245
+#EXTINF:-1 tvg-id="TNTSports3.uk@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports",TNT Sports 3 
+https://mini.allinonereborn.fun/tata.php?id=9246
+https://mini.allinonereborn.fun/tata.php?id=9247
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9248
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9249
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9250
+https://mini.allinonereborn.fun/tata.php?id=9251
+https://mini.allinonereborn.fun/tata.php?id=9252
+https://mini.allinonereborn.fun/tata.php?id=9253
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9254
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9255
+
+#EXTINF:-1 tvg-id="SNY.us@SD" tvg-logo="https://i.ibb.co/dws0QvSG/SNY-logo-1.jpg" group-title="Sports",SNY
+https://mini.allinonereborn.fun/tata.php?id=9277
+#EXTINF:-1 tvg-id="beinSports1" tvg-logo="https://i.ibb.co/5WVxQSTn/bein-Sports-1.webp" group-title="Sports",bein SPORTS 1
+https://mini.allinonereborn.fun/tata.php?id=9564
+https://mini.allinonereborn.fun/tata.php?id=9565
+https://mini.allinonereborn.fun/tata.php?id=9566
+https://mini.allinonereborn.fun/tata.php?id=9567
+#EXTINF:-1 tvg-id="beinSports7" tvg-logo="https://i.ibb.co/k2G1ynk0/BEIN7.png" group-title="Sports",bein SPORTS 7
+https://mini.allinonereborn.fun/tata.php?id=9568
+#EXTINF:-1 tvg-id="beinSports8" tvg-logo="https://i.ibb.co/Lz0244TM/BEIN8.jpg" group-title="Sports",bein SPORTS 8
+https://mini.allinonereborn.fun/tata.php?id=9569
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 10
+https://mini.allinonereborn.fun/tata.php?id=11462
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 4
+https://mini.allinonereborn.fun/tata.php?id=11476
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 2
+https://mini.allinonereborn.fun/tata.php?id=11545
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Hungama TV
+https://mini.allinonereborn.fun/tata.php?id=11646
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
+https://mini.allinonereborn.fun/tata.php?id=11667
+#EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing!
+https://mini.allinonereborn.fun/tata.php?id=929
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo=" " group-title="Movies",Tata Play Theatre HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=1113
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie", Sony Max 2
