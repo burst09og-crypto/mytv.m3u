@@ -5,6 +5,8 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo=" " group-title="Movies",Tata Play Theatre HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=1113
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie", Sony Max 2
+https://mini.allinonereborn.fun/tata.php?id=1156
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" group-title="Kids", Disney Channel
 http://103.122.249.134:8000/play/a05f
