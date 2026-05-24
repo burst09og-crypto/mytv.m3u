@@ -1,79 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Cartoon Classics (1080p)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
-
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
-https://mini.allinonereborn.fun/tata.php?id=931
-
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA
-https://animax.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
-https://mini.allinonereborn.fun/tata.php?id=9244
-https://mini.allinonereborn.fun/tata.php?id=9245
-#EXTINF:-1 tvg-id="TNTSports3.uk@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports",TNT Sports 3 
-https://mini.allinonereborn.fun/tata.php?id=9246
-https://mini.allinonereborn.fun/tata.php?id=9247
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
-https://mini.allinonereborn.fun/tata.php?id=9248
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
-https://mini.allinonereborn.fun/tata.php?id=9249
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
-https://mini.allinonereborn.fun/tata.php?id=9250
-https://mini.allinonereborn.fun/tata.php?id=9251
-https://mini.allinonereborn.fun/tata.php?id=9252
-https://mini.allinonereborn.fun/tata.php?id=9253
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
-https://mini.allinonereborn.fun/tata.php?id=9254
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
-https://mini.allinonereborn.fun/tata.php?id=9255
-
-#EXTINF:-1 tvg-id="SNY.us@SD" tvg-logo="https://i.ibb.co/dws0QvSG/SNY-logo-1.jpg" group-title="Sports",SNY
-https://mini.allinonereborn.fun/tata.php?id=9277
-#EXTINF:-1 tvg-id="beinSports1" tvg-logo="https://i.ibb.co/5WVxQSTn/bein-Sports-1.webp" group-title="Sports",bein SPORTS 1
-https://mini.allinonereborn.fun/tata.php?id=9564
-https://mini.allinonereborn.fun/tata.php?id=9565
-https://mini.allinonereborn.fun/tata.php?id=9566
-https://mini.allinonereborn.fun/tata.php?id=9567
-#EXTINF:-1 tvg-id="beinSports7" tvg-logo="https://i.ibb.co/k2G1ynk0/BEIN7.png" group-title="Sports",bein SPORTS 7
-https://mini.allinonereborn.fun/tata.php?id=9568
-#EXTINF:-1 tvg-id="beinSports8" tvg-logo="https://i.ibb.co/Lz0244TM/BEIN8.jpg" group-title="Sports",bein SPORTS 8
-https://mini.allinonereborn.fun/tata.php?id=9569
-
-#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 10
-https://mini.allinonereborn.fun/tata.php?id=11462
-
-#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 4
-https://mini.allinonereborn.fun/tata.php?id=11476
-#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Sports",bein Sports 2
-https://mini.allinonereborn.fun/tata.php?id=11545
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Hungama TV
-https://mini.allinonereborn.fun/tata.php?id=11646
-#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
-https://mini.allinonereborn.fun/tata.php?id=11667
-#EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing!
-https://mini.allinonereborn.fun/tata.php?id=929
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo=" " group-title="Movies",Tata Play Theatre HD (Tata Play)
-https://mini.allinonereborn.fun/tata.php?id=1113
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie", Sony Max 2
-https://mini.allinonereborn.fun/tata.php?id=1156
-
-#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" group-title="Kids", Disney Channel
-http://103.122.249.134:8000/play/a05f
-
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports",LFC
-https://raw.githubusercontent.com/blive99/blive99.github.io/58e0b482b0febe10094e6c1b996f2ced2145b26a/m3u8/sporttv/LFC-TV.m3u8
-
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports",Max 2	
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115758.m3u8
-
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Comedy",Comedy kings
-https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports",RM TV
-https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports",Willow sports
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
@@ -117,7 +49,7 @@ http://103.122.249.134:8000/play/a051
 #EXTINF:-1 tvg-id="809" tvg-name="Maha Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-language="Hindi" group-title="Movies", Maha Movies
 https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
 
-#EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" tvg-language="English" group-title="Movir",Star gold thrills
+#EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" tvg-language="English" group-title="Movies",Star gold thrills
 http://103.157.248.140:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" tvg-language="English" group-title="Kids",Nick jr
@@ -207,7 +139,7 @@ http://103.159.180.34:5001/live/866.m3u8
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYHin.png" tvg-language="Hindi" group-title="Kids", Sony Yay Hindi
 https://sonyliv.07in.workers.dev/live/999/999/sony-yay.m3u8
 
-#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-language="Hindi" group-title="Infotainment", Jio Events HD
+#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-language="Hindi" group-title="Entertainment", Jio Events HD
 http://103.159.180.34:5001/live/871.m3u8
 
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" tvg-language="English" group-title="Sports", Jio Sports HD
@@ -2810,13 +2742,226 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/1200.m3u8
 
 
 
+Anime
+
+
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Anime",Animax_NA
+https://animax.live/hls/stream.m3u8
 
 
 
 
 
 
+Business
 
+
+
+
+
+
+Comedy
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/Gppq60V1/images.jpg" tvg-language="English" group-title="Comedy",Comedy kings
+https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8?
+
+
+
+Cooking
+
+
+
+
+Crime
+
+
+
+
+Drama
+
+
+
+
+
+Education
+
+
+
+
+
+Entertainment
+
+
+
+
+
+
+Fashion
+
+
+
+
+
+
+Game and Esports
+
+
+
+
+
+General
+
+
+
+
+Movies
+
+
+
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://i.postimg.cc/hj1WMR7C/images.jpg" group-title="Movies",Tata Play Theatre HD (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=1113
+
+
+KDrama
+
+
+
+
+
+
+Kids
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Cartoon Classics (1080p)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
+
+
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=931
+
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://i.postimg.cc/MZ0K3hSB/Hungama-Photoroom.webp" group-title="Kids",Hungama TV
+https://mini.allinonereborn.fun/tata.php?id=11646
+
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
+https://mini.allinonereborn.fun/tata.php?id=11667
+
+
+
+
+Music
+
+#EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing!
+https://mini.allinonereborn.fun/tata.php?id=929
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/tgdMGtCY/Sony-Max-2.webp" group-title="Movie", Sony Max 2
+https://mini.allinonereborn.fun/tata.php?id=1156
+
+Nature
+
+
+
+Nepali
+
+
+
+Reality Shows
+
+
+
+
+Sports
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9248
+
+#EXTINF:-1 tvg-id="SNY.us@SD" tvg-logo="https://i.ibb.co/dws0QvSG/SNY-logo-1.jpg" group-title="Sports",SNY
+https://mini.allinonereborn.fun/tata.php?id=9277
+
+#EXTINF:-1 tvg-id="beinSports1" tvg-logo="https://i.ibb.co/5WVxQSTn/bein-Sports-1.webp" group-title="Sports",bein SPORTS 1
+https://mini.allinonereborn.fun/tata.php?id=9564
+
+https://mini.allinonereborn.fun/tata.php?id=9565
+https://mini.allinonereborn.fun/tata.php?id=9566
+https://mini.allinonereborn.fun/tata.php?id=9567
+
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/nzg7dNb6/Be-In-Sports-2-Australia.png" group-title="Sports",bein Sports 2
+https://mini.allinonereborn.fun/tata.php?id=11545
+
+
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/VsJWjWQB/vw-Ag-JNi.png" group-title="Sports",bein Sports 4
+https://mini.allinonereborn.fun/tata.php?id=11476
+
+
+
+#EXTINF:-1 tvg-id="beinSports7" tvg-logo="https://i.ibb.co/k2G1ynk0/BEIN7.png" group-title="Sports",bein SPORTS 7
+https://mini.allinonereborn.fun/tata.php?id=9568
+
+#EXTINF:-1 tvg-id="beinSports8" tvg-logo="https://i.ibb.co/Lz0244TM/BEIN8.jpg" group-title="Sports",bein SPORTS 8
+https://mini.allinonereborn.fun/tata.php?id=9569
+
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/Mp2Mfyq1/images.png" group-title="Sports",bein Sports 10
+https://mini.allinonereborn.fun/tata.php?id=11462
+
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/sXq6pnng/images.jpg" tvg-language="English" group-title="Sports",Max 2	
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115758.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" https://i.postimg.cc/prMQW3GB/channels4-profile.jpg" tvg-language="English" group-title="Sports",RM TV
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+Weather 
+
+
+
+
+Youtube 
+
+
+
+
+Undefined
+
+
+
+
+
+
+Not working currently
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9244
+https://mini.allinonereborn.fun/tata.php?id=9245
+
+#EXTINF:-1 tvg-id="TNTSports3.uk@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports",TNT Sports 3 
+https://mini.allinonereborn.fun/tata.php?id=9246
+https://mini.allinonereborn.fun/tata.php?id=9247
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9249
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9250
+https://mini.allinonereborn.fun/tata.php?id=9251
+https://mini.allinonereborn.fun/tata.php?id=9252
+https://mini.allinonereborn.fun/tata.php?id=9253
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9254
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN
+https://mini.allinonereborn.fun/tata.php?id=9255
+
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" group-title="Kids", Disney Channel
+http://103.122.249.134:8000/play/a05f
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/bvqRkXpQ/s202002140102044-300-450.png" tvg-language="English" group-title="Sports",LFC
+https://raw.githubusercontent.com/blive99/blive99.github.io/58e0b482b0febe10094e6c1b996f2ced2145b26a/m3u8/sporttv/LFC-TV.m3u8
 
 
 
