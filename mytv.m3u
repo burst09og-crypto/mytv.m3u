@@ -4,19 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/Jzyhxx5m/Astro-Football-(2024).png" group-title="Sports",Astro football 
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775978&extension=m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/9fsVMH6Y/images.png" group-title="Sports",DAZN Laliga
-http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/244
 
 
 
@@ -31,12 +19,11 @@ https://i.postimg.cc/JnqyvQYZ/True-Sport-2.webp
 
 
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/85SGMQHM/images.png" group-title="Sports",DAZN UK event
-http://inthezone.pro:80/Sofia/Sofia/634664
 
 
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True football 3
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://ibb.co/kRcjCMD" group-title="Sports",True football 3
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Game And Esports",Via x esports
@@ -3080,3 +3067,19 @@ https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 1
 https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN3600005NF&ads.ssai_vendor=SSSLIVE&pb_type=pb-y5gitldbaizaw_cloudfront
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/85SGMQHM/images.png" group-title="Sports",DAZN UK event
+http://inthezone.pro:80/Sofia/Sofia/634664
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/Jzyhxx5m/Astro-Football-(2024).png" group-title="Sports",Astro football 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775978&extension=m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/9fsVMH6Y/images.png" group-title="Sports",DAZN Laliga
+http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/244
