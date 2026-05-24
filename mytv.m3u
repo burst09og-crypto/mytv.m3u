@@ -4,121 +4,23 @@
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-language="English" group-title="Movies", MN+ HD
-http://103.159.180.34:5001/live/477.m3u8
-
-#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeeclassic/master.m3u8
-
-#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
-http://103.159.180.34:5001/live/962.m3u8
-
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports", Ten 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
-#EXTINF:-1 tvg-id="2936" tvg-name="Oye Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Oye_Music.png" tvg-language="Hindi" group-title="Music", Oye Music
-https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8
-
-#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids", Epic Kids
-http://103.159.180.34:5001/live/3385.m3u8
-
-#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
-http://103.159.180.34:5001/live/3543.m3u8
-#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
-http://103.159.180.34:5001/live/3544.m3u8
-
-#EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" tvg-language="Hindi" group-title="Movies", Zee Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-http://103.175.73.12:8080/live/257/257_0.m3u8
-
-#EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" tvg-language="Hindi" group-title="Movies", Zee Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-http://103.175.73.12:8080/live/257/257_0.m3u8
-
-#EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies", NH BollyFlix
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
-#EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" group-title="Movies", NH BollyGold
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
-#EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" tvg-language="Hindi" group-title="Movies", Superfine Films
-https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
-#EXTINF:-1 tvg-id="3346" tvg-name="Yahoo Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-language="English" group-title="Business", Yahoo Finance
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3143" tvg-name="Mahaa Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahaa_Max.png" tvg-language="Telugu" group-title="Entertainment", Mahaa Max
-https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
-
-
-#EXTINF:-1 tvg-id="3372" tvg-name="Sony LIV Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" tvg-language="English" group-title="Sports", Sony LIV Sports 1
-http://103.159.180.34:5001/live/3372.m3u8
-#EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" tvg-language="English" group-title="Sports", Sony LIV Sports 2
-http://103.159.180.34:5001/live/3373.m3u8
-#EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" tvg-language="English" group-title="Sports", Sony LIV Sports 3
-http://103.159.180.34:5001/live/3374.m3u8
-#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids", Epic Kids
-http://103.159.180.34:5001/live/3385.m3u8
-#EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" tvg-language="English" group-title="Sports", Sony LIV Sports 5
-http://103.159.180.34:5001/live/3399.m3u8
-
-#EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-language="Tamil" group-title="Movies", Roja Movies
-https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
-#EXTINF:-1 tvg-id="3424" tvg-name="Sony Yay Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" tvg-language="Bengali" group-title="Kids", Sony Yay Bengali
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
-#EXTINF:-1 tvg-id="3499" tvg-name="World Chess" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/World_Chess.png" tvg-language="English" group-title="Sports", World Chess
-http://103.159.180.34:5001/live/3499.m3u8
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Max sports 1
-https://de1.dstv.cx/MaxSport1HR/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Max sports 2
-https://de1.dstv.cx/MaxSport2HR/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Tnt sports 3
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77415&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Tnt sports 1
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77413&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Tnt sports 2
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77414&extension=m3u8
-
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie",Movie Plex
-https://mumt04.tangotv.in/MOVIEPLEX/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro football 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/Jzyhxx5m/Astro-Football-(2024).png" group-title="Sports",Astro football 
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775978&extension=m3u8
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro Premier League
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775975&extension=m3u8
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Sonic
-https://alymize.com/dd/live.m3u8?id=815&token=JITENDRA_KUMAR
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Baseball
-http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109110
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Sport 1
-http://46.149.191.217:9001/play/a02f
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",M4 sports
-http://46.149.191.217:9010/play/a017
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN Laliga
+
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/9fsVMH6Y/images.png" group-title="Sports",DAZN Laliga
 http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/244
 
 
 
+https://i.postimg.cc/JnqyvQYZ/True-Sport-2.webp
 
 
 
@@ -128,85 +30,11 @@ http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/244
 
 
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie",Shemaroo Bollywood 
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb543d1f7d6c638884cb3663cef342a8f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c515677b000ce0d4187822fcf0466074e30859db17cc79a1419aaa3774e57cf660e0da75540c0520671d2e65348a635a7760816a7583a0e7cddf359b37642b8df58d2237c9bce8c37683f03409a5e5afba358b38ab50a34c76da5b902488b2f5be790569fd548efd38608965e8223a7108093f1ddd20dd0d3c432b457b4650b0d7524c8d72ec4cc6faeb0f501f55b5f52243065a4c6bdfb5e3d8a352c369adef8cfae7b8eacf341a0733eba7af7274cf9a419c322a6f546adacb5db570342cc7da4e342d28790d9814511bc61f6a3fdd4334c8bf9027149ca689242797cf8f9baeb2909ba236078a5cdead8c364d171aebdf8edcea3844bd30ecbd3fc953c4c4a763ef3e737bcb762c120d174a981466f0c0d0c81935bd19e821e116c4b948f57d0534ae980cba8964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebbed4482b852e73d7c740db1fb205a057f7cd6ef74047f2c9012aa809ca1520d07cdb89caa981d68496959027ee6888051958ad2261412b33177300e701df4578689bef8dff29eaf20eaa1d0bf466b2737ff792adab52269/30/848x480_1686360/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="Kids",Wow kids
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1778772771~acl=%2f*~data=hdntl~hmac=f2101941abccf56ac0e847cb087bea4be788c003ac8f5c75b04c25c6f751bcb5/chunklist_b2628000.m3u8
-
-#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo=" " group-title="KDrama",Korean TV
-https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/392cd3aa-0bb7-408e-8600-0eee98a31756/0.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",K drama plus
-https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Movie 
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=geniek-movie&channel_id=newid_350&apikey=b97c7a7d0c82424bb607e141ef215779&auth=cb09d9f2-275bc291-0cf2a07c-2c92754e&ads.live=[CONTENT_LIVE]&ads.device_did={PSID}&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy={US_PRIVACY}&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.app.name={APP_NAME}&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.content_title=[PROGRAM_TITLE]&ads.content_series=[SERIES_TITLE]&ads.content_season=[SEASON_TITLE]&ads.content_episode=[EPISODE_NO]&ads.content_length=[CONTENT_LENGTH]&ads.device.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&nh=true&ads.device_dnt={TARGETOPT}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai_vendor=SSSLIVE&ads.service_id=GB21000038X
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Drama
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=geniek-drama&channel_id=newid_351&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b4c04261-6048346a-3e54f396-6b8183b5&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2100002R7
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",K series by MDC
-https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New k movies
-https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?ads.xumo_channelId=99991386
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B sports 3
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B sports 2
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776211&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True sports 3
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776202&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True sports 1
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776200&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True 4U
-	http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775999&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Now sports 1
-http://185.243.7.191:80/play/live.php?mac=00:1A:79:D7:94:2B&stream=1032487&extension=m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN
-http://matrivagoweb.xyz:8080/mauri000/03031993/67369
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 2
-https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/afa256cb-1e06-4c00-992d-f8cc37529a88/2.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 1
-https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN3600005NF&ads.ssai_vendor=SSSLIVE&pb_type=pb-y5gitldbaizaw_cloudfront
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Digi sports
-http://91.201.172.14:35005/
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Digi sports 2
-http://91.201.172.14:35006/
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Bundesliga
-http://190.0.247.38:8000/play/a00z
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Laliga M plus 
-http://dynato.xyz:80/yBq496/85475728/8083
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B USA
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Cooking",Food Food (max)
-http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN UK event
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/85SGMQHM/images.png" group-title="Sports",DAZN UK event
 http://inthezone.pro:80/Sofia/Sofia/634664
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Max 1
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True football 3
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8
@@ -2506,6 +2334,8 @@ https://animax.live/hls/stream.m3u8
 
 Business
 
+#EXTINF:-1 tvg-id="3346" tvg-name="Yahoo Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-language="English" group-title="Business", Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 
 
@@ -2519,6 +2349,9 @@ https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1
 
 
 Cooking
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/gJXhXhgZ/images.jpg" group-title="Cooking",Food Food (max)
+http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
 
 
 
@@ -2580,6 +2413,34 @@ http://103.159.180.34:5001/live/3088.m3u8
 #EXTINF:-1 tvg-id="3231" tvg-name="Apex Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" tvg-language="Bhojpuri" group-title="Entertainment", Apex Entertainment
 http://103.159.180.34:5001/live/3231.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Fashion
 
 
@@ -2636,14 +2497,59 @@ http://103.175.73.12:8080/live/684/master.m3u8
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://i.postimg.cc/C51VP60v/Mh-one.webp" tvg-language="English" group-title="Movies",Mh one movies
 http://103.175.73.12:8080/live/639/master.m3u8
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/tgdMGtCY/Sony-Max-2.webp" group-title="Movie", Sony Max 2
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/tgdMGtCY/Sony-Max-2.webp" group-title="Movies", Sony Max 2
 https://mini.allinonereborn.fun/tata.php?id=1156
+
+
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.postimg.cc/V6VcTQRB/channels4-profile.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
+http://103.159.180.34:5001/live/3543.m3u8
+
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://i.postimg.cc/4x2knTCs/EROS-UNIVERSE.webp" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
+http://103.159.180.34:5001/live/3544.m3u8
+
+#EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" tvg-language="Hindi" group-title="Movies", Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
+
+#EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies", NH BollyFlix
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" group-title="Movies", NH BollyGold
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/hjFWnbm6/2f66f13b85531977f2990c18ca414e83.png" group-title="Movies",Shemaroo Bollywood 
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb543d1f7d6c638884cb3663cef342a8f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c515677b000ce0d4187822fcf0466074e30859db17cc79a1419aaa3774e57cf660e0da75540c0520671d2e65348a635a7760816a7583a0e7cddf359b37642b8df58d2237c9bce8c37683f03409a5e5afba358b38ab50a34c76da5b902488b2f5be790569fd548efd38608965e8223a7108093f1ddd20dd0d3c432b457b4650b0d7524c8d72ec4cc6faeb0f501f55b5f52243065a4c6bdfb5e3d8a352c369adef8cfae7b8eacf341a0733eba7af7274cf9a419c322a6f546adacb5db570342cc7da4e342d28790d9814511bc61f6a3fdd4334c8bf9027149ca689242797cf8f9baeb2909ba236078a5cdead8c364d171aebdf8edcea3844bd30ecbd3fc953c4c4a763ef3e737bcb762c120d174a981466f0c0d0c81935bd19e821e116c4b948f57d0534ae980cba8964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebbed4482b852e73d7c740db1fb205a057f7cd6ef74047f2c9012aa809ca1520d07cdb89caa981d68496959027ee6888051958ad2261412b33177300e701df4578689bef8dff29eaf20eaa1d0bf466b2737ff792adab52269/30/848x480_1686360/index.m3u8
+
+
+
 
 
 
 KDrama
 
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/Kzmft1hG/imxchannelk.jpg" group-title="KDrama",Korean TV
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN3600005NF&ads.ssai_vendor=SSSLIVE&pb_type=pb-y5gitldbaizaw_cloudfront
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/4dnwxmCn/306-3060351-k-plus-k-plus-channel-logo.png" group-title="KDrama",K drama plus
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xC0DxGzT/Chat-GPT-Image-Apr-1-2026-12-02-15-PM-1-185x278.png" group-title="KDrama",Studio Genie K Movie 
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=geniek-movie&channel_id=newid_350&apikey=b97c7a7d0c82424bb607e141ef215779&auth=cb09d9f2-275bc291-0cf2a07c-2c92754e&ads.live=[CONTENT_LIVE]&ads.device_did={PSID}&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy={US_PRIVACY}&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.app.name={APP_NAME}&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.content_title=[PROGRAM_TITLE]&ads.content_series=[SERIES_TITLE]&ads.content_season=[SEASON_TITLE]&ads.content_episode=[EPISODE_NO]&ads.content_length=[CONTENT_LENGTH]&ads.device.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&nh=true&ads.device_dnt={TARGETOPT}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai_vendor=SSSLIVE&ads.service_id=GB21000038X
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/63wtsJDJ/Chat-GPT-Image-Apr-1-2026-12-03-08-PM-1-185x278.png" group-title="KDrama",Studio Genie K Drama
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=geniek-drama&channel_id=newid_351&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b4c04261-6048346a-3e54f396-6b8183b5&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2100002R7
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/B6kWqrVd/Dynamic-K-logo-with-motion-lines-1-185x278.png" group-title="KDrama",K series by MDC
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/yNptjqsD/Chat-GPT-Image-Feb-18-2026-09-17-41-PM-1-185x278.png" group-title="KDrama",New k movies
+https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?ads.xumo_channelId=99991386
 
 
 
@@ -2678,10 +2584,12 @@ http://103.159.180.34:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="3537" tvg-name="Duck TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DuckTV.png" tvg-language="English" group-title="Kids", Duck TV
 https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
 
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids", Epic Kids
+http://103.159.180.34:5001/live/3385.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="3424" tvg-name="Sony Yay Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" tvg-language="Bengali" group-title="Kids", Sony Yay Bengali
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
 
 
 
@@ -2725,7 +2633,8 @@ https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8
 #EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeZing.png" tvg-language="Hindi" group-title="Music", Zing
 http://103.159.180.34:5001/live/585.m3u8
 
-
+#EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 
 
@@ -2780,6 +2689,7 @@ https://mini.allinonereborn.fun/tata.php?id=9277
 #EXTINF:-1 tvg-id="beinSports1" tvg-logo="https://i.ibb.co/5WVxQSTn/bein-Sports-1.webp" group-title="Sports",bein SPORTS 1
 https://mini.allinonereborn.fun/tata.php?id=9564
 
+abcsa
 https://mini.allinonereborn.fun/tata.php?id=9565
 https://mini.allinonereborn.fun/tata.php?id=9566
 https://mini.allinonereborn.fun/tata.php?id=9567
@@ -2851,18 +2761,84 @@ http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/190267.m3u8
 #EXTINF:-1 tvg-id="1529" tvg-name="MI TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MI_TV.png" tvg-language="English" group-title="Sports", MI TV
 http://103.159.180.34:5001/live/1529.m3u8
 
+#EXTINF:-1 tvg-id="3372" tvg-name="Sony LIV Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" tvg-language="English" group-title="Sports", Sony LIV Sports 1
+http://103.159.180.34:5001/live/3372.m3u8
+
+#EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" tvg-language="English" group-title="Sports", Sony LIV Sports 2
+http://103.159.180.34:5001/live/3373.m3u8
+
+#EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" tvg-language="English" group-title="Sports", Sony LIV Sports 3
+http://103.159.180.34:5001/live/3374.m3u8
+
+
+#EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" tvg-language="English" group-title="Sports", Sony LIV Sports 5
+http://103.159.180.34:5001/live/3399.m3u8
+
+
+#EXTINF:-1 tvg-id="3499" tvg-name="World Chess" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/World_Chess.png" tvg-language="English" group-title="Sports", World Chess
+http://103.159.180.34:5001/live/3499.m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/rFPzX3fb/er6tz11641505761.png" group-title="Sports",Max sports 1
+https://de1.dstv.cx/MaxSport1HR/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/T2ZYtghm/max-sport-2-hd-371x230-new-logo.webp" group-title="Sports",Max sports 2
+https://de1.dstv.cx/MaxSport2HR/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/5thbsMNZ/TNT-Sports-1-Stacked.webp" group-title="Sports",Tnt sports 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77413&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/KvS3RdPT/TNT-Sports-2-Stacked.webp" group-title="Sports",Tnt sports 2
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77414&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/13FFWyyb/5712-1689778072.png" group-title="Sports",Tnt sports 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77415&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/HkK9vSGh/MLBNetwork-Logo-svg.png" group-title="Sports",Baseball
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109110
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/T2D1nCQK/Sport-1-Logo-2013.jpg" group-title="Sports",Sport 1
+http://46.149.191.217:9001/play/a02f
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/4NGfVZmV/M4-Sport-logo.png" group-title="Sports",M4 sports
+http://46.149.191.217:9010/play/a017
 
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/zv8CRB6F/Be-IN-Sports-3-2017-Square.webp" group-title="Sports",Bein sports 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein sports 2
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776211&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/hvmGgbpb/Now-Sports-1.webp" group-title="Sports",Now sports 1
+http://185.243.7.191:80/play/live.php?mac=00:1A:79:D7:94:2B&stream=1032487&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/0QwvJ5Dy/Digi-Sport-Logo.png" group-title="Sports",Digi sports
+http://91.201.172.14:35005/
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/j5PVSgY5/Digi-Sport-2.webp" group-title="Sports",Digi sports 2
+http://91.201.172.14:35006/
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/FzpBYwWN/DAZN-1.jpg" group-title="Sports",DAZN
+http://matrivagoweb.xyz:8080/mauri000/03031993/67369
 
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/2ySxKyGb/Bundesliga-logo-(2017)-svg.png" group-title="Sports",Bundesliga
+http://190.0.247.38:8000/play/a00z
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/fbvmQZJ3/La-Liga-TV-Por-M-Logo.png" group-title="Sports",Laliga M plus 
+http://dynato.xyz:80/yBq496/85475728/8083
 
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/wB9RVP0K/Be-IN-SPORTS-USA-logo-2017.jpg" group-title="Sports",B USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/1t5WLv51/showmax.jpg" group-title="Sports",Max 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8
 
 
 
@@ -3056,3 +3032,51 @@ https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u
 
 #EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" group-title="Music", E 24
 https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-language="English" group-title="Movies", MN+ HD
+http://103.159.180.34:5001/live/477.m3u8
+
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+https://zee5.cr7x.workers.dev/live/999/999/0-9-zeeclassic/master.m3u8
+
+#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
+http://103.159.180.34:5001/live/962.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports", Ten 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="2936" tvg-name="Oye Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Oye_Music.png" tvg-language="Hindi" group-title="Music", Oye Music
+https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8
+
+#EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" tvg-language="Hindi" group-title="Movies", Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Movie",Movie Plex
+https://mumt04.tangotv.in/MOVIEPLEX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids", Epic Kids
+http://103.159.180.34:5001/live/3385.m3u8
+
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/zfK2CmLn/Wow-Kidz-1993.webp" group-title="Kids",Wow kids
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1778772771~acl=%2f*~data=hdntl~hmac=f2101941abccf56ac0e847cb087bea4be788c003ac8f5c75b04c25c6f751bcb5/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/Kzmft1hG/imxchannelk.jpg" group-title="KDrama",Korean TV
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/392cd3aa-0bb7-408e-8600-0eee98a31756/0.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/bwDtrkrK/True-Sports-3.webp" group-title="Sports",True sports 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776202&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/bv0dSThx/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3-webp-original.webp" group-title="Sports",True sports 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776200&extension=m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 2
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/afa256cb-1e06-4c00-992d-f8cc37529a88/2.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Korean tv 1
+https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN3600005NF&ads.ssai_vendor=SSSLIVE&pb_type=pb-y5gitldbaizaw_cloudfront
+
