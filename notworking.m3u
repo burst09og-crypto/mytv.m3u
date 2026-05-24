@@ -1,3 +1,5 @@
+#EXTM3U
+
 Not working currently
 
 
@@ -222,3 +224,77 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775978&extension
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/9fsVMH6Y/images.png" group-title="Sports",DAZN Laliga
 http://vipbtpxnzmb.top:8080/VIP012681760795419102/1fe6bce04fc9/244
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",S sports 2
+http://smart.lokkeweb.workers.dev/ID=1313768516f4e2fb1853d4
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",S sports 1
+http://smart.lokkeweb.workers.dev/ID=35317621955a43bd93b947
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Kids", Disney
+https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL&uid=999&pass=999
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", B Sports 1
+http://smart.lokkeweb.workers.dev/ID=24034250311fdb297b466e
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", Sky sports max 
+http://91.146.94.234:10001/play/a0es
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports", B Sports Haber
+http://smart.lokkeweb.workers.dev/ID=398999553310ffc0558467
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Vamos
+http://atlaspro.live/3521606678500118/3521606678500118/397611
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sport 2
+http://185.132.134.159:80/sport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/W4Lkxz88/Sport5-Logo.png" group-title="Sports",Sports 5
+http://185.132.134.159:80/sport5/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sport1
+http://185.132.134.159:80/sport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sport one2
+http://185.132.134.159:80/one2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Premier league:
+http://192.142.28.55:8080/live/MLS003/qZj4zbPNDn/130726.m3u8?token=OFpYTGJ6dEwwQ1A4S09l
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Play sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130760.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Euro sports 1
+http://smart.lokkeweb.workers.dev/ID=37932006440e817e8a7239
+
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo=" " group-title="Movie",Saregama HinDI
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://saregama.keralive.workers.dev/saregama/live_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Movie",Colors Cineplex Bollywood 
+https://alymize.com/dd/live.m3u8?id=1763&token=JITENDRA_KUMAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
