@@ -1477,9 +1477,6 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Hindi Hits HD
 https://mumt01.tangotv.in/HINDIHITS/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqZb3CZy/download.png" group-title="Music",Melody Hits HD
-https://mumt03.tangotv.in/MELODYHITS/tracks-v2a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Game and Esports",Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
