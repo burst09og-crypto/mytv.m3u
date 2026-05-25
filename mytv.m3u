@@ -608,6 +608,9 @@ http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJXzMYZt/Bollywood-cinematic-logo-design-1-185x278.png" group-title="Movies",Bollygold
 https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvBDNYfd/Filmax-(MWEN).jpg" group-title="Movies",Filmax
+https://i.postimg.cc/bvBDNYfd/Filmax-(MWEN).jpg
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
 
 
 
@@ -905,6 +908,11 @@ http://maxotts.maxdigitaltv.com/x-media/C514/master.m3u8
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpWg5HVn/melody-hits-final.jpg" group-title="Music",Melody Hits HD
+https://colorsportscreen.com/freetv/stream.m3u8?id=ab0c0747615f
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRt7gSsS/images.jpg" group-title="Music",Evergreen Hits
+https://colorsportscreen.com/freetv/stream.m3u8?id=a0756ba769dd
 
 
 
