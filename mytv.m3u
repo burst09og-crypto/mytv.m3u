@@ -80,7 +80,8 @@ http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/gJXhXhgZ/images.jpg" group-title="Cooking",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
 
-
+#EXTINF:-1 tvg-id="CUISINE &amp; CULTURE" tvg-chno="695" tvg-name="Cuisine Culture" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/CuisineCulture-1731713496960-min-1739729969178.jpg" group-title="Food",Cuisine Culture
+https://streams2.sofast.tv/ptnr-khabriya/title-Cuisine_Culture_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/44ed77f9-8d77-4345-9b36-dbafc937e9e1/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 
 
 
@@ -671,7 +672,14 @@ https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1X6kqb1B/images.jpg" group-title="KDrama",K Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 
-
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="KDrama",ShortsTV Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="KDrama",Korean Drama Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 
 
@@ -914,7 +922,11 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=ab0c0747615f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRt7gSsS/images.jpg" group-title="Music",Evergreen Hits
 https://colorsportscreen.com/freetv/stream.m3u8?id=a0756ba769dd
 
+EXTINF:-1 tvg-id="" tvg-chno="804" tvg-name="Tabbar Hits" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/z-1755812800468.jpg" group-title="Movies",Tabbar Hits
+https://stream.ottlive.co.in/tabbarhits/index.m3u8
 
+#EXTINF:-1 tvg-id="199" tvg-chno="199" tvg-name="Boogle Bollywood" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png",199 Boogle Bollywood
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?ads.channel=3794&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1779700460~exp=1779722060~acl=!*/181224/smil:bogglebollywood.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.154.20.199_yuppfast_2_channel_199_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.154.20.199_yuppfast_2_channel_199_-1~hmac=c78c468b7e32ab53a9154a74736e8307950f1cac1aaad92050a54a07b356f717&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=BoogleBollywood&ads.language=PUN&ads.user=0
 
 
 
