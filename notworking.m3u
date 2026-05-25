@@ -3,7 +3,7 @@
 Testing
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",MLS
-https://api.videx.lol/mls_direct_kick_2/index.m3u8?expires=1779017321&key=c4006b788939662adab68a79515f54e6f08ab1db60908744b2c8d8f05ee8af40
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",MLS 2
 https://api.videx.lol/mls7/index.m3u8?expires=1779017426&key=5826ca1cc7adc6314fe8e592a3851e6b00550a428af321cea046a85a0c5a7670
