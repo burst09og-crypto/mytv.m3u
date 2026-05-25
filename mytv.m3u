@@ -77,6 +77,8 @@ https://d1nn4ic5ci0eid.cloudfront.net/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xXDY82R/images.jpg" group-title="Cooking",HUM MAsala(Max)
 http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/gJXhXhgZ/images.jpg" group-title="Cooking",Food Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
 
 
 
@@ -638,7 +640,9 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775970&extension
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y2zjFWq/unnamed.jpg" group-title="KDrama",Hi Dost
-https://cdn-1.pishow.tv/live/224/224_1.m3u8
+https://cdn-1.pishow.tv/live/224/master.m3u8
+
+#https://cdn-1.pishow.tv/live/224/224_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6pc5Tvh/arirang-logo-png-seeklogo-208999.webp" group-title="KDrama",Arirang TV
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
@@ -897,7 +901,8 @@ http://maxotts.maxdigitaltv.com/x-media/C513/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjcqPZkX/images.png" group-title="Music",9X Jalwa(Max)
 http://maxotts.maxdigitaltv.com/x-media/C514/master.m3u8
 
-
+#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" group-title="Music", E 24
+http://103.175.73.12:8080/live/159/159_0.m3u8
 
 
 
