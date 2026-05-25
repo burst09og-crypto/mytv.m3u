@@ -1,5 +1,136 @@
 #EXTM3U
 
+Testing
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",MLS
+https://api.videx.lol/mls_direct_kick_2/index.m3u8?expires=1779017321&key=c4006b788939662adab68a79515f54e6f08ab1db60908744b2c8d8f05ee8af40
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",MLS 2
+https://api.videx.lol/mls7/index.m3u8?expires=1779017426&key=5826ca1cc7adc6314fe8e592a3851e6b00550a428af321cea046a85a0c5a7670
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B 6
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6126/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6125/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/2500/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6123/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/12249/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6128/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B6
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6127/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6124/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",M laliga 
+
+http://3d4f.drnexon.net/7n01vghnqf/ebx2dqpx07/415875
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sports 2
+http://185.132.134.159/sport2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sport 1
+http://185.132.134.159/sport1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sport 5
+http://185.132.134.159/sport5/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Tnt sports premium 
+	http://200.112.174.230/mtcast_tntsportshd/mpegts
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Star movies
+http://149.71.34.166:8000/play/a01f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Now
+http://meravideo.kinthtech.com.cn/live/Es7tt9ypkl4FZKWRT7DYq9FkIZAWFeeATVVAqEIpVq4TIE7pF9.flv
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Now sports 641
+http://meravideo.kinthtech.com.cn/live/pEpqT9RT7DYUFIWI9HRZHV9WHyVts7I7HHRWU9y7FF2qTtq4TF.flv
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Now sports 1
+http://meravideo.kinthtech.com.cn/live/eA22UZt7Wqp9kqAVHe2K77WpH4Fyk7kZtKRT7DYTETV2HkssI4.flv
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Eleven sports
+http://315e5a5d.ottrast.com/iptv/AE8BY6FHF5ZGAG/20068/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B sports Haber
+http://315e5a5d.ottrast.com/iptv/AE8BY6FHF5ZGAG/19064/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",B sports canl
+	http://ekobayi789.xyz:80/live/Hakankir/kir-hakan/837269.ts
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Esports 
+https://twitch-m3u8.bastypro112.workers.dev/crayator/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 3 directo
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+ 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+http://103.175.73.12:8080/live/143/143_0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Not working currently
 
 
@@ -158,8 +289,7 @@ https://mini.allinonereborn.fun/tata.php?id=11646
 #EXTINF:-1 tvg-id="903" tvg-name="Only Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png" tvg-language="Punjabi" group-title="Music", Only Music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u
 
-#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" group-title="Music", E 24
-https://mumt04.tangotv.in/E24/index.m3u8
+
 
 #EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-language="English" group-title="Movies", MN+ HD
 http://103.159.180.34:5001/live/477.m3u8
