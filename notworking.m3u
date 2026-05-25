@@ -2,6 +2,11 @@
 
 Testing
 
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",MLS
+http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",MLS
 http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 
