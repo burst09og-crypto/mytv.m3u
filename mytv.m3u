@@ -603,8 +603,8 @@ http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRSWWcCD/359-3595110-b4u-movies-logo-b4u-movies-channel-logo.png" group-title="Movies",B4u Movie (Max)
 http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJXzMYZt/Bollywood-cinematic-logo-design-1-185x278.png" group-title="Movies",Bollygold
+https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
 
 
 
