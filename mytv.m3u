@@ -83,6 +83,9 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-id="CUISINE &amp; CULTURE" tvg-chno="695" tvg-name="Cuisine Culture" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/CuisineCulture-1731713496960-min-1739729969178.jpg" group-title="Food",Cuisine Culture
 https://streams2.sofast.tv/ptnr-khabriya/title-Cuisine_Culture_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/44ed77f9-8d77-4345-9b36-dbafc937e9e1/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 
+#EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Cooking",Zee Zest HD
+https://mini.allinonereborn.fun/tata.php?id=1076
+
 
 
 Crime
@@ -614,6 +617,11 @@ https://i.postimg.cc/bvBDNYfd/Filmax-(MWEN).jpg
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 
 
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Hindi Cinema HD 
+https://mini.allinonereborn.fun/tata.php?id=735
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/Hkcs4qJ4/Chat-GPT-Image-Jan-23-2026-05-55-28-PM-1-185x278.png" group-title="Movies",Bollywood Nonstop HD
+https://mini.allinonereborn.fun/tata.php?id=819
 
 
 KDrama
@@ -809,12 +817,20 @@ http://79.127.207.193/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvYhJv4b/Hooray-Rhymes-white.png" group-title="Kids",Hooray Rhymes
 http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Kids",Sony Yay! (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=1059
 
 
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic 
+https://mini.allinonereborn.fun/tata.php?id=11893
 
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=11639
 
+#EXTINF:-1 tvg-id="DisneyJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Jr.
+https://mini.allinonereborn.fun/tata.php?id=11640
 
-
+https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png
 
 
 
@@ -928,7 +944,8 @@ https://stream.ottlive.co.in/tabbarhits/index.m3u8
 #EXTINF:-1 tvg-id="199" tvg-chno="199" tvg-name="Boogle Bollywood" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png",199 Boogle Bollywood
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?ads.channel=3794&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1779700460~exp=1779722060~acl=!*/181224/smil:bogglebollywood.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.154.20.199_yuppfast_2_channel_199_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.154.20.199_yuppfast_2_channel_199_-1~hmac=c78c468b7e32ab53a9154a74736e8307950f1cac1aaad92050a54a07b356f717&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=BoogleBollywood&ads.language=PUN&ads.user=0
 
-
+#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png" group-title="Music",Boogle Bollywood
+https://mini.allinonereborn.fun/tata.php?id=1177
 
 
 
