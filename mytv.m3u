@@ -86,6 +86,11 @@ https://streams2.sofast.tv/ptnr-khabriya/title-Cuisine_Culture_Khabriya/v1/maste
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Cooking",Zee Zest HD
 https://mini.allinonereborn.fun/tata.php?id=1076
 
+#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png",America's Test Kitchen
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+
+#EXTINF:-1 tvg-id="68509fe882d704acfc5bacd1" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png",Tastemade Smokehouse
+https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 
 
 Crime
@@ -945,8 +950,10 @@ https://stream.ottlive.co.in/tabbarhits/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?ads.channel=3794&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1779700460~exp=1779722060~acl=!*/181224/smil:bogglebollywood.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.154.20.199_yuppfast_2_channel_199_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.154.20.199_yuppfast_2_channel_199_-1~hmac=c78c468b7e32ab53a9154a74736e8307950f1cac1aaad92050a54a07b356f717&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=BoogleBollywood&ads.language=PUN&ads.user=0
 
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png" group-title="Music",Boogle Bollywood
-https://mini.allinonereborn.fun/tata.php?id=1177
 
+
+#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
+http://103.159.180.34:5001/live/962.m3u8
 
 
 
@@ -1298,7 +1305,11 @@ http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPs88M2/Chat-GPT-Image-Mar-3-2026-01-52-17-PM-1-185x278.png" group-title="Nepali",Pokhara TV
+https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0rRZMv61/download.jpg" group-title="Nepali",Kastamandap Tv
+http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
 
 
 
@@ -2005,7 +2016,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6127/inde
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/prpQT53j/Logo-Bein-Sports-5-MAX-svg.png" group-title="Sports",B5
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6124/index.m3u8
 
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
+#EXTINF:-1 tvg-id="65ea8b928145cb0008509426" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
 
 
