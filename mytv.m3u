@@ -284,7 +284,8 @@ http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Cafe HD (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=833
 
-
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Colors Rishtey
+https://mini.allinonereborn.fun/tata.php?id=11774
 
 
 
@@ -720,6 +721,12 @@ https://mini.allinonereborn.fun/tata.php?id=931
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://i.postimg.cc/MZ0K3hSB/Hungama-Photoroom.webp" group-title="Kids",Hungama TV
 https://mini.allinonereborn.fun/tata.php?id=11646
 
+#EXTINF:-1 tvg-id="in@SD" tvg-logo="https://i.postimg.cc/85SMhQKQ/Marvel-HQ-logo-svg.png" group-title="Kids", Marvel HQ
+https://mini.allinonereborn.fun/tata.php?id=11649
+
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=11639
+
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
 https://mini.allinonereborn.fun/tata.php?id=11667
 
@@ -839,6 +846,8 @@ https://mini.allinonereborn.fun/tata.php?id=11640
 
 https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png
 
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic  Hindi
+https://mini.allinonereborn.fun/tata.php?id=11893
 
 #EXTINF:-1 tvg-id="@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Kids",Sony YaAY! (Tata Play)
 https://mini.allinonereborn.fun/tata.php?id=11193
@@ -958,6 +967,9 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playli
 
 #EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
 http://103.159.180.34:5001/live/962.m3u8
+
+#EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing!
+https://mini.allinonereborn.fun/tata.php?id=929
 
 
 
@@ -1316,6 +1328,8 @@ https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
 
 
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepal",Public 4K TV
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
 
 
