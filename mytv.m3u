@@ -44,6 +44,8 @@ https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1
 https://sofast-lg.vgcdn.net/WiseM3U8_27/sofast/cleanhls/bitrate2.m3u8
 
 
+#EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png" group-title="Comedy",Kings Of Comedy
+https://jmp2.uk/stvp-IN46000184H
 
 
 
@@ -86,11 +88,34 @@ https://streams2.sofast.tv/ptnr-khabriya/title-Cuisine_Culture_Khabriya/v1/maste
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Cooking",Zee Zest HD
 https://mini.allinonereborn.fun/tata.php?id=1076
 
-#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png",America's Test Kitchen
+#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Cooking",America's Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 
-#EXTINF:-1 tvg-id="68509fe882d704acfc5bacd1" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png",Tastemade Smokehouse
+#EXTINF:-1 tvg-id="68509fe882d704acfc5bacd1" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png" group-title="Cooking",Tastemade Smokehouse
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
+
+#EXTINF:-1 tvg-id="IN460000313" tvg-name="Foodie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="Cooking",Foodie Hub
+https://jmp2.uk/stvp-IN460000313
+
+#EXTINF:-1 tvg-id="IN46000105Q" tvg-name="Cook & Bake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260225T010339SQUARE.png" group-title="Cooking",Cook & Bake
+https://jmp2.uk/stvp-IN46000105Q
+
+#EXTINF:-1 tvg-id="INBA5100020HQ" tvg-name="Gusto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100020HQ_20220427T054602SQUARE.png_20220427054603.png" group-title="Cooking",Gusto TV
+https://jmp2.uk/stvp-INBA5100020HQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Crime
@@ -143,6 +168,19 @@ Education
 
 #EXTINF:-1 tvg-id="2328" tvg-name="CyberPeace TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CyberPeace_TV.png" tvg-language="English" group-title="Educational", CyberPeace TV
 http://103.159.180.34:5001/live/2328.m3u8
+
+
+
+#EXTINF:-1 tvg-id="251" tvg-chno="251" tvg-name="Turito IIT JEE" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png" group-title="Educational",251 Turito IIT JEE
+https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thiit.smil/playlist.m3u8?ads.channel=4720&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1780278068~exp=1780299668~acl=!*/181224/smil:ymcc12thiit.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.208.13.51_yuppfast_2_channel_251_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.208.13.51_yuppfast_2_channel_251_-1~hmac=7cd223fed4cb4ddb984be7229c2a1b458857aeda7ccbe9e73000c13c88589466&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=TuritoIITJEE&ads.language=ENG&ads.user=0
+
+#EXTINF:-1 tvg-id="252" tvg-chno="252" tvg-name="Turito NEET" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png" group-title="Educational",252 Turito NEET
+https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?ads.channel=4721&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1780278068~exp=1780299668~acl=!*/181224/smil:ymcc12thneet.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.208.13.51_yuppfast_2_channel_252_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.208.13.51_yuppfast_2_channel_252_-1~hmac=08966f21fbe417b25af3f222bfa9a233c630d3a6a497a7c7f1025e6d70a4c274&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=TuritoNEET&ads.language=ENG&ads.user=0
+
+
+
+
+
 
 
 
@@ -330,7 +368,8 @@ https://mini.allinonereborn.fun/tata.php?id=12213
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb3GBCX8/Hum-Sitaray-Logo.png" group-title="Entertainment",HUM Sitaray World
 https://mini.allinonereborn.fun/tata.php?id=12217
 
-
+#EXTINF:-1 tvg-id="IN3800002VK" tvg-name="The Lallantop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20251015T010515SQUARE.png" group-title="Entertainment",The Lallantop
+https://jmp2.uk/stvp-IN3800002VK
 
 
 
@@ -708,7 +747,8 @@ https://mini.allinonereborn.fun/tata.php?id=12210
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/hjFWnbm6/2f66f13b85531977f2990c18ca414e83.png" group-title="Movies",Shemaroo Bollywood 
 https://mini.allinonereborn.fun/tata.php?id=12211
 
-
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",Shemaroo Bollywood
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-62d1a58e520656fda09e609d.m3u8
 
 
 
@@ -782,13 +822,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
 #EXTINF:-1 tvg-chno="136" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="KDrama",Korean Drama Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 
-
+#EXTINF:-1 tvg-id="IN49000103E" tvg-name="K-Content by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN49000103E_20260225T010351SQUARE.png"group-title="KDrama" group-title="KDrama",K-Content by CJ ENM
+https://jmp2.uk/stvp-IN49000103E
 
 
 
@@ -948,10 +990,12 @@ https://mini.allinonereborn.fun/tata.php?id=11193
 https://mini.allinonereborn.fun/tata.php?id=11329
 
 
+#EXTINF:-1 tvg-id="IN4600008T4" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260225T010333SQUARE.png" group-title="Kids",KidDo MATIX
+https://jmp2.uk/stvp-IN4600008T4
 
 
-
-
+#EXTINF:-1 tvg-id="IN2500003JW" tvg-name="Powerkids Kartoon Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="Kids",Powerkids Kartoon Channel
+https://jmp2.uk/stvp-IN2500003JW
 
 
 
@@ -1096,7 +1140,8 @@ https://mini.allinonereborn.fun/tata.php?id=1060
 https://mini.allinonereborn.fun/tata.php?id=12021
 
 
-
+#EXTINF:-1 tvg-id="IN3900002KB" tvg-name="E24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20250811T033446SQUARE.png" group-title="Music",E24
+https://jmp2.uk/stvp-IN3900002KB
 
 
 
@@ -1496,6 +1541,9 @@ https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 
 #EXTINF:-1 tvg-id="672e4d915534bb0008c50168" tvg-name="Family Feud" tvg-logo="https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png" group-title="Reality shows",Family Feud
+https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8
+
+**
 https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
 
 #EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="Reality shows",Family Feud Classic
@@ -2274,7 +2322,8 @@ https://mini.allinonereborn.fun/tata.php?id=12226
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/PJNYwC0w/lg-68ba295061ad8-Stan-Sport.webp" group-title="Sports",Stan Sports 5
 https://mini.allinonereborn.fun/tata.php?id=12227
 
-
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Sports",INTER 24/7
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-69011e71d320237a5a2d9f63.m3u8
 
 
 
@@ -2291,6 +2340,31 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/1200.m3u8
 Youtube 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/Dfx2YcKr/Mr-Beast-Logo-500x313-1.png" group-title="Youtube",Mr. Beast TV 
 https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist_1024x576.m3u8
+
+
+#EXTINF:-1 tvg-id="IN3900022KR" tvg-name="Mark Rober TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900022KR_20260225T010326SQUARE.png" group-title="Youtube",Mark Rober TV
+https://jmp2.uk/stvp-IN3900022KR
+
+
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68d7f9b53b1f329cea126993" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png" group-title="Youtube",Dude Perfect
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-68d7f9b53b1f329cea126993.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
