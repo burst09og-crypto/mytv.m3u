@@ -1212,9 +1212,11 @@ https://mumbai-edge.smartplaytv.in/Discovery/tracks-v1a1/mono.m3u8
 https://wildearth-xumo.amagi.tv/masterR216lp.m3u8
 
 
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHindi.png" tvg-language="Hindi" group-title="Nature", Investigation Discovery Hindi
+http://103.159.180.34:5001/live/527.m3u8
 
-
-
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" tvg-language="Hindi" group-title="Nature", History TV18 HD Hindi
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 
 
 
