@@ -751,6 +751,9 @@ https://mini.allinonereborn.fun/tata.php?id=12211
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62d1a58e520656fda09e609d.m3u8
 
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/bNdXwhBb/images-(8).jpg" group-title="Movies",Shemaroo Bollywood 2
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb563e1e796c608f84c33d78d5f262eea65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bc5120067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b02bf7a8904244dc64bfb102488b2f57f3d04a9dd314b28186469b17837fec159cc4f196db11d3d48c62ab56b560080e267c9f8578a1e537d9b256ae17e61306765c30c8a683ff424ee92d217dcb8f003bf89d69aaa83688614ddb4af81dc058d81aca69c7812ec0f19ba6222159c4a43b5407ea8b8199f2347c9667efaae4dc7d788ccce5192dd740d73822349cfc8441ca9355de9a2a8ba1714678e19f418992bb87afe1dd11dc0e8387d5882d4e4b540100ad54b6d538887e932bfe8e5b0a74796981d615c88fd25b70454a858b519d5338b1c9848eda416a9e38550aa630970b4541c3366570e06dca9b3a6d9b2f45d0666ab50b63c067f8bf0dbaf68fbd486bfb8e89128d0285d22bdcf210a664382b60e2a2563f4f2e25890e07f292ea73233fffad77a7b3289643de2bc25f288af4/89/848x480_1686360/index.m3u8
+
 
 
 
@@ -1639,9 +1642,8 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115758.m3u8
 
 
 
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" https://i.postimg.cc/prMQW3GB/channels4-profile.jpg" tvg-language="English" group-title="Sports",RM TV
-https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
-
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/prMQW3GB/channels4-profile.jpg" tvg-language="English" group-title="Sports",RM TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/ZnLw1Tbb/Willow-Sports-Stacked-Logo-White-e1728946503266.png" tvg-language="English" group-title="Sports",Willow sports
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
@@ -2329,7 +2331,32 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-69011e71d320237a5a2d9f63.m3u8
 
 
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo="https://i.postimg.cc/MKHbSMGq/Sky-Sports-La-Liga.webp" group-title="Sports",Skysports LaLiga TV
-	http://45.171.64.30:2000/play/a08m/index.m3u8
+http://45.171.64.30:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 Qatar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6123/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein 2 Fr
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/2500/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/kg8cK8G5/ch643-425-305.png" group-title="Sports",Bein 3 Qatar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6124/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/6QXh03GK/ch644-425-305.png" group-title="Sports",Bein 4 Qatar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6125/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/prpQT53j/Logo-Bein-Sports-5-MAX-svg.png" group-title="Sports",Bein 5 Qatar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6126/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/7YJMr7gN/Logo-Bein-Sports-6-MAX-svg.png" group-title="Sports",Bein 6 Qatar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6127/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/8CNhv0qD/BEIN7.png" group-title="Sports",Bein 7 Qatar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6128/index.m3u8
+
+
+
+
 
 
 
