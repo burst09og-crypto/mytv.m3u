@@ -1583,7 +1583,8 @@ https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/1080p-vtt
 #EXTINF:-1 tvg-name="Takeshi Castle" tvg-logo="https://i.postimg.cc/x8JKPyd8/download.jpg" group-title="Reality shows",Takeshi Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 
-
+#EXTINF:-1 tvg-id="CH28000014U" tvg-name="Big Brother Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH28000014U_20250923T010037SQUARE.png" group-title="Reality shows",Big Brother Classics
+https://jmp2.uk/stvp-CH28000014U
 
 
 
@@ -2020,6 +2021,10 @@ https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 
 #EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://i.postimg.cc/vZWdr7Yz/image-80849179721695046851257-ygud8tyd.png" group-title="Sports",CBS Golazo network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+
+#EXTINF:-1 tvg-id="US100000704" tvg-name="CBS Sports Golazo Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260602T091447SQUARE.png" group-title="Sports",CBS Sports Golazo Network
+https://jmp2.uk/stvp-US100000704
 
 #EXTINF:-1 tvg-id="TigoSports.gt@SD" tvg-logo="https://i.postimg.cc/Fz87Lbr3/Tigo-Sports-2025.png" group-title="Sports",Tigo Sports (1080p)
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
