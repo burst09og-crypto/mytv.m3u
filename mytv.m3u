@@ -1516,7 +1516,7 @@ https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepal",Public 4K TV
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepali",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 
 
@@ -1538,6 +1538,26 @@ https://mini.allinonereborn.fun/tata.php?id=11957
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDcXxcGH/download.png" group-title="Nepali",Janata HD
 https://mini.allinonereborn.fun/tata.php?id=11959
+
+#EXTINF:-1 tvg-id="ChannelAceTV.np@SD" tvg-logo="https://i.ibb.co/KpHRfj0B/Channel-ACE.jpg" group-title="Nepali",Channel ACE TV HD 
+http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
