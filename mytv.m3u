@@ -444,6 +444,25 @@ https://rpn3.bozztv.com/dvrfl07/ushba-m6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Fashion",Carac1
 https://mini.allinonereborn.fun/tata.php?id=11269
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/XJXQC7CT/Fashion-Box-HD-logo.png" group-title="Fashion",Fashion box hd
+http://85.14.32.26:8800/udp/239.100.10.138:50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Game and Esports
@@ -2446,6 +2465,58 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #EXTINF:-1 tvg-id="65ea8b928145cb0008509426" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="Sports",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/jqLFWvHF/Eurosport-2-Logo-(2011-2015)-svg.png" group-title="Sports",Euro sports 2 
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/hjG311HG/thumb-350-1364852.webp" group-title="Sports",RM TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/zGJwhGmz/Logo-Arena-Sport-TV-1.png" group-title="Sports",Arena sports 1
+http://85.11.144.9:3341/21
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/XYQfk63s/Logo-Arena-Sport-TV-2.png" group-title="Sports",Arena sports2
+http://85.11.144.9:3341/22
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/5tr8D5XR/20240930021242784769-92.png" group-title="Sports",Arena sports 3
+http://85.11.144.9:3341/23
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/0jYm6LVq/h1Xh-Gkz.png" group-title="Sports",Arena sports 4
+http://85.11.144.9:3341/24
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/TYcgTvy1/20240930020449034772-84.png" group-title="Sports",Arena sports 5
+http://85.11.144.9:3341/25
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/xdX6k1Hk/20250115024048925149-82.png" group-title="Sports",Max sports 1
+http://85.11.144.9:3341/6
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/bw35D55n/8qhlj81641505795.png" group-title="Sports",Max sports 2
+http://85.11.144.9:3341/7
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/xTPxh7nJ/Maxsport3.webp" group-title="Sports",Max sports 3
+http://85.11.144.9:3341/8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/fbPg59Zg/o0kgrq1641505828.png" group-title="Sports",Max sports 4
+http://85.11.144.9:3341/9
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/vBLfTJqF/Diema-Sport-(2015-n-v-).webp" group-title="Sports",Diemma sports 1
+http://85.11.144.9:3341/1
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/bNFbZHR7/Diema-Sport2-logo-svg.png" group-title="Sports",Diemma sports 2
+http://85.11.144.9:3341/2
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/Pxhvg6tf/Diema-Sport3logo.png" group-title="Sports",Diemma sports 3
+http://85.11.144.9:3341/3
+
+
+
 
 
 
