@@ -20,54 +20,7 @@ https://jmp2.uk/stvp-USBB3500001O6
 https://jmp2.uk/stvp-US3900014MX
 
 
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Bein 1
-http://41.205.70.146/BEINSPORT1/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Euro sports 2 
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",RM TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Fashion box hd
-http://85.14.32.26:8800/udp/239.100.10.138:5000
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Arena sports 1
-http://85.11.144.9:3341/21
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Arena sports2
-http://85.11.144.9:3341/22
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Arena sports 3
-http://85.11.144.9:3341/23
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Arena sports 4
-http://85.11.144.9:3341/24
-
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Arena sports 5
-http://85.11.144.9:3341/25
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Max sports 1
-http://85.11.144.9:3341/6
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Max sports 2
-http://85.11.144.9:3341/7
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Max sports 3
-http://85.11.144.9:3341/8
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Max sports 4
-http://85.11.144.9:3341/9
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Diemma sports 1
-http://85.11.144.9:3341/1
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Diemma sports 2
-http://85.11.144.9:3341/2
-
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Diemma sports 3
-http://85.11.144.9:3341/3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
 http://103.182.170.32:8888/play/a04m
@@ -183,24 +136,32 @@ b1-https://i.postimg.cc/LXmNHXHv/ch638-425-305.png
 
 
 
+Eurosports 2- https://i.postimg.cc/jqLFWvHF/Eurosport-2-Logo-(2011-2015)-svg.png
+
+Arena sports 1- https://i.postimg.cc/zGJwhGmz/Logo-Arena-Sport-TV-1.png
+Arena sports 2- https://i.postimg.cc/XYQfk63s/Logo-Arena-Sport-TV-2.png
+Arena sports 3- https://i.postimg.cc/5tr8D5XR/20240930021242784769-92.png
+Arena sports 4- https://i.postimg.cc/0jYm6LVq/h1Xh-Gkz.png
+
+Arena sports 5- https://i.postimg.cc/TYcgTvy1/20240930020449034772-84.png
 
 
 
+Max sports 1 - https://i.postimg.cc/xdX6k1Hk/20250115024048925149-82.png
+
+Max sports 2 - https://i.postimg.cc/bw35D55n/8qhlj81641505795.png
+Max sports 3 -  https://i.postimg.cc/xTPxh7nJ/Maxsport3.webp
+Max sports 4 - https://i.postimg.cc/fbPg59Zg/o0kgrq1641505828.png
+
+Diemma sports 1 - https://i.postimg.cc/vBLfTJqF/Diema-Sport-(2015-n-v-).webp
 
 
+Diemma sports 2 - https://i.postimg.cc/bNFbZHR7/Diema-Sport2-logo-svg.png
+
+Diemma sports 3 - https://i.postimg.cc/Pxhvg6tf/Diema-Sport3logo.png
 
 
-
-
-
-
-
-
-
-
-
-
-
+Diemma sports 4 -
 
 
 
