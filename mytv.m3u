@@ -1613,6 +1613,27 @@ https://jmp2.uk/stvp-USBB3500001O6
 https://jmp2.uk/stvp-US3900014MX
 
 
+#EXTINF:-1 tvg-id="69699b6d23ea437206f4a036" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/69699b6d23ea437206f4a036/colorLogoPNG_1770050839989.png" group-title="Reality shows",World of Love Island
+https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8
+
+
+#EXTINF:-1 tvg-id="6661f11a41af6400080e90d8" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="Reality shows",Big Brother
+https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
+
+
+#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="Reality shows",Survivor
+https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
+
+
+#EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="Reality shows",Family Feud Classic
+https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -2409,7 +2430,13 @@ http://23.237.104.106:8080/DAZN_5/index.m3u8
 https://cdn.telecloud.tv/CH3273/index.m3u8?token=LIVE_B_NnOSZRrnCAZz5Aspslr6Y99G17W7T3na
 
 
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="Sports",Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
+
+
+#EXTINF:-1 tvg-id="65ea8b928145cb0008509426" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="Sports",UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
 
 
@@ -2424,6 +2451,31 @@ Weather
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsrzvZGv/52012155-0-Weather-Spy-Avatar4.jpg" group-title="Weather",Weather Spy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/1200.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
