@@ -2,6 +2,47 @@
 
 Testing
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 1
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2480/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 2
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7234/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 3 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7237/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 4 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7236/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 7 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7239/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 8 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7240/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Sky Sports Bundesliga 9 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7241/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",TNT sports 1
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2505/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",TNT sports 4
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="AngelTV.in@Nepal",Angel TV Nepal (720p)
 https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
