@@ -3,6 +3,9 @@
 Testing
 
 
+#EXTINF:-1 tvg-id="AngelTV.in@Nepal",Angel TV Nepal (720p)
+https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="US5000053YV" tvg-name="Family Feud" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000053YV_20260421T141759SQUARE.png",Family Feud
 https://jmp2.uk/stvp-US5000053YV
 #EXTINF:-1 tvg-id="US490000330" tvg-name="Family Feud Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US490000330_20260421T141754SQUARE.png",Family Feud Classic
