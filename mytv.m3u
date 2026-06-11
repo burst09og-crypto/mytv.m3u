@@ -2523,7 +2523,32 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/QxYRttnR/logo-fsn-fullcolor.png" group-title="Sports",Fubo sports network 
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/Dz7M7rwH/Sky-Bundesliga-1.png" group-title="Sports",Sky Sports Bundesliga 1
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2480/index.m3u8
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/SRYZgVgC/Sky-Sport-Bundesliga-2-Logo-2020.png" group-title="Sports",Sky Sports Bundesliga 2
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7234/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/4xGghh3B/Sky-Sport-Bundesliga-3-Logo-2020.png" group-title="Sports",Sky Sports Bundesliga 3 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7237/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/P5yBp39X/Sky-Sport-Bundesliga-4-Logo-2020.png" group-title="Sports",Sky Sports Bundesliga 4 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7236/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/P55SctVf/Sky-Sport-7-HD-Logo-2020.png" group-title="Sports",Sky Sports Bundesliga 7 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7239/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/bvG3ymj5/Sky-Sport-Bundesliga-8-Logo-2020.png" group-title="Sports",Sky Sports Bundesliga 8 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7240/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/V6ngM5vT/Sky-Sport-Bundesliga-9-Logo-2020.png" group-title="Sports",Sky Sports Bundesliga 9 De
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7241/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/9fjr0M3f/TNT-Sports-1-Stacked.webp" group-title="Sports",TNT sports 1
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2505/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/76K6Kn5h/TNT-Sports-4-Stacked.webp" group-title="Sports",TNT sports 4
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
 
 
 
