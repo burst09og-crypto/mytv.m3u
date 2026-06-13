@@ -3,7 +3,96 @@
 Testing
 
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Sport TV 2
+http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/71
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Sport TV 5
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=959356&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Tivibu sports 1
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Tivibu sports 2
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Tivibu sports 3
+http://65.108.239.207/t3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Tivibu sports 4
+http://65.108.239.207/t4/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Rai sports 
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",L club (fashion)
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Setanta sports 1
+https://stream8.cinerama.uz/1263/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Setanta sports 2
+https://stream8.cinerama.uz/1264/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Tvri sports 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Arena premium 2
+http://162.19.246.113/ArenaPremium2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Bein sports 1 FR	
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Bein sports 2 FR
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Bein sports 3 FR
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Bein sports 1 direct 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941419&extension=m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Fox sports 1 
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Fox sports 2
+https://cdn.telecloud.tv/CH3225/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",DAZN F1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=897416&extension=m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Laliga Hyper motion 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=897410&extension=m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Sonic
+http://202.70.146.135:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Test
+http://202.70.146.135:8000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Arena 1 premium 
+https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasportpremium1.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Arena sports 2
+http://185.98.209.11:81/arenasport2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",T1 sports 
+http://65.108.239.207/t1/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",T2 sports
+http://65.108.239.207/t2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",T3 sports 
+http://65.108.239.207/t3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",T4 sports 
+http://65.108.239.207/t4/index.m3u8
 
 
 
