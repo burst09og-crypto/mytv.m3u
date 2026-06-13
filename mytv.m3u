@@ -448,6 +448,10 @@ https://mini.allinonereborn.fun/tata.php?id=11269
 http://85.14.32.26:8800/udp/239.100.10.138:50
 
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/XJXQC7CT/Fashion-Box-HD-logo.png" group-title="Fashion",L club (fashion)
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+
+
 
 
 
@@ -1032,6 +1036,8 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" group-title="Kids", Disney Channel
 http://202.70.146.135:8000/play/a01q/index.m3u8
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/65TdGKP1/Sonic-Nickelodeon.webp" group-title="Kids",Sonic
+http://202.70.146.135:8000/play/a02t/index.m3u8
 
 
 
@@ -2549,6 +2555,62 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2505/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/76K6Kn5h/TNT-Sports-4-Stacked.webp" group-title="Sports",TNT sports 4
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/qRjk89Fy/ldsp6c1700902696.png" group-title="Sports",Sport TV 5
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=959356&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/mDXsc7cM/20200921-banner-2.png" group-title="Sports",Tivibu sports 1
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/mDXsc7cM/20200921-banner-2.png" group-title="Sports",Tivibu sports 2
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/mDXsc7cM/20200921-banner-2.png" group-title="Sports",Tivibu sports 3
+http://65.108.239.207/t3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/mDXsc7cM/20200921-banner-2.png" group-title="Sports",Tivibu sports 4
+http://65.108.239.207/t4/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/3Nszp132/Rai-Sport-Logo-2022.jpg" group-title="Sports",Rai sports 
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/xCh9xK0X/channel-1669618640.png" group-title="Sports",Setanta sports 1
+https://stream8.cinerama.uz/1263/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/VkmmVsc5/23875517.webp" group-title="Sports",Setanta sports 2
+https://stream8.cinerama.uz/1264/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/65LNnsG0/tvri-sport-2022-logo-png-seeklogo-460117.png" group-title="Sports",Tvri sports 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/wxQWk9Fr/q0tj5n1631279235.png" group-title="Sports",Bein sports 1 direct 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941419&extension=m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/sgqK2xDK/Fox-Sports-logo1-svg.png" group-title="Sports",Fox sports 1 
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/bJjTQ5nG/Logo-Fox-Sports-2-Argentina-2023.png" group-title="Sports",Fox sports 2
+https://cdn.telecloud.tv/CH3225/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/4yWQRNSx/DAZN-F1-logo.png" group-title="Sports",DAZN F1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=897416&extension=m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/02NCdDzC/La-Liga-Hypermotion-2023-Vertical-Logo-svg.png" group-title="Sports",Laliga Hyper motion 
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=897410&extension=m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/qM9Ch3y6/images.jpg" group-title="Sports",Arena 1 premium 
+https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasportpremium1.m3u8
+
+
+
+
+
+
+
+
 
 
 
