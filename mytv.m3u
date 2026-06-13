@@ -2604,6 +2604,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=89741
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/qM9Ch3y6/images.jpg" group-title="Sports",Arena 1 premium 
 https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasportpremium1.m3u8
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/X70rnbb4/Logo-Arena-Sport-TV-2.png" group-title="Sports",Arena sports 2
+http://185.98.209.11:81/arenasport2/index.m3u8?token=test
 
 
 
