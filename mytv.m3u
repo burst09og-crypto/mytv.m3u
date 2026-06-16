@@ -1040,8 +1040,11 @@ http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/65TdGKP1/Sonic-Nickelodeon.webp" group-title="Kids",Sonic
 http://202.70.146.135:8000/play/a02t/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Kids",Sony Yay! (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=1059
 
-
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/65TdGKP1/Sonic-Nickelodeon.webp" group-title="Kids",Sonic
+https://mini.allinonereborn.fun/tata.php?id=1060
 
 
 
@@ -1267,7 +1270,8 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="3402" tvg-name="DocuBay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DocuBay.png" tvg-language="English" group-title="Nature", DocuBay
 http://103.159.180.34:5001/live/3402.m3u8
 
-
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Nature",Sony BBC Earth HD Hindi (DishTV Smart +)
+https://mini.allinonereborn.fun/tata.php?id=1004
 
 
 
