@@ -519,9 +519,20 @@ http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C88/1/master.m3u8
 
 
+Infotainment
 
+#EXTINF:-1 tvg-id="FYI.us" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Infotainment",FYI
+https://mini.allinonereborn.fun/tata.php?id=1966
 
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Infotainment",Food Network
+https://mini.allinonereborn.fun/tata.php?id=1968
 
+#EXTINF:-1 tvg-id="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png" group-title="Infotainment",OWN
+https://mini.allinonereborn.fun/tata.php?id=2005
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Infotainment",Outdoor Channel
+https://mini.allinonereborn.fun/tata.php?id=2006
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Infotainment",Outside TV 
+https://mini.allinonereborn.fun/tata.php?id=2007
 
 
 
@@ -1048,7 +1059,8 @@ https://mini.allinonereborn.fun/tata.php?id=1060
 
 
 
-
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/65TdGKP1/Sonic-Nickelodeon.webp" group-title="Kids",Sonic
+https://mini.allinonereborn.fun/tata.php?id=11193
 
 
 
