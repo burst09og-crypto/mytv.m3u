@@ -111,7 +111,8 @@ https://jmp2.uk/stvp-IN46000105Q
 #EXTINF:-1 tvg-id="INBA5100020HQ" tvg-name="Gusto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100020HQ_20220427T054602SQUARE.png_20220427054603.png" group-title="Cooking",Gusto TV
 https://jmp2.uk/stvp-INBA5100020HQ
 
-
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/4xXDY82R/images.jpg" group-title="Entertainment",HUM Masala
+https://mini.allinonereborn.fun/tata.php?id=11120
 
 
 
@@ -152,16 +153,22 @@ http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htrqMFQD/images.jpg" group-title="Drama",Express(Max)
 http://maxotts.maxdigitaltv.com/x-media/C273/master.m3u8
 
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/3xZN3KcH/Ary-Digital-Logo.png" group-title="Drama",ARY Digital HD
+https://mini.allinonereborn.fun/tata.php?id=11115
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN38g58k/Iv-R0v7yx-400x400.jpg" group-title="Drama",LTN Family HD
+https://mini.allinonereborn.fun/tata.php?id=11082
+
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Drama",Express Entertainment HD
+https://mini.allinonereborn.fun/tata.php?id=11030
+
+#EXTINF:-1 tvg-id="VenusHD.pk" tvg-logo="https://i.ibb.co/PzGH4n91/Venus-Entertainment-HD.png" group-title="Drama",Venus Entertainment
+https://mini.allinonereborn.fun/tata.php?id=11052
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/XYFb5G4j/hum-logo.png" group-title="Drama",Hum TV
+https://mini.allinonereborn.fun/tata.php?id=11110
 
 
 
@@ -194,6 +201,9 @@ http://103.159.180.34:5001/live/1521.m3u8
 
 
 Entertainment
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Entertainment",SAB TV
+https://mini.allinonereborn.fun/tata.php?id=11087
 
 #EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" tvg-language="Hindi" group-title="Entertainment", EPIC TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
@@ -387,9 +397,17 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/wjz40V4Y/Star-Bharat-Logo.png" group-title="Entertainment",Star Bharat
 http://66.102.126.10:8000/play/a022/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Pal (Sony Liv)
+https://mini.allinonereborn.fun/tata.php?id=666
 
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=11673
 
+#EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors
+https://mini.allinonereborn.fun/tata.php?id=11635
 
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV HD (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=11694
 
 
 
@@ -808,14 +826,22 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/p
 
 
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.postimg.cc/V6VcTQRB/channels4-profile.jpg" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
-
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://i.postimg.cc/4x2knTCs/EROS-UNIVERSE.webp" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
-
 https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies", Zee Cinema HD
+http://103.159.180.34:5001/live/165.m3u8
 
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold HD
+http://202.70.146.135:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-language="Hindi" group-title="Movies", B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPicturesHD.png" tvg-language="Hindi" group-title="Movies", And Pictures HD
+http://103.159.180.34:5001/live/185.m3u8
 
 
 
@@ -1084,8 +1110,49 @@ https://mini.allinonereborn.fun/tata.php?id=1060
 https://mini.allinonereborn.fun/tata.php?id=11193
 
 
+#EXTINF:-1 tvg-id="DKids.in@SD" tvg-logo="https://i.ibb.co/C5L7rcHG/DKids-svg.png" group-title="Kids",DKids
+https://mini.allinonereborn.fun/tata.php?id=641
+
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (Tata Play)
+https://mini.allinonereborn.fun/tata.php?id=11662
 
 
+#EXTINF:-1 tvg-id="1079" tvg-name="Cartoon Network HD+ English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDEnglish.png" tvg-language="English" group-title="Kids", Cartoon Network HD+ English
+http://103.159.180.34:5001/live/1079.m3u8
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-language="Hindi" group-title="Kids", Nick Hindi
+http://202.70.146.135:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="3436" tvg-logo="https://i.ibb.co/HL9SdP8p/Cartoon-Network-HD-cover.jpg" tvg-name="Cartoon Network HD+ Hindi" group-title="Kids", Cartoon Network HD+ Hindi
+http://103.159.180.34:5001/live/3436.m3u8
+
+#EXTINF:-1 tvg-id="CNHD+.in@HD" tvg-logo="https://i.ibb.co/HL9SdP8p/Cartoon-Network-HD-cover.jpg" group-title="Kids",CNHD+ (Airtel)
+https://mini.allinonereborn.fun/tata.php?id=11633
+
+
+#EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260528T040546SQUARE.png" group-title="Kids",Green Gold TV
+https://jmp2.uk/stvp-IN4000625P
+
+#EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20260121T010843SQUARE.png" group-title="Kids",The Jungle Book
+https://jmp2.uk/stvp-IN25000020M
+
+#EXTINF:-1 tvg-id="IN4600007TC" tvg-name="Hooray Rhymes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260225T010330SQUARE.png" group-title="Kids",Hooray Rhymes
+https://jmp2.uk/stvp-IN4600007TC
+
+#EXTINF:-1 tvg-id="IN2500003JW" tvg-name="Powerkids Kartoon Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="Kids",Powerkids Kartoon Channel
+https://jmp2.uk/stvp-IN2500003JW
+
+#EXTINF:-1 tvg-id="IN4600008T4" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260225T010333SQUARE.png" group-title="Kids",KidDo MATIX
+https://jmp2.uk/stvp-IN4600008T4
+
+#EXTINF:-1 tvg-id="INBA4900026FJ" tvg-name="Toon Goggles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png" group-title="Kids",Toon Goggles
+https://jmp2.uk/stvp-INBA4900026FJ
+
+#EXTINF:-1 tvg-id="IN4600009F9" tvg-name="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260225T010336SQUARE.png" group-title="Kids",Hooray Kids
+https://jmp2.uk/stvp-IN4600009F9
+
+#EXTINF:-1 tvg-id="IN4900012F9" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900012F9_20251015T010534SQUARE.png" group-title="Kids",BABY SHARK TV
+https://jmp2.uk/stvp-IN4900012F9
 
 
 
@@ -1307,7 +1374,8 @@ http://103.159.180.34:5001/live/3402.m3u8
 https://mini.allinonereborn.fun/tata.php?id=1004
 
 
-
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png" tvg-language="English" group-title="Nature", Discovery English
+https://mumbai-edge.smartplaytv.in/Discovery/index.m3u8
 
 Nepali
 
@@ -2663,9 +2731,11 @@ http://38.147.104.162:80/premium12/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/C1n4FBrx/DSports.png" group-title="Sports",D sports 
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-language="English" group-title="Sports", Sony Ten 1 HD
+https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-1-hd.m3u8
 
-
-
+#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" group-title="Sports", Sony Ten 5 HD
+http://202.70.146.135:8000/play/a09r/index.m3u8
 
 
 
