@@ -866,9 +866,12 @@ http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max HD
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693885
 
 
-
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="" group-title="Movies",Sony Max 1 HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
 
 
 
