@@ -863,6 +863,32 @@ https://mini.allinonereborn.fun/tata.php?id=1077
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" tvg-language="Hindi" group-title="Movies", Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Movies",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 KDrama
@@ -1413,6 +1439,37 @@ https://mini.allinonereborn.fun/tata.php?id=1004
 
 #EXTINF:-1 tvg-id="242" tvg-name="Discovery English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png" tvg-language="English" group-title="Nature", Discovery English
 https://mumbai-edge.smartplaytv.in/Discovery/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Nature",History TV18 HD (Tata Play)
+http://103.157.248.140:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" group-title="Nature",Investigation Discovery ID (Tata Play)
+http://103.157.248.140:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nature",Discovery HD (Tata Play)
+http://103.157.248.140:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="Nature",Discovery Turbo (Tata Play)
+http://103.157.248.140:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Nature",Discovery Science (Tata Play)
+http://103.157.248.140:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Nature",History TV18 HD Hindi
+https://mini.allinonereborn.fun/tata.php?id=982
+
+
+
+
+
+
+
+
+
+
+
+
 
 Nepali
 
