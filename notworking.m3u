@@ -2,6 +2,12 @@
 
 Testing
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",TSN 1 (Worldcup)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",TSN 4 (Worldcup)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6445/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
