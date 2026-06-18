@@ -472,13 +472,13 @@ https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
 
 Game and Esports
 
-#EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://i.postimg.cc/Xqb0379g/jio-games-2-e930de2c0cdab118ba33.webp" tvg-language="English" group-title="Games and Esports", Jio games HD
+#EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://i.postimg.cc/Xqb0379g/jio-games-2-e930de2c0cdab118ba33.webp" tvg-language="English" group-title="Game and Esports", Jio games HD
 http://103.159.180.34:5001/live/1163.m3u8
 
 #EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" tvg-language="English" group-title="Game and Esports", Penta TV
 http://103.159.180.34:5001/live/3204.m3u8
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/qMVCZz7p/images.jpg" group-title="Game And Esports",Via x esports
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/qMVCZz7p/images.jpg" group-title="Game and Esports",Via x esports
 http://38.44.109.41:8003/play/a0cy/index.m3u8
 
 
@@ -792,11 +792,11 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/p
 
 
 
-#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.postimg.cc/V6VcTQRB/channels4-profile.jpg" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
 
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://i.postimg.cc/4x2knTCs/EROS-UNIVERSE.webp" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
 
 https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 
