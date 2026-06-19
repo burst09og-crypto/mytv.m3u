@@ -1780,7 +1780,11 @@ https://mini.allinonereborn.fun/tata.php?id=11959
 http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
 
 
+#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo="https://i.imgur.com/EZUyzhG.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali",Kantipur MAX HD 
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo="https://i.imgur.com/EZUyzhG.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali",Kantipur MAX HD 
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 
 
 
@@ -2862,6 +2866,11 @@ https://mini.allinonereborn.fun/tata.php?id=12147
 https://mini.allinonereborn.fun/tata.php?id=12144
 
 
+#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo=" https://i.ibb.co/PsrcfcSc/Unite8-Sports-2-HD.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Unite8 Sports 2 HD
+http://103.157.248.140:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo=" https://i.ibb.co/PsrcfcSc/Unite8-Sports-2-HD.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Unite8 Sports 2 HD
+http://58.147.140.106:4000/play/a0gz/index.m3u8
 
 
 
