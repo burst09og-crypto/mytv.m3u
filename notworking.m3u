@@ -2,6 +2,9 @@
 
 Testing
 
+#EXTINF:-1 tvg-id="TVToday.pk" tvg-logo="https://i.imgur.com/MYoosNo.png" group-title="News",TV Today
+http://103.253.18.58:8000/play/a074
+
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",TSN 1 (Worldcup)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.m3u8
 
