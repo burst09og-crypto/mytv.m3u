@@ -2904,11 +2904,23 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/1200.m3u8
 
 
 Worldcup 
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/MHVmh9z0/TSN1-svg.png" group-title="Worldcup",TSN 1 (Worldcup)
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/MHVmh9z0/TSN1-svg.png" group-title="Football World Cup 2026",TSN 1 (Worldcup)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/9QJY5Rjf/Start-TV-Channel-Logos-The-Sports-Network4.webp" group-title="Worldcup",TSN 4 (Worldcup)
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/9QJY5Rjf/Start-TV-Channel-Logos-The-Sports-Network4.webp" group-title="Football World Cup 2026",TSN 4 (Worldcup)
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6445/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+https://himelhimuishere.pages.dev/fwc2k26.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+https://test.movielinkbd.com/storage/relay/test/index.m3u8
+
+
+
 
 
 
