@@ -2990,6 +2990,13 @@ http://190.123.76.22:8002/play/a07p/index.m3u8
 http://168.228.44.241:9998/play/a09a/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Fifa Worldcup
+https://mikiprobot.cfd/live/4622e1e5e6/2095902.m3u8?t=40e7aee69c7513f79e79a759&e=1782256831
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Worldcup 1
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
+
+
 
 Youtube 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/Dfx2YcKr/Mr-Beast-Logo-500x313-1.png" group-title="Youtube",Mr. Beast TV 
