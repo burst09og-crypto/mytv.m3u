@@ -2876,6 +2876,11 @@ http://58.147.140.106:4000/play/a0gz/index.m3u8
 
 
 
+
+
+
+
+
 Weather 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsrzvZGv/52012155-0-Weather-Spy-Avatar4.jpg" group-title="Weather",Weather Spy
@@ -3020,9 +3025,31 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Unite8Sports1.in@HD" tvg-logo="https://i.postimg.cc/4ycYjwvW/Screenshot-2026-06-10-002618.webp"  group-title="Football World Cup 2026",Unite8 Sports 1 HD (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/qallamsortadf/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Worldcup 1
+http://193.239.186.231/NPO1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Wwe 
+https://iptv.domains/live/Henry/123456/124874.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Worldcup 3
+http://176.65.146.189:8701/play/a09l
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",CBS sports Golazo 
+https://iptv.domains/live/Henry/123456/142009.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Soccer plus
+https://iptv.domains/live/Henry/123456/14493.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Fox sports 2
+https://iptv.domains/live/Henry/123456/1252.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Fox sports 1
+https://iptv.domains/live/Henry/123456/1251.m3u8
 
 
 
