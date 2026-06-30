@@ -416,7 +416,11 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://i.postimg.cc/gcw2g0KQ/Zee-TV-Logo-2014.png" group-title="Entertainment" ,Zee TV HD (720p)
+http://41.205.77.102/ZEE-TV/index.m3u8
 
+#EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.postimg.cc/13V0PPPc/Star-Plus-Logo.png" group-title="Entertainment",StarPlus (576p)
+http://41.205.77.102/STAR-PLUS/index.m3u8
 
 
 
