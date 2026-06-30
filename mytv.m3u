@@ -3057,7 +3057,8 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="Unite8Sports1.in@HD"  tvg-logo="https://i.postimg.cc/4ycYjwvW/Screenshot-2026-06-10-002618.webp"  group-title="Football World Cup 2026",Unite8 Sports 1 HD (1080p)
+http://103.114.11.37:8081/UNITEDHINDI/index.m3u8
 
 
 
