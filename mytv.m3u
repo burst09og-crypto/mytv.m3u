@@ -2873,6 +2873,8 @@ http://103.157.248.140:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo=" https://i.ibb.co/PsrcfcSc/Unite8-Sports-2-HD.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Unite8 Sports 2 HD
 http://58.147.140.106:4000/play/a0gz/index.m3u8
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/hjG311HG/thumb-350-1364852.webp" group-title="Sports",RM TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 
 
@@ -3059,6 +3061,21 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports1.in@HD"  tvg-logo="https://i.postimg.cc/4ycYjwvW/Screenshot-2026-06-10-002618.webp"  group-title="Football World Cup 2026",Unite8 Sports 1 HD (1080p)
 http://103.114.11.37:8081/UNITEDHINDI/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026 67
+https://idabest.danng.me/live/stream-ba5a4d45-33dd-44be-a8e2-aef5c28f5b82/audio-audio_51600_und-49600/index.m3u8?u=gar&p=18d6ab72478fc3dac2b62dee6e11ffdc9fc2ccf5be660f50050af7aba70297af
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",TSN 3 CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120275
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",TSN 4 CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120276
+
+
+
 
 
 
