@@ -422,6 +422,11 @@ http://41.205.77.102/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.postimg.cc/13V0PPPc/Star-Plus-Logo.png" group-title="Entertainment",StarPlus (576p)
 http://41.205.77.102/STAR-PLUS/index.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="https://i.postimg.cc/wxWL7GXF/Colors-2008.webp" tvg-language="English" group-title="Entertainment", Colors
+http://103.155.18.186:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Colors  HD" tvg-logo="https://i.postimg.cc/wxWL7GXF/Colors-2008.webp" tvg-language="English" group-title="Entertainment", Colors
+http://103.11.0.215:8000/play/a0ar/index.m3u8
 
 
 
@@ -2880,8 +2885,17 @@ http://58.147.140.106:4000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/hjG311HG/thumb-350-1364852.webp" group-title="Sports",RM TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/YSkhX6Nn/Star-Sports-Network-logo.png" tvg-language="English" group-title="Sports", Star sports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/YSkhX6Nn/Star-Sports-Network-logo.png" tvg-language="English" group-title="Sports", Star sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/YSkhX6Nn/Star-Sports-Network-logo.png" tvg-language="English" group-title="Sports", Star sports 2 Hindi
+http://103.157.248.140:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/bNtrpC3D/Star-sports-select-1-hd.webp" tvg-language="English" group-title="Sports", Star sports select 1
+http://103.157.248.140:8000/play/a00o/index.m3u8
 
 
 
@@ -3077,7 +3091,26 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120275
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",TSN 4 CA
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120276
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/52fXg5Sq/2dc2a329ce9462502961c9d82027ccd4.webp" tvg-language="English" group-title="Football World Cup 2026", USA fox 1
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/238377
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mrX1tcMy/Fox-Broadcasting-Company-logo-(2019).jpg" tvg-language="English" group-title="Football World Cup 2026", USA fox 
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/238376
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/52fXg5Sq/2dc2a329ce9462502961c9d82027ccd4.webp" tvg-language="English" group-title="Football World Cup 2026", USA fox 2
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/238378
+
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026", TSN
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3146
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mrX1tcMy/Fox-Broadcasting-Company-logo-(2019).jpg" tvg-language="English" group-title="Football World Cup 2026", USA fox
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/10170
 
 
 
