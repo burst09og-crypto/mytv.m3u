@@ -501,6 +501,8 @@ https://fl1004.bozztv.com/ushba-m1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Fashion",Tos (fashion)
+http://200.115.120.1:8000/play/ca99/index.m3u8
 
 
 
@@ -2897,6 +2899,13 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/bNtrpC3D/Star-sports-select-1-hd.webp" tvg-language="English" group-title="Sports", Star sports select 1
 http://103.157.248.140:8000/play/a00o/index.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Sports",Wwe
+http://200.115.120.1:8000/play/ca121/index.m3u8
+
+
+
+
+
 
 
 
@@ -3112,7 +3121,35 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3146
 #EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mrX1tcMy/Fox-Broadcasting-Company-logo-(2019).jpg" tvg-language="English" group-title="Football World Cup 2026", USA fox
 http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/10170
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Fox worldcup 
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Worldcup 
+http://stream.cammonitorplus.net/1841/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",TSN 2
+http://40.160.24.55/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",TSN 1
+http://40.160.24.55/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",TSN 5
+http://40.160.24.55/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",TSN 4
+http://40.160.24.55/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",TSN 3
+http://40.160.24.55/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Eurosport 1
+	http://185.207.34.31:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Unite8 sports 1
+http://fastshare1.com/live/25711345/late8airline/741567.ts
 
 
 
