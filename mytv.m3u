@@ -888,7 +888,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 
-
+#EXTINF:-1 tvg-id="IN460001727" tvg-name="Dishoom Films" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001727_20260708T005907SQUARE.png" group-title="Movies",Dishoom Films
+https://jmp2.uk/stvp-IN460001727
 
 
 
