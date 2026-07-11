@@ -9,6 +9,20 @@ Test
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Anime
 
 
@@ -431,6 +445,19 @@ http://103.11.0.215:8000/play/a0ar/index.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors  HD" tvg-logo="https://i.postimg.cc/R0FGkLHr/unnamed.png" tvg-language="English" group-title="Entertainment",Kuting
 https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/kutingg_4000k.m3u8
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/L4TVccJg/Sony-TV-new.png" group-title="Entertainment",Sony set
+http://103.155.18.186:8000/play/a005/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/L4x2szmW/unnamed.png" group-title="Entertainment",Via play
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/3356
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/Nf0G8dNr/images.png" group-title="Entertainment",Astro Arena 2
+https://stream1.freetv.fun/68da89042a9f2db15441d01da36a1dc5f4496680dbcf5cc4035bfd5ebfb7bbe9.ctv
+
 
 
 
@@ -893,6 +920,9 @@ https://jmp2.uk/stvp-IN460001727
 
 
 
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max
+http://103.155.18.186:8000/play/a01g/index.m3u8
+
 
 
 
@@ -1213,6 +1243,15 @@ https://jmp2.uk/stvp-IN4600009F9
 
 #EXTINF:-1 tvg-id="IN4900012F9" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900012F9_20251015T010534SQUARE.png" group-title="Kids",BABY SHARK TV
 https://jmp2.uk/stvp-IN4900012F9
+
+
+
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Kids",Sony yay
+https://restream-live.realiptv.to/1234567/7654321/544127
+
+
+
+
 
 
 
@@ -2905,6 +2944,34 @@ http://200.115.120.1:8000/play/ca121/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Sports",Wwe
+http://41.205.93.154/WWE/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 English
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/20
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein 2 English 
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/21
+
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/0j86vT5h/T-Sports-logo-svg.png" group-title="Sports",Tsports 2
+http://103.114.11.41:8081/T-Sports-BDIX/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/0j86vT5h/T-Sports-logo-svg.png" group-title="Sports",T sports 
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="99951134" tvg-name="UFC" tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/168x168.png?type=color_onBlack" group-title="Sports",UFC
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/28948
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/sgqK2xDK/Fox-Sports-logo1-svg.png" group-title="Sports",FS1
+http://fastshare1.com/live/25711345/late8airline/751354.ts
+
+
+
+
+
+
 
 
 
@@ -3147,13 +3214,17 @@ http://40.160.24.55/TSN_4/index.m3u8
 http://40.160.24.55/TSN_3/index.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Eurosport 1
-	http://185.207.34.31:8000/play/a018/index.m3u8
+http://185.207.34.31:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Unite8 sports 1
 http://fastshare1.com/live/25711345/late8airline/741567.ts
 
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/0j86vT5h/T-Sports-logo-svg.png" group-title="Football World Cup 2026",Tsports 2
+http://103.114.11.41:8081/T-Sports-BDIX/index.m3u8?token=1dsfds1fsdf
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/0j86vT5h/T-Sports-logo-svg.png" group-title="Football World Cup 2026",T sports 
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
 
 
