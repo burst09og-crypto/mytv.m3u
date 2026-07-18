@@ -1515,14 +1515,19 @@ http://103.157.248.140:8000/play/a018/index.m3u8
 https://mini.allinonereborn.fun/tata.php?id=982
 
 
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://i.postimg.cc/tC5hBLYf/Travelxp-HD.jpg" tvg-language="English" group-title="Nature", Travelxp HD
+http://103.159.180.34:5001/live/164.m3u8
 
 
 
+#EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://i.postimg.cc/tC5hBLYf/Travelxp-HD.jpg" tvg-language="Hindi" group-title="Nature", Travelxp HD Hindi
+http://103.159.180.34:5001/live/562.m3u8
 
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" tvg-language="Hindi" group-title="Nature", Discovery Hindi
+http://103.159.180.34:5001/live/575.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" tvg-language="Hindi" group-title="Nature", Discovery HD Hindi
+http://202.70.146.135:8000/play/a05z/index.m3u8
 
 
 
