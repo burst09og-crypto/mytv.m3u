@@ -4,58 +4,6 @@
 Test
 
 
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 1
-http://103.253.18.58:8000/play/a00a
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 2
-http://103.253.18.58:8000/play/a00b
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 3
-http://103.253.18.58:8000/play/a00c
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 4
-http://103.253.18.58:8000/play/a00d
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 5
-http://103.253.18.58:8000/play/a00e
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 6
-http://103.253.18.58:8000/play/a00f
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 7 
-http://103.253.18.58:8000/play/a00g
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 8 
-http://103.253.18.58:8000/play/a00h
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 9
-http://103.253.18.58:8000/play/a00i
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 10
-http://103.253.18.58:8000/play/a00j
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 12
-http://103.253.18.58:8000/play/a00k
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 13
-http://103.253.18.58:8000/play/a00l
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 14
-http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 15
-http://103.253.18.58:8000/play/a00n
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 16
-http://103.253.18.58:8000/play/a00o
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 17
-http://103.253.18.58:8000/play/a00p
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 18
-http://103.253.18.58:8000/play/a00q
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 19 
-http://103.253.18.58:8000/play/a00r
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 20
-http://103.253.18.58:8000/play/a00s
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 21
-http://103.253.18.58:8000/play/a00t
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 22
-http://103.253.18.58:8000/play/a00u
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 23
-http://103.253.18.58:8000/play/a00v
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 24
-http://103.253.18.58:8000/play/a00w
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test  256
-http://103.253.18.58:8000/play/a00x
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 26
-http://103.253.18.58:8000/play/a00y
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Test",Test 27
-http://103.253.18.58:8000/play/a00z
 
 
 
@@ -103,7 +51,8 @@ Business
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Business",Zee Business (Tata Play) 
+http://103.253.18.58:8000/play/a00c
 
 
 Comedy
@@ -507,6 +456,22 @@ http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/3356
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/Nf0G8dNr/images.png" group-title="Entertainment",Astro Arena 2
 https://stream1.freetv.fun/68da89042a9f2db15441d01da36a1dc5f4496680dbcf5cc4035bfd5ebfb7bbe9.ctv
+
+
+
+#EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat (Tata Play)
+http://103.253.18.58:8000/play/a00u
+
+
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (Tata Play)
+http://103.253.18.58:8000/play/a00n
+
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LOGO_HD/image.png" group-title="Entertainment",Star Plus HD (Tata Play)
+http://103.253.18.58:8000/play/a00l
+
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony Entertainment Television HD (Tata Play)
+http://103.253.18.58:8000/play/a00f
 
 
 
@@ -974,12 +939,20 @@ https://jmp2.uk/stvp-IN460001727
 http://103.155.18.186:8000/play/a01g/index.m3u8
 
 
-#EXTINF:-1 tvg-id="IN3800010SH" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png",Hollywood Desi
+#EXTINF:-1 tvg-id="IN3800010SH" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png" group-title="Movies",Hollywood Desi
 https://jmp2.uk/stvp-IN3800010SH
 
 
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (Tata Play)
+http://103.253.18.58:8000/play/a00o
 
 
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold HD (Tata Play)
+http://103.253.18.58:8000/play/a00q
+
+
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 (Tata Play)
+http://103.253.18.58:8000/play/a00r
 
 
 
@@ -1301,7 +1274,8 @@ https://jmp2.uk/stvp-IN4900012F9
 https://restream-live.realiptv.to/1234567/7654321/544127
 
 
-
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" group-title="Kids", Nick Junior (Tata Play)
+http://103.253.18.58:8000/play/a00y
 
 
 
@@ -3022,8 +2996,15 @@ http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/28948
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/sgqK2xDK/Fox-Sports-logo1-svg.png" group-title="Sports",FS1
 http://fastshare1.com/live/25711345/late8airline/751354.ts
 
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (Tata Play)
+http://103.253.18.58:8000/play/a00t
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 HD (Tata Play)
+http://103.253.18.58:8000/play/a00m
 
 
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCRW.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi HD (Tata Play)
+http://103.253.18.58:8000/play/a00b
 
 
 
