@@ -964,6 +964,44 @@ http://116.90.120.157:8000/play/a0j4
 http://116.90.120.157:8000/play/a0j2
 
 
+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Movies",MN+ HD (Tata Play)
+http://116.90.120.157:8000/play/a0i4
+http://116.90.120.157:8000/play/a0i5
+
+#EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="Movies", MNX HD
+http://116.90.120.157:8000/play/a0i6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 KDrama
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/Kzmft1hG/imxchannelk.jpg" group-title="KDrama",Korean TV
