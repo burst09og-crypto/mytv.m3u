@@ -124,18 +124,20 @@ https://jmp2.uk/stvp-IN46000105Q
 #EXTINF:-1 tvg-id="INBA5100020HQ" tvg-name="Gusto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100020HQ_20220427T054602SQUARE.png_20220427054603.png" group-title="Cooking",Gusto TV
 https://jmp2.uk/stvp-INBA5100020HQ
 
-#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/4xXDY82R/images.jpg" group-title="Entertainment",HUM Masala
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/4xXDY82R/images.jpg" group-title="Cooking",HUM Masala
 https://mini.allinonereborn.fun/tata.php?id=11120
 
 
 
 
+Cricket
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Cricket",Live Sports
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Cricket",Live Sports
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
 
 
 
@@ -1375,7 +1377,17 @@ http://116.90.120.157:8000/play/a0o5
 https://stream.ads.ottera.tv/cl/260726d9iq1g8abifc739fbflg/1280x720_2300000_0_f.m3u8?i=475_547
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
+https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
+https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS",Cartoon Network HD
+https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS",Cartoon Network
+https://s2.itcnbd.live/server-2/stream/cartoon_network_sd.m3u8
 
 
 Music
