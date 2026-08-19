@@ -3,13 +3,8 @@
 
 Test
 
-
-
-
-
-
-
-
+Zee action
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/967.ts
 
 
 
@@ -826,6 +821,11 @@ http://103.99.249.139/zeecinema/index.m3u8
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Movies",Zee Anmol Cinema
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7065.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Movies",Zee Anmol Cinema
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/203.ts
+
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tT2BWLdJ/63ca523d57c534aae4b50f9cd4d2a80c.png" group-title="Movies",B4u Kadak
@@ -1100,7 +1100,8 @@ http://66.102.126.10:8000/play/a021/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
 
 
-
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Zee Action
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/967.ts
 
 
 
