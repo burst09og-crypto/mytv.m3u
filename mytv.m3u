@@ -531,8 +531,8 @@ http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=671571&exten
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Music",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 
 
