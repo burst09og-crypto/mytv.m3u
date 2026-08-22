@@ -9,7 +9,69 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/967.ts
 
 
 
+hungama 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
 
+Super hungama 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/66162.ts
+
+Disney jr 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207676.ts
+
+Disney jr
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/35713.ts
+
+Disney 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
+
+MTV hd
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4029.ts
+
+Nick jr
+	http://premiumtvs.space/live/YqXTywueEV/damp2purchase/206.ts
+
+Nick
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
+
+Sony pal
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/6627.ts
+
+Sony wah
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4077.ts
+
+Sony max 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/973.ts
+
+Sony BBC earth
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/174.ts
+
+Sony sab
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/145.ts
+
+Sony set
+	http://premiumtvs.space/live/YqXTywueEV/damp2purchase/144.ts
+
+Sony max
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/151.ts
+
+Star gold 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4324.ts
+
+Star gold Romance
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/972.ts
+
+Star gold hd
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/194.ts
+
+Star gold select
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/210.ts
+
+
+Pogo
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1918.ts
+
+Nick hd
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
 
 
 
@@ -536,6 +598,19 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://i.postimg.cc/kXRBQ8Pq/SONY-PAL.png" group-title="Entertainment",Sony Pal HD (1080p)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/6627.ts
+
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyWAH.png" tvg-language="Hindi" group-title="Entertainment", Sony Wah
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4077.ts
+
+
+
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://i.postimg.cc/SQWDqYYd/Sony-SAB.jpg" group-title="Entertainment",Sony SAB
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/145.ts
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony Entertainment Television HD (Tata Play)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/144.ts
 
 
 
@@ -821,6 +896,9 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 http://103.99.249.139/zeecinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Movies",Zee Action
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/967.ts
+
+@@@
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Movies",Zee Anmol Cinema
@@ -1106,8 +1184,25 @@ http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Zee Action
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/967.ts
 
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/973.ts
 
 
+
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/151.ts
+
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.postimg.cc/LXkcfmm5/Star-Gold-2-HD-2020.jpg" group-title="Movies",Star Gold 2 (576p)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4324.ts
+
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" tvg-language="Hindi" group-title="Movies", Star Gold Romance
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/972.ts
+
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold HD (Tata Play)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/194.ts
+
+#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold Select HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/210.ts
 
 
 
@@ -1205,10 +1300,10 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
-https://mini.allinonereborn.fun/tata.php?id=931
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
 
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://i.postimg.cc/MZ0K3hSB/Hungama-Photoroom.webp" group-title="Kids",Hungama TV
-https://mini.allinonereborn.fun/tata.php?id=11646
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
 
 #EXTINF:-1 tvg-id="in@SD" tvg-logo="https://i.postimg.cc/85SMhQKQ/Marvel-HQ-logo-svg.png" group-title="Kids", Marvel HQ
 https://mini.allinonereborn.fun/tata.php?id=11649
@@ -1223,7 +1318,7 @@ https://mini.allinonereborn.fun/tata.php?id=11667
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" group-title="Kids", Nick HD+
-http://103.159.180.34:5001/live/1226.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
 
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://i.postimg.cc/HxWGnPrj/Unique-Tv.png" tvg-language="English" group-title="Kids",Unique TV
 http://103.175.73.12:8080/live/688/master.m3u8
@@ -1288,7 +1383,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65xsCXZN/1d47df5bb049d4e70d8d7301ef9666cb.png" group-title="Kids",Pogo
-http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1918.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c48Z3Bz0/download.jpg" group-title="Kids",Tom and Jerry
@@ -1379,7 +1474,7 @@ https://mini.allinonereborn.fun/tata.php?id=11193
 https://mini.allinonereborn.fun/tata.php?id=641
 
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (Tata Play)
-https://mini.allinonereborn.fun/tata.php?id=11662
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
 
 
 #EXTINF:-1 tvg-id="1079" tvg-name="Cartoon Network HD+ English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDEnglish.png" tvg-language="English" group-title="Kids", Cartoon Network HD+ English
@@ -1462,6 +1557,45 @@ https://s2.itcnbd.live/server-2/stream/cartoon_network_sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxsBDC3L/images.png"group-title="KIDS",Wow kids
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+
+Pogo
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1918.ts
+
+Nick hd
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
+
+
+
+hungama 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZT2gx8R/Super-Hungama-Logo.png" group-title="Kids",Super hungama 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/66162.ts
+
+
+#EXTINF:-1 tvg-id="DisneyJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Jr.
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207676.ts
+
+#EXTINF:-1 tvg-id="DisneyJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Jr.
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/35713.ts
+
+Disney 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
+
+MTV hd
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4029.ts
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/RFp2VkNp/Nick-Jr-logo-2023-svg.png" group-title="Kids",Nick JR
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/206.ts
+
+Nick
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
+
+
+
+
+
 
 
 Music
@@ -1584,7 +1718,7 @@ http://103.159.180.34:5001/live/962.m3u8
 https://mini.allinonereborn.fun/tata.php?id=929
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Music",MTV
-https://mini.allinonereborn.fun/tata.php?id=1060
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4029.ts
 
 
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://i.postimg.cc/NMKTSqMb/8XM-Logo.png" group-title="Music",8XM
@@ -1774,8 +1908,8 @@ http://103.253.18.58:8000/play/a01l
 http://116.90.120.157:8000/play/a0s8
 
 
-
-
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Nature",Sony BBC Earth HD (Tata Play)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/174.ts
 
 
 Nepali
