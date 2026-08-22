@@ -81,6 +81,8 @@ https://restream-live.realiptv.to/1234567/7654321/3613
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Anime",M+ Laliga
 http://neoyjpw.top:8080/fernando/fernando/63369
 
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="Anime",Dazn Laliga
+http://neoyjpw.top:8080/fernando/fernando/63366
 Anime
 
 
