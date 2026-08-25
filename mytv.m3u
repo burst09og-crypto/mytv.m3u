@@ -1065,8 +1065,11 @@ https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
+http://103.159.180.34:5001/live/962.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcT2Sn9Q/Dhoom_Music_old.webp" group-title="Music",Dhoom music
+https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 
 
@@ -1744,6 +1747,37 @@ http://neoyjpw.top:8080/fernando/fernando/63369
 
 #EXTINF:-1 tvg-name="DAZN 5" tvg-logo="https://i.postimg.cc/Y2XbDK5L/images.jpg" group-title="Sports",Dazn Laliga
 http://neoyjpw.top:8080/fernando/fernando/63366
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",DAZN 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",M laliga 
+http://3d4f.drnexon.net/7n01vghnqf/ebx2dqpx07/415875
+
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.ibb.co/ycwybZqQ/DAZN-1-3.png" group-title="Sports",Eleven sports
+http://315e5a5d.ottrast.com/iptv/AE8BY6FHF5ZGAG/20068/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",B sports Haber
+http://315e5a5d.ottrast.com/iptv/AE8BY6FHF5ZGAG/19064/index.m3u
+
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo=" " group-title="Sports",Sony Ten sports 1
+http://tv.cloudcdn.me/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
+
+
+
+
+
 
 
 
