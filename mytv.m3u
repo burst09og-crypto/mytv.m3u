@@ -1775,8 +1775,8 @@ http://tv.cloudcdn.me/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:4
 
 
 
-
-
+#EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://i.postimg.cc/W3dDBSsp/FOX-Deportes-logo-svg.png" tvg-language="English" group-title="Sports",Fox DeportesS
+http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 
 
