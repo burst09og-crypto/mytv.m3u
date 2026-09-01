@@ -454,7 +454,7 @@ https://cdn-1.pishow.tv/live/1011/1011_1.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies",Manoranjan Prime
-https://cdn-1.pishow.tv/live/1013/1013_1.m3u8
+https://cdn-1.pishow.tv/live/1013/master.m3u8
 
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.postimg.cc/Gp7kppTY/unnamed.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Cine Shot premier
 https://e07b61696a8e4d6d9bbcb94b15fc8b4e.mediatailor.ap-south-1.amazonaws.com/v1/manifest/d367f9b863a7a04827f71ecab4cbeeb11f78a827/cinshf-airtel/52443f9a-8cf6-4697-a2ee-ad9b0cffa396/0.m3u8
@@ -703,6 +703,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/194.ts
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold Select HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/210.ts
 
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.postimg.cc/FKzYqjF7/logo-tv.png" group-title="Movies",Indywood Tv
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/chunks.m3u8
 
 
 
@@ -1057,8 +1059,8 @@ https://amigofx.com:1936/hitzentertainment/hitzentertainment/chunklist_w20659277
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Music",MTV
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4029.ts
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5nLD7wx/download.jpg" group-title="Music",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/chunklist_b1928000.m3u8
 
 
 #EXTINF:-1 tvg-id="IN3900002KB" tvg-name="E24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20250811T033446SQUARE.png" group-title="Music",E24
