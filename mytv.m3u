@@ -428,7 +428,14 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 Infotainment
 
 
-
+#EXTINF:-1 tvg-id="IN1600009NL" tvg-name="HISTORY TV18 - Hindi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20260818T082640SQUARE.png" group-title="Infotainment",HISTORY TV18 - Hindi
+https://jmp2.uk/stvp-IN1600009NL
+#EXTINF:-1 tvg-id="IN460000585" tvg-name="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20260623T013240SQUARE.png" group-title="Infotainment",Wild Flix
+https://jmp2.uk/stvp-IN460000585
+#EXTINF:-1 tvg-id="IN46000011Q" tvg-name="XXTreme Jobs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20260623T013253SQUARE.png" group-title="Infotainment",XXTreme Jobs
+https://jmp2.uk/stvp-IN46000011Q
+#EXTINF:-1 tvg-id="IN1600008DN" tvg-name="HISTORY TV18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600008DN_20260623T015020SQUARE.png" group-title="Infotainment",HISTORY TV18
+https://jmp2.uk/stvp-IN1600008DN
 
 
 
@@ -437,10 +444,20 @@ Infotainment
 
 Movies
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K87fmF5T/logo-for-website.png" group-title="Movies",The Q Tv
+https://mumt05.tangotv.in/87NeALx2THEQ/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgKTW29V/download.jpg" group-title="Movies",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/1011_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies",Manoranjan Movies
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies",Manoranjan Prime
+https://cdn-1.pishow.tv/live/1013/1013_1.m3u8
 
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.postimg.cc/Gp7kppTY/unnamed.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Cine Shot premier
+https://e07b61696a8e4d6d9bbcb94b15fc8b4e.mediatailor.ap-south-1.amazonaws.com/v1/manifest/d367f9b863a7a04827f71ecab4cbeeb11f78a827/cinshf-airtel/52443f9a-8cf6-4697-a2ee-ad9b0cffa396/0.m3u8
 
 
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.postimg.cc/V6VcTQRB/channels4-profile.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
@@ -509,6 +526,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf8pZHFx/images-(2).jpg" group-title="Movies",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf8pZHFx/images-(2).jpg" group-title="Movies",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://i.postimg.cc/zXBBLhCp/download.jpg" group-title="Movies",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
@@ -531,8 +550,8 @@ https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/manifest/1.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5txVJXdw/download.jpg" group-title="Movies",Bollywood TV
+https://streams2.sofast.tv/title-bollywood_tv/ptnr-swifttv/sofast3/v1/019807928d161eb4611d2d9080f41f/0198079394eb1eb4611d2d9080f422/BOLLYWOOD_TV_3500k.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wNbf6fW/Chat-GPT-Image-Sep-8-2025-09-53-44-PM-1-200x300.png" group-title="Movies",Big Star Bollywood
@@ -764,8 +783,8 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_3
 
 Kids
 
-
-
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://i.postimg.cc/J4w9prYs/b608d02a2c735e3955301d0ab869dc82.png" group-title="Kids",Unique Tv
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
@@ -956,6 +975,11 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
 
 
 Music
+
+
+
+#EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/mgkNMM3P/images.jpg" tvg-language="Hindi" group-title="Music",Evergreen hits
+https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/hjHtmBT9/cb01062db1ba78c1bccc3e53db893b6b.png" tvg-language="Hindi" group-title="Music", Only music 12
 https://stream.yettelevision.com:5443/LiveApp/streams/vN7dKqR9mX2Lp5TcH8Za.m3u8
@@ -1777,6 +1801,8 @@ http://tv.cloudcdn.me/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:4
 #EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://i.postimg.cc/W3dDBSsp/FOX-Deportes-logo-svg.png" tvg-language="English" group-title="Sports",Fox DeportesS
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/x1jGtcsT/TNT-Sports-Premium-(Argentina).png" group-title="Sports",Tnt premium 
+http://200.115.120.1:8000/play/ca040/index.m3u8
 
 
 
