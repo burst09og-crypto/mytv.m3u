@@ -1914,6 +1914,29 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/xdX6k1Hk/20250115024048925149-82.png" group-title="Sports",Max sports 1
+http://77.46.130.252:99/maxsport1
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/bw35D55n/8qhlj81641505795.png" group-title="Sports",Max sports 2
+http://77.46.130.252:99/maxsport2
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/xTPxh7nJ/Maxsport3.webp" group-title="Sports",Max sports 3
+http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/fbPg59Zg/o0kgrq1641505828.png" group-title="Sports",Max sports 4
+http://77.46.130.252:99/maxsport4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
