@@ -3,6 +3,14 @@
 
 Test
 
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",Alwan 6
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",Alwan 5
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",Alwan 4
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
 
 
 
