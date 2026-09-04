@@ -787,7 +787,14 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.postimg.cc/mDN3WrmP/Colors-Infinity.png" group-title="Movies",Colors Infinity
 http://66.102.126.10:8000/play/a014/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://i.ibb.co/HDcSBkxP/Sony-Max-1.png" group-title="Movies",Sony Max 1
+http://103.159.180.34:5001/live/3418.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-id="Hindi Movies",South Hindi Dubbed Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies
+https://prod-runn.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 
 
 KDrama
@@ -1271,6 +1278,9 @@ http://103.159.180.34:5001/live/3402.m3u8
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png?lock=720x540" group-title="Pakistan" group-title="Documentary",Animal Planet
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 
 
@@ -1934,9 +1944,14 @@ http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/fbPg59Zg/o0kgrq1641505828.png" group-title="Sports",Max sports 4
 http://77.46.130.252:99/maxsport4
 
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",|US| PEACOCK LIVE | WWE Network
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:AB:E8:88&stream=1121785&extension=ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="Sports",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-
+#EXTINF:-1 tvg-id="ASports.pk" tvg-logo="https://i.imgur.com/EVJuFRs.png" group-title="Pakistan" group-title="Sports",A Sports
+https://cdn01.medialive.one:2096/ASPORTSFHD/index.m3u8
 
 
 
