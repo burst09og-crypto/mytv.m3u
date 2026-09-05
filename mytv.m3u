@@ -3,15 +3,6 @@
 
 Test
 
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",Alwan 6
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts
-
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",Alwan 5
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts
-
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",Alwan 4
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
-
 
 
 
@@ -1954,7 +1945,32 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 https://cdn01.medialive.one:2096/ASPORTSFHD/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBB9c6JK/images.png" group-title="Sports",Alwan 6
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBB9c6JK/images.png" group-title="Sports",Alwan 5
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBB9c6JK/images.png" group-title="Sports",Alwan 4
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70w7ghQ/images.png" group-title="Sports",Setanta sports pl
+http://stream.mcquack.net/313/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70w7ghQ/images.png" group-title="Sports",Setanta sports 1 Eurasia
+http://stream.mcquack.net/234/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzQ7VwWY/channel-1669618628.png" group-title="Sports",Setanta 2
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tN4fP4f/Willow-2023-stacked.webp" group-title="Sports",Willow SD
+https://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6jJKX1Z/Match-TV-Logo-svg.webp" group-title="Sports",Match ultra
+http://stream.mcquack.net/169/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5fRxwTN/T-Sports-logo-svg.webp" group-title="Sports",T sports 
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 
 
