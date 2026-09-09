@@ -1184,8 +1184,9 @@ Music
 #EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/mgkNMM3P/images.jpg" tvg-language="Hindi" group-title="Music",Evergreen hits
 https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/hjHtmBT9/cb01062db1ba78c1bccc3e53db893b6b.png" tvg-language="Hindi" group-title="Music", Only music 12
-https://stream.yettelevision.com:5443/LiveApp/streams/vN7dKqR9mX2Lp5TcH8Za.m3u8
+https://live.yettelevision.com:5443/LiveApp/streams/vN7dKqR9mX2Lp5TcH8Za.m3u8
 
 #EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/hjHtmBT9/cb01062db1ba78c1bccc3e53db893b6b.png" tvg-language="Hindi" group-title="Music", Only music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
