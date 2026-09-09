@@ -1179,7 +1179,14 @@ http://202.70.146.135:8000/play/a01q/index.m3u8
 
 Music
 
+#EXTINF:-1 tvg-id="2252" tvg-name="Desi Music Station" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Music_Station.png" tvg-language="Hindi" group-title="Music",Desi Music Station
+http://103.159.180.34:5001/live/2252.m3u8
 
+#EXTINF:-1 tvg-id="2064" tvg-name="Merchant Records" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Merchant_Records.png" tvg-language="Hindi" group-title="Music",Merchant Records
+http://27.116.22.53:5001/live/2064.m3u8
+
+#EXTINF:-1 tvg-id="1192" tvg-name="Brit Asia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" tvg-language="Punjabi" group-title="Music",Brit Asia
+http://103.159.180.34:5001/live/1192.m3u8
 
 #EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/mgkNMM3P/images.jpg" tvg-language="Hindi" group-title="Music",Evergreen hits
 https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/tracks-v1a1/mono.m3u8
