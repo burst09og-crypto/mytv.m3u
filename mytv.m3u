@@ -1646,6 +1646,11 @@ https://jmp2.uk/stvp-IN2200004MX
 Sports
 
 
+
+
+#EXTINF:-1 tvg-name="Sony Sports 2 HD" group-title="Sports",Sony Sports 2 HD
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/sXq6pnng/images.jpg" tvg-language="English" group-title="Sports",Max 2	
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115758.m3u8
 
