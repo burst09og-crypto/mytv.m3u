@@ -1648,7 +1648,7 @@ Sports
 
 
 
-#EXTINF:-1 tvg-name="Sony Sports 2 HD" group-title="Sports",Sony Sports 2 HD
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://i.postimg.cc/85bCCBvb/9c0fc822845789953d3be9c29bb6f0cd.png" group-title="Sports",Sony Sports Ten 2 HD (1080p)
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/sXq6pnng/images.jpg" tvg-language="English" group-title="Sports",Max 2	
@@ -2170,7 +2170,8 @@ http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4904
 
 
 
-
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://i.postimg.cc/0Qtq3tDg/SONY-Sports-Ten5-SD-Logo-CLR.png" group-title="Sports",Sony Sports Ten 5 HD (1080p)
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 
 
