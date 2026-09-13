@@ -2212,6 +2212,55 @@ https://live01-cn-ali.lmqvw.com/live/70078803_tsc.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="192" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League (Alt)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="TV",Sky Sports Premier League (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Premier+League&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc33d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNkOjE3ODkzMjYwMTMyNjY6Y2RubGl2ZXR2LnR2OmMyYzFhOGYxYjRhNTIxZjMuMmJmOGU3ZTMxYzQ3YWY1OGVlMTczNGM4OTI0MzM2MTc3ZGE5OTc5NjkzMDdiZWEwMzdlZjc3ODg5NjU2N2U5Yw
+
+
+
+#EXTINF:-1 tvg-chno="256" tvg-id="TSN.5.ca2" tvg-name="TSN 5 (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90124_dark_360w_270h.png" group-title="TV",TSN 5 (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+5&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc16d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTZkOjE3ODkzMjYwMzUzOTU6Y2RubGl2ZXR2LnR2OmJiNGQzZmM4ZmY3ZWYyMTguMjk2NjljYThiOTA0MzZlNDAwNzcyYzE3MDczMTI5MzU2NzIxYmI5OGRkNTQ0YzJkYTllOTIzMWQ5ZTRhZmE4Nw
+
+
+
+
+
+#EXTINF:-1 tvg-chno="248" tvg-id="TSN.1.ca2" tvg-name="TSN 1 (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN 1 (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+1&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODkzMjYwMTM4OTk6Y2RubGl2ZXR2LnR2OjUwZTU5NDIxMTQyMmI2NmYuMTdlOWU4NmE4NGZmMzdhMDc0Y2U4NDRhYzhmNjg5MDlhMDA3MTA3MzAyNzRkYWNkZjkxODQ4YjY0ZjQwNTdmMA
+
+
+#EXTINF:-1 tvg-chno="250" tvg-id="TSN.2.ca2" tvg-name="TSN 2 (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="TV",TSN 2 (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+2&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc171/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcxOjE3ODkzMjYwMzIxNjY6Y2RubGl2ZXR2LnR2OjAzOTAwNTBmY2I5MWVkY2IuZjc2OGQxOGZjNjNjYzJkZmZlMWNlNTIyNWE4ZDg5YTU5NWZmNWM5MzkyMTVkMzJjNjJjYWVkODM5MjE5ZDdlMw
+
+
+
+#EXTINF:-1 tvg-chno="252" tvg-id="TSN.3.ca2" tvg-name="TSN 3 (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90119_dark_360w_270h.png" group-title="TV",TSN 3 (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+3&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc175/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc1OjE3ODkzMjYwMzgxNjY6Y2RubGl2ZXR2LnR2OmU1YTQ5ZTc4NGQ0MjZlM2MuMGNiMTk5OWUzZGY1M2RkNjFjNTk2OGJmMWU4MmIzMDA3Mzg1NWYwYWZjNmQ4ZDI5ODA1ZTNjZDlhNmU5MTAyYg
+
+
+
+#EXTINF:-1 tvg-chno="254" tvg-id="TSN.4.ca2" tvg-name="TSN 4 (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90122_dark_360w_270h.png" group-title="TV",TSN 4 (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+4&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc170/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcwOjE3ODkzMjYwMzM3NjE6Y2RubGl2ZXR2LnR2OmVlNTJjZDMyMDgxMTQzZTguMmYyYTRkMGU2Y2FiYjM1OWIwMTljYWY3YTgyYjM3MDBiOTI5MzczOGQyNmY3MmQxODExMGYyNmE1M2UyOTMzZA
+
+
+
+#EXTINF:-1 tvg-chno="256" tvg-id="TSN.5.ca2" tvg-name="TSN 5 (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90124_dark_360w_270h.png" group-title="TV",TSN 5 (Alt)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+5&code=gb&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc16d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTZkOjE3ODkzMjYwMzUzOTU6Y2RubGl2ZXR2LnR2OmJiNGQzZmM4ZmY3ZWYyMTguMjk2NjljYThiOTA0MzZlNDAwNzcyYzE3MDczMTI5MzU2NzIxYmI5OGRkNTQ0YzJkYTllOTIzMWQ5ZTRhZmE4Nw
+
+
+
+
+
+
+
+
+
 
 Weather 
 
