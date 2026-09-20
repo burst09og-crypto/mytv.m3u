@@ -346,6 +346,8 @@ http://202.70.146.135:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Music", MTV HD
 http://27.116.22.53:5001/live/1145.m3u8
 
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony Entertainment Television HD (Tata Play)
+http://38.96.178.205/SONYHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -705,10 +707,11 @@ http://116.90.120.157:8000/play/a0i6
 #EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Hindi Movies HD 
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Bollywood Movies 
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Bollywood Classic Movies 
+https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" group-title="Movies",Colors Cineplex UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b696000.m3u8
