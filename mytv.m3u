@@ -2390,7 +2390,7 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 5 HD" group-title="Sports",Sony Sports 5 HD
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Euro Sports" group-title="Sports",Euro Sports
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/mr8280gr/lg-67d80052de144-TSN.webp" tvg-language="English" group-title="Football World Cup 2026",Eurosport 1
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 
 
@@ -2439,11 +2439,16 @@ Undefined
 
 
 
+Football
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/j2qG10Sm/images.png" group-title="Football",Match Football 3
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/wBKnpsB9/Match-Futbol-2-Stacked.jpg" group-title="Football",Match Football 2
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/BQXzPCL9/Match-Futbol-1-Stacked.webp" group-title="Football",Match Football 1
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
 
 
 
