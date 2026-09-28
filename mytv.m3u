@@ -546,10 +546,11 @@ https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb543d1f7d6c638884cb3663cef342a8f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c515677b000ce0d4187822fcf0466074e30859db17cc79a1419aaa3774e57cf660e0da75540c0520671d2e65348a635a7760816a7583a0e7cddf359b37642b8df58d2237c9bce8c37683f03409a5e5afba358b38ab50a34c76da5b902488b2f5be790569fd548efd38608965e8223a7108093f1ddd20dd0d3c432b457b4650b0d7524c8d72ec4cc6faeb0f501f55b5f52243065a4c6bdfb5e3d8a352c369adef8cfae7b8eacf341a0733eba7af7274cf9a419c322a6f546adacb5db570342cc7da4e342d28790d9814511bc61f6a3fdd4334c8bf9027149ca689242797cf8f9baeb2909ba236078a5cdead8c364d171aebdf8edcea3844bd30ecbd3fc953c4c4a763ef3e737bcb762c120d174a981466f0c0d0c81935bd19e821e116c4b948f57d0534ae980cba8964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebbed4482b852e73d7c740db1fb205a057f7cd6ef74047f2c9012aa809ca1520d07cdb89caa981d68496959027ee6888051958ad2261412b33177300e701df4578689bef8dff29eaf20eaa1d0bf466b2737ff792adab52269/30/848x480_1686360/index.m3u8
 
 
+#EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies", NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q
 
-
-
-
+#EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" group-title="Movies", NH BollyGold
+https://jmp2.uk/stvp-IN460001727
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/SKK6prvn/Bollywood-HD-(2018-present).jpg" group-title="Movies",Bollywood 
 http://176.118.197.101/Bollywood_HD/tracks-v1a1/mono.ts.m3u8
@@ -1233,7 +1234,8 @@ http://103.159.180.34:5001/live/2252.m3u8
 #EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
+https://jmp2.uk/stvp-IN460001373
 
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/XqhQBFS0/M-Tunes.webp" group-title="Music",M Tunes HD
@@ -1333,6 +1335,10 @@ http://66.102.126.10:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://i.postimg.cc/MKDWfJFL/Epic-Music.png" group-title="Music",Epic Music 
 http://66.102.126.10:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://i.postimg.cc/MKDWfJFL/Epic-Music.png" group-title="Music",Epic Music 
+https://jmp2.uk/stvp-IN8000196E
+
 
 #EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music", Boogle Bollywood
 http://27.116.22.53:5001/live/962.m3u8
