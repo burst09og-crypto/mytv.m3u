@@ -51,8 +51,8 @@ https://sofast-lg.vgcdn.net/WiseM3U8_27/sofast/cleanhls/bitrate2.m3u8
 #EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png" group-title="Comedy",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q75NZKQN/Chat-GPT-Image-Jul-3-2026-10-19-28-AM-1-185x278.webp" group-title="Comedy",Comedy Nation
+https://techtraveleat.in/stream.m3u8?id=zcomedynation
 
 Cooking
 
@@ -151,6 +151,9 @@ Education
 
 Entertainment
 
+#EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",SONY HD [Trial]
+https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_480/chunks.m3u8?nimblesessionid=196613597
+
 #EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",SONY HD [AIRTEL]
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=943926&extension=ts&play_token=HQaBG00BmA
 
@@ -184,8 +187,8 @@ http://103.159.180.34:5001/live/3231.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VLMzLPCT/c5b6c1edda79180a42a0c1212b8e9510.png" group-title="Entertainment",Bollywood Masala
 https://streams2.sofast.tv/vglive-sk-373192/SD480/SD480.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/tgwhnwKf/images.jpg" group-title="Entertainment",Sony Kal
+https://e77bef9b.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/5c1fe2fd-0192-425d-9be0-629c290c16c0/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pkpd9nr/images-(7).jpg" group-title="Entertainment",Bollywood masala
@@ -514,10 +517,16 @@ http://202.70.146.135:8000/play/a057/index.m3u8
 https://mumt05.tangotv.in/87NeALx2THEQ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgKTW29V/download.jpg" group-title="Movies",Manoranjan Grand
+https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/tracks-v1a1/mono.m3u8
+
+@@
 https://cdn-1.pishow.tv/live/1011/1011_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies",Manoranjan Movies
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies",Manoranjan Movies
+https://streams.tangotv.in/MANORANJANTV/ORIGIN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies",Manoranjan Prime
 https://cdn-1.pishow.tv/live/1013/master.m3u8
@@ -585,12 +594,22 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/203.ts
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/manifest/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtSynJLw/images-(1).jpg" group-title="Movies",Goldmine movies
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/tracks-v1a1/mono.m3u8
+@@
+
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwsYKTk1/Goldmines.jpg" group-title="Movies",Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/tracks-v1a1/mono.m3u8
+
+@@
+
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf8pZHFx/images-(2).jpg" group-title="Movies",Goldmines 2
+https://cdn.pishow.tv/ott/live/1460/1460_0.m3u8
+
+@@
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf8pZHFx/images-(2).jpg" group-title="Movies",Goldmines Bollywood
@@ -612,10 +631,16 @@ https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/manifest/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwVFz7z3/download.jpg" group-title="Movies",Pocket Films
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/932a6255-6e8f-4696-8b93-1e1242ec834d/0.m3u8
+
+@@
 https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/manifest/1.m3u8
 
+#EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassic.png" tvg-language="Hindi" group-title="Movies", Zee Classic
+http://27.116.22.53:5001/live/1691.m3u8
 
-
+#EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassic.png" tvg-language="Hindi" group-title="Movies", Zee Cine Classic
+https://techtraveleat.in/stream.m3u8?id=zcineclassic
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5txVJXdw/download.jpg" group-title="Movies",Bollywood TV
 https://streams2.sofast.tv/title-bollywood_tv/ptnr-swifttv/sofast3/v1/019807928d161eb4611d2d9080f41f/0198079394eb1eb4611d2d9080f422/BOLLYWOOD_TV_3500k.m3u8
@@ -624,11 +649,15 @@ https://streams2.sofast.tv/title-bollywood_tv/ptnr-swifttv/sofast3/v1/019807928d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wNbf6fW/Chat-GPT-Image-Sep-8-2025-09-53-44-PM-1-200x300.png" group-title="Movies",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w1941138316.m3u8
 
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" group-title="Entertainment", Zee Dil Se
+https://techtraveleat.in/stream.m3u8?id=zdilse
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZCC0ZTL/Cinex-old.webp" group-title="Movies",Cinex
 https://gcinemahls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" tvg-language="Telugu" group-title="Entertainment", Zee South FLix
+https://techtraveleat.in/stream.m3u8?id=zsouthflix
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJXzMYZt/Bollywood-cinematic-logo-design-1-185x278.png" group-title="Movies",Bollygold
 https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
@@ -1263,7 +1292,9 @@ https://wiselp.wiseplayout.com/9X_Jalwa/HD1080/HD1080.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKS4NhF6/Music_India.webp" group-title="Music",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFm6GCYt/download.jpg" group-title="Music",Hindi Hits HD
