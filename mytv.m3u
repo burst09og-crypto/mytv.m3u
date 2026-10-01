@@ -1858,6 +1858,10 @@ https://jmp2.uk/stvp-IN2200004MX
 Sports
 
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/pLkCHD9p/AEW-Dynasty-(2026)-poster.jpg" group-title="Sports",Aew 
+http://200.32.231.178/TBS/index.m3u8
+
+
 #EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/YSkhX6Nn/Star-Sports-Network-logo.png" tvg-language="English" group-title="Sports", Star sports 1
 http://51.75.127.199:3141/starsports1/index.m3u8
 
@@ -2475,6 +2479,12 @@ https://live.dyrur1.com/live/72221266_98fd837dd113b918511e105d84b9cfab_720p.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports1.in@HD"  tvg-logo="https://i.postimg.cc/4ycYjwvW/Screenshot-2026-06-10-002618.webp"  group-title="Football World Cup 2026",Unite8 Sports 1 HD (1080p)
 http://59.103.38.46:8000/play/a126/index.m3u8
+
+
+#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/505zLbfy/ESPN-6-logo-svg.png" group-title="Sports",ESPN 6
+http://200.32.231.178/ESPN/tracks-v1a1/mono.m3u8
+
+
 
 
 
