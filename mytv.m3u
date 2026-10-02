@@ -2788,6 +2788,56 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&ex
 http://rega.casa:80/MAGN6WSYXA/MAGVN1N119/447531
 
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l9v2ym1728725812.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png", Ziggo Sports 2
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=1283314&extension=ts&play_token=V96BqjOru8
+
+
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png", ElevenSports 2
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=1530158&extension=ts&play_token=Bs4HdWp8qq
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png", ElevenSports 3
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=1530159&extension=ts&play_token=QDvK8JBJKq
+
+
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" group-title="Football", SkySports MainEvents UHD
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1608071&extension=ts&play_token=ZZKu989GGq
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Football", Bein Sports UHD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1948627&extension=ts&play_token=rxO7eb9WWu
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_%282023%29_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550" group-title="Football", TNT Sports UHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=1595637&extension=ts&play_token=UmnHBp6btx
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="Football" group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", SkySports PL
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=988361&extension=ts&play_token=4DazLi2p2S
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", USA NETWORK 
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=45466&extension=ts&play_token=lC5u7zmErr
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Hub Premier 1
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1903770&extension=ts&play_token=dAOhv5Kgjk
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Hub Premier 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065803&extension=ts&play_token=f1Sj0jPTQq
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Hub Premier 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065801&extension=ts&play_token=3itVpZavMD
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Hub Premier 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065800&extension=ts&play_token=AJOBpvWctv
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Hub Premier 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065799&extension=ts&play_token=na9Tc2ybzS
+
+
 Series
 
 #EXTINF:-1 tvg-logo="https://myimgs.org/storage/images/22917/ajkBXNt5tcNsc0cVpTSZW24oyUg.webp" group-title="Web Series",Pritam and Pedro(S1E1)
