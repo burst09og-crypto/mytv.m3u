@@ -2672,14 +2672,120 @@ http://31.148.5.241/Match_Football_1_HD/index.m3u8
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1948627&extension=ts&play_token=rxO7eb9WWu
 
 
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  UHD
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1B:79:F9:51:A4&stream=944811&extension=ts&play_token=kAfjG9f1V1
+
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  UFC
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:F8:10:B6&stream=2106780&extension=ts&play_token=S6nkEPnkaC
+
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=944812&extension=ts&play_token=ar2nP5BCZM
 
 
 
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport 1
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=944813&extension=ts&play_token=E4Y0twCsHX
+
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  2
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=944814&extension=ts&play_token=lbjSoYsfAe
+
+
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  3
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=944815&extension=ts&play_token=fSCbPSRYhK
 
 
 
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  4
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=944817&extension=ts&play_token=TrXwX4IagP
 
 
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/hhOBSAMFWpHQA54J9hc2fHUwZrw=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F788221%2Flogo.png" group-title="Football", Stan Sport  5
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=944818&extension=ts&play_token=dk1ZWHZbZa
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", StarSports Selet 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", StarSports Selet 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Canal+Foot
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=2024900&extension=ts&play_token=ptBy648Ve8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSYMYg6i8Og6mRKzaN7hgbZ9jnfRlj4TYuOiRgzrwsuSMncGg-T_GEz8&s=10" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/29/1/premier-league-logo-png_seeklogo-291821.png", Nova Sports EPL
+http://nexusconnects.org:80/play/live.php?mac=00:1B:79:42:10:51&stream=1879&extension=ts&play_token=XNXCpIftYx
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="Football"group-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" , Premier Sports 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:49:D3:BC&stream=1458812&extension=ts&play_token=GgRKO661S5
+
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png" group-title="Football"group-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" , DAZN LALIGA HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:49:D3:BC&stream=1547248&extension=ts&play_token=X6ufjzJ7yW
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_4_PL_logo.png?1626697442" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png", ElevenSports 4
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=880454&extension=ts&play_token=reMMAAGQPH
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png", ElevenSports 1
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=1530157&extension=ts&play_token=BGREqf8XDn
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="Football"group-logo="https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png", Sportv 2
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1A:79:03:95:D6&stream=118446&extension=ts&play_token=921darxH5q
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144108" group-title="Football", SkySports Selet NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="Football", SkySports PL NZ
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143951" group-title="Football", SkySports 3 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest?cb=20230830143701" group-title="Football", SkySports 6 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
+
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Football", TNT SPORTS 1 
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174231&extension=ts&play_token=ZPeMeXOcYK
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Football", TNT SPORTS 2 
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174232&extension=ts&play_token=xbiNJqbJ1N
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836" group-title="Football", TNT SPORTS 3
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174233&extension=ts&play_token=YRImEdMzzb
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Football", TNT SPORTS 4
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174234&extension=ts&play_token=Zo2dV426mS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Football", BEIN SPORTS 1
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Football", BEIN SPORTS 2
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Football", BEIN SPORTS 3
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Football", BEIN SPORTS 4
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
+
+
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624527%27&EntityType=%27Item%27&EntityId=%27572409%27&Width=1920&Height=1080" group-title="Football", BEIN SPORTS 5
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_425_305" group-title="Football", BEIN SPORTS 6
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aV8CDCcI_vL6w3TI6oxUihq92RhKGrkvuOXkEugW&s=10" group-title="Football", BEIN SPORTS 7
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
+
+
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5fbef0ad-821e-42ff-bd50-c54a0742abc7/dmi3fye-93fde854-cde1-433c-8a17-e7f2f558060b.png/v1/fill/w_1294,h_617/wwe_summerslam_2026_logo_by_ajkelley_dmi3fye-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE2IiwicGF0aCI6Ii9mLzVmYmVmMGFkLTgyMWUtNDJmZi1iZDUwLWM1NGEwNzQyYWJjNy9kbWkzZnllLTkzZmRlODU0LWNkZTEtNDMzYy04YTE3LWU3ZjJmNTU4MDYwYi5wbmciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1dUdCGb0pAvn0oORwBT5p-ZaBLxTzKX5lmSZvuj9xKc" group-title="Wrestling SPORTS", WWE PPV LIVE 2
+http://rega.casa:80/MAGN6WSYXA/MAGVN1N119/447531
 
 
 Series
