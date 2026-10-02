@@ -2838,6 +2838,13 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065800&extensio
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065799&extension=ts&play_token=na9Tc2ybzS
 
 
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Unite8_Sports_1_HD_%282026%29.svg/revision/latest?cb=20260808170412" group-title="Football", Unite8 Sports 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=155730&extension=ts&play_token=nW4tzTDHhx
+
+
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Unite8_Sports_2_HD_%282026%29.svg/revision/latest/scale-to-width-down/1200?cb=20260808170644" group-title="Football", Unite8 Sports 2 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:49:D3:BC&stream=155990&extension=ts&play_token=wKHUbUJTB8
+
 Series
 
 #EXTINF:-1 tvg-logo="https://myimgs.org/storage/images/22917/ajkBXNt5tcNsc0cVpTSZW24oyUg.webp" group-title="Web Series",Pritam and Pedro(S1E1)
