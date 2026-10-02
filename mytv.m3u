@@ -2668,7 +2668,8 @@ http://31.148.5.241/Match_Football_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/BQXzPCL9/Match-Futbol-1-Stacked.webp" group-title="Football",Match Football 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Football", Bein Sports UHD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1948627&extension=ts&play_token=rxO7eb9WWu
 
 
 
