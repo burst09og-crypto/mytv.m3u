@@ -2845,6 +2845,29 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=155730&extension
 #EXTINF:-1#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Unite8_Sports_2_HD_%282026%29.svg/revision/latest/scale-to-width-down/1200?cb=20260808170644" group-title="Football", Unite8 Sports 2 HD
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:49:D3:BC&stream=155990&extension=ts&play_token=wKHUbUJTB8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Football", Astro Premier league 1
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:34:11:42&stream=571245&extension=ts&play_token=y4jZNUxaSb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Football", Astro Premier league 2
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:34:11:42&stream=571248&extension=ts&play_token=uadwxsNzZZ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="Football", Astro Football 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:34:11:42&stream=571246&extension=ts&play_token=YgG7daRgaJ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="Football", Astro Grandstand
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:34:11:42&stream=571247&extension=ts&play_token=Twgk3bzSpL
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143941" group-title="Sports", SkySports 4 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143710" group-title="Sports", SkySports 5 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest?cb=20230830143651" group-title="Sprts", SkySports 7 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
+
+
 Series
 
 #EXTINF:-1 tvg-logo="https://myimgs.org/storage/images/22917/ajkBXNt5tcNsc0cVpTSZW24oyUg.webp" group-title="Web Series",Pritam and Pedro(S1E1)
