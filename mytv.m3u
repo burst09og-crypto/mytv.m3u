@@ -413,9 +413,8 @@ http://27.116.22.53:5001/live/1145.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony Entertainment Television HD (Tata Play)
 http://38.96.178.205/SONYHD/tracks-v1a1/mono.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
 
 
@@ -571,9 +570,12 @@ http://27.116.22.53:5001/live/562.m3u8
 
 Movies
 
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
 
-
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" tvg-language="Hindi" group-title="Movies", Star Gold Romance
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies
@@ -820,8 +822,7 @@ https://jmp2.uk/stvp-IN460001727
 
 
 
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max
-http://103.155.18.186:8000/play/a01g/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="IN3800010SH" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png" group-title="Movies",Hollywood Desi
@@ -1602,7 +1603,7 @@ https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1332" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" tvg-language="English" group-title="Nature", Nat Geo Wild HD
-http://202.70.146.135:8000/play/a05j/index.m3u8
+http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" tvg-language="English" group-title="Nature", National Geographic HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
@@ -1869,6 +1870,33 @@ https://jmp2.uk/stvp-IN2200004MX
 
 
 Sports
+
+
+
+#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-language="English" group-title="Sports", Star Sports 1 HD
+http://103.151.60.162:2122/play/a01a/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" group-title="Sports", Sony Ten 1
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-language="English" group-title="Sports", Sony Ten 2 HD
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" group-title="Sports", Sony Ten 3 HD Hindi
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="1774" tvg-name="Sony Ten 4 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" tvg-language="Tamil" group-title="Sports", Sony Ten 4 Tamil
+http://103.151.60.162:2122/play/a021/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-language="English" group-title="Sports", Sony Ten 5
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/pLkCHD9p/AEW-Dynasty-(2026)-poster.jpg" group-title="Sports",Aew 
