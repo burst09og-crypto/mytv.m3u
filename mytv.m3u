@@ -157,6 +157,8 @@ Education
 
 Entertainment
 
+#EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="" tvg-language="English" group-title="Entertainment", Superhitz
+http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="https://i.postimg.cc/wxWL7GXF/Colors-2008.webp" tvg-language="English" group-title="Entertainment", Colors
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
