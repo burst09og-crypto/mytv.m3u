@@ -1904,10 +1904,14 @@ http://103.151.60.162:2122/play/a028/index.m3u8?hls
 http://200.32.231.178/TBS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/YSkhX6Nn/Star-Sports-Network-logo.png" tvg-language="English" group-title="Sports", Star sports 1
+#EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.postimg.cc/YSkhX6Nn/Star-Sports-Network-logo.png" tvg-language="English" group-title="Sports", Star sports 1 hindi
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
 http://51.75.127.199:3141/starsports1/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e85f3514b9823f0d47fe17/images/LANDSCAPE_169/LANDSCAPE_169_GMDfQnyvO_STAR-SPORTS-2-HD.png" group-title="Sports",Star Sports 2 HD (Tata Play)
+http://103.151.60.162:2122/play/a00v/60699768.m3u8
+
 http://51.75.127.199:3141/starsports2/index.m3u8
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" group-title="Sports", Star Sports Khel
