@@ -21,7 +21,7 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Naruto" tvg-logo="https://i.postimg.cc/tTzPRzth/download.jpg" group-title="Anime",Naruto
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 
-#EXTINF:-1 tvg-name="Pokemon" tvg-logo="https://i.postimg.cc/mD4qJk92/download.jpg" group-title="Anime",Pokemon
+( #EXTINF:-1 tvg-name="Pokemon" tvg-logo="https://i.postimg.cc/mD4qJk92/download.jpg" group-title="Anime",Pokemon
 
 
 
@@ -39,19 +39,19 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 Comedy
 
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/Gppq60V1/images.jpg" tvg-language="English" group-title="Comedy",Comedy kings
+( #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://i.postimg.cc/Gppq60V1/images.jpg" tvg-language="English" group-title="Comedy",Comedy kings
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXBb0zpX/download.jpg" group-title="Comedy",Comedy Tadka
 https://sofast-lg.vgcdn.net/WiseM3U8_27/sofast/cleanhls/bitrate2.m3u8
 
 
-#EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png" group-title="Comedy",Kings Of Comedy
-https://jmp2.uk/stvp-IN46000184H
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q75NZKQN/Chat-GPT-Image-Jul-3-2026-10-19-28-AM-1-185x278.webp" group-title="Comedy",Comedy Nation
 https://techtraveleat.in/stream.m3u8?id=zcomedynation
 
+#EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png" group-title="Comedy",Kings Of Comedy
+https://jmp2.uk/stvp-IN46000184H
 
 
 
@@ -72,14 +72,14 @@ https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-id="CookingPanda.us@SD" tvg-logo="https://i.postimg.cc/B6F5bvcF/images.jpg" group-title="Cooking",Cooking Panda (576p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
-#EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/nhx6G1Kr/masterchef.png" group-title="Cooking",Masterchief
-https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+( #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/nhx6G1Kr/masterchef.png" group-title="Cooking",Masterchief
+
 
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/KY2vLLjc/MV5BOTU0ZWNm-N2Mt-MGY0ZC00Nzhl-LWFj-NDMt-M2Q5N2M0YTFj-Yjdh-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="Cooking",Come Dine With Me
 https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/cb7d3e1a7b716f8d92ca3f6cd3f340a5d1536a80013a87306fac5ec576c64a5387b8f3c2e74abe3a58bd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05943c66cbfb10248854c14b1d30090cb19b887ca5898519271f445cf93f4df810d81809765b456b33258152378cfd034929b0cb38ec9393cce747e402c798cccfb328912fc256d6cba9ae5ba75fe1fbce64fe34104cbcb1cd2e64aee4ab900a69b2eeacde99b2a4548c4a43b0147c0b980f39b5553dd069b97c9971d5d8aff15376cc879d02f2a3694e8f1d9e5a91abbb9398cb8651c7795df15dbd5858ae1b4825d8f65e4f3b4c96d0c1e3844358f53f4ce369b318b2ce18e32314c41419a9f57ef8fcd11653118c8d308945b3091efa6af934e37c36b1e1acf65da500a258c17646eea20fcd56d38df685acb6573ab18068144fdaa25baf288b24868e3acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaad0c6b1776cc42e8d6b091540112e3fac8be8d130f0e37135d1b98a080549e9dcb3d1206cb3174309471e8668a780f7e78e14eba4a5589dc0900887280d1d8/20/1920x1080_5130400/index.m3u8
 
-#EXTINF:-1 tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://i.postimg.cc/RZNTRHPC/download.jpg" group-title="Cooking",Gordon Ramsay's Hell's Kitchen
-https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
+( #EXTINF:-1 tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://i.postimg.cc/RZNTRHPC/download.jpg" group-title="Cooking",Gordon Ramsay's Hell's Kitchen
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SK1sjbDz/Master-Chef1990s.webp" group-title="Cooking",Masterchief UK
 https://d1nn4ic5ci0eid.cloudfront.net/1080p-vtt/index.m3u8
@@ -91,11 +91,11 @@ https://streams2.sofast.tv/ptnr-khabriya/title-Cuisine_Culture_Khabriya/v1/maste
 
 
 
-#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Cooking",America's Test Kitchen
-https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+( #EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Cooking",America's Test Kitchen
 
-#EXTINF:-1 tvg-id="68509fe882d704acfc5bacd1" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png" group-title="Cooking",Tastemade Smokehouse
-https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
+
+( #EXTINF:-1 tvg-id="68509fe882d704acfc5bacd1" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png" group-title="Cooking",Tastemade Smokehouse
+
 
 #EXTINF:-1 tvg-id="IN460000313" tvg-name="Foodie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="Cooking",Foodie Hub
 https://jmp2.uk/stvp-IN460000313
@@ -113,8 +113,7 @@ https://jmp2.uk/stvp-INBA5100020HQ
 Cricket
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Cricket",Live Sports
-https://tvsen3.aynaott.com/Sports1/mono.m3u8
+( #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Cricket",Live Sports
 
 
 
@@ -131,12 +130,11 @@ Drama
 
 
 
-#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/XYFb5G4j/hum-logo.png" group-title="Drama",Hum TV
-http://116.90.120.157:8000/play/a0r2
+(  #EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/XYFb5G4j/hum-logo.png" group-title="Drama",Hum TV
 
 
-#EXTINF:-1 tvg-id="GreenEntertainment.pk" tvg-logo="https://i.ibb.co/mrj8fQYd/Green-Entertainment-Logo-Vector-1-300x142.png" group-title="Drama” ,Green Entertainment HD
-http://116.90.120.157:8000/play/a0r7
+
+(  #EXTINF:-1 tvg-id="GreenEntertainment.pk" tvg-logo="https://i.ibb.co/mrj8fQYd/Green-Entertainment-Logo-Vector-1-300x142.png" group-title="Drama” ,Green Entertainment HD
 
 
 
@@ -165,45 +163,45 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="https://i.postimg.cc/wxWL7GXF/Colors-2008.webp" tvg-language="English" group-title="Entertainment", Colors
 http://103.151.60.162:2122/play/a02q/index.m3u8
 
-#EXTINF:-1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-language="English" group-title="Entertainment", Colors Infinity SD
+(  #EXTINF:-1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-language="English" group-title="Entertainment", Colors Infinity SD
 http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD (1080p)
+(  #EXTINF:-1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD (1080p)
 http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
 
-#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",STAR PLUS 
+(  #EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",STAR PLUS 
 http://51.75.127.199:3141/starplus/index.m3u8
 
-#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" tvg-language="Hindi" group-title="Entertainment", Star Bharat 
+(  #EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" tvg-language="Hindi" group-title="Entertainment", Star Bharat 
 http://51.75.127.199:3141/starbharat/index.m3u8
 
-#EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" tvg-language="Hindi" group-title="Entertainment", Star Utsav
+(  #EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" tvg-language="Hindi" group-title="Entertainment", Star Utsav
 http://51.75.127.199:3141/starutsav/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Entertainment",Zee TV 
+(  #EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Entertainment",Zee TV 
 http://51.75.127.199:3141/zeetv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo TV
+(  #EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo TV
 http://51.75.127.199:3141/shemarootv/index.m3u8
 
-#EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo Umang
+(  #EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo Umang
 http://51.75.127.199:3141/shemarooumang/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Entertainment", MTV HD
+(  #EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Entertainment", MTV HD
 http://51.75.127.199:3141/mtvhd/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",STAR PLUS HD
+(  #EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",STAR PLUS HD
 http://51.75.127.199:3141/starplushd/index.m3u8
 
-#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" tvg-language="Hindi" group-title="Entertainment", Star Bharat HD
+(  #EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" tvg-language="Hindi" group-title="Entertainment", Star Bharat HD
 http://51.75.127.199:3141/starbharathd/index.m3u8
 
 
@@ -211,10 +209,10 @@ http://51.75.127.199:3141/starbharathd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",SONY HD [Trial]
+(  #EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",SONY HD [Trial]
 https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_480/chunks.m3u8?nimblesessionid=196613597
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",SONY HD [AIRTEL]
+(  #EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",SONY HD [AIRTEL]
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=943926&extension=ts&play_token=HQaBG00BmA
 
 
@@ -225,21 +223,21 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-language="Hindi" group-title="Entertainment", Jio Events HD
+(  #EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-language="Hindi" group-title="Entertainment", Jio Events HD
 http://103.159.180.34:5001/live/871.m3u8
 
 
-#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
+(  #EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
 http://103.159.180.34:5001/live/2327.m3u8
 
 
-#EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" group-title="Entertainment", BH OTT India Fest
+(  #EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" group-title="Entertainment", BH OTT India Fest
 http://103.159.180.34:5001/live/3028.m3u8
 
-#EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-language="Hindi" group-title="Entertainment", Sun Neo HD
+(  #EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-language="Hindi" group-title="Entertainment", Sun Neo HD
 http://103.159.180.34:5001/live/3088.m3u8
 
-#EXTINF:-1 tvg-id="3231" tvg-name="Apex Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" tvg-language="Bhojpuri" group-title="Entertainment", Apex Entertainment
+(  #EXTINF:-1 tvg-id="3231" tvg-name="Apex Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" tvg-language="Bhojpuri" group-title="Entertainment", Apex Entertainment
 http://103.159.180.34:5001/live/3231.m3u8
 
 
@@ -247,7 +245,7 @@ http://103.159.180.34:5001/live/3231.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VLMzLPCT/c5b6c1edda79180a42a0c1212b8e9510.png" group-title="Entertainment",Bollywood Masala
 https://streams2.sofast.tv/vglive-sk-373192/SD480/SD480.m3u8
 
-#EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/tgwhnwKf/images.jpg" group-title="Entertainment",Sony Kal
+(  #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/tgwhnwKf/images.jpg" group-title="Entertainment",Sony Kal
 https://e77bef9b.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/5c1fe2fd-0192-425d-9be0-629c290c16c0/2.m3u8
 
 
