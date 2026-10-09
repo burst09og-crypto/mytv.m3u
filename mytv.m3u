@@ -165,8 +165,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="https://i.postimg.cc/wxWL7GXF/Colors-2008.webp" tvg-language="English" group-title="Entertainment", Colors
-http://51.75.127.199:3141/colorssd/index.m3u8
-
+http://103.151.60.162:2122/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-language="English" group-title="Entertainment", Colors Infinity SD
 http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
