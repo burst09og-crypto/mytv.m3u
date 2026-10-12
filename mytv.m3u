@@ -143,6 +143,9 @@ Education
 
 Entertainment
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05LkN4NZ/download.jpg" group-title="Entertainment",Alright
+https://d3c7vdfq3tyeyw.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/ad59aa2b-99f6-4017-a965-3bdfcacb7f3d/4.m3u8
+
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VLMzLPCT/c5b6c1edda79180a42a0c1212b8e9510.png" group-title="Entertainment",Bollywood Masala
 https://streams2.sofast.tv/vglive-sk-373192/SD480/SD480.m3u8
 
@@ -701,6 +704,9 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="IN4600008T4" tvg-name="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260225T010333SQUARE.png" group-title="Kids",KidDo MATIX
 https://jmp2.uk/stvp-IN4600008T4
+
+#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/live/157-1L/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hkhgZ49/Motu-Patlu-official-logo.png" group-title="Kids",Motu Patlu 24 hrs
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
