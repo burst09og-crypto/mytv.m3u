@@ -4,8 +4,6 @@
 Test
 
 
-
-
 Anime
 
 
@@ -200,6 +198,13 @@ http://38.96.178.205/SONYHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Entertainment",Sony KAL Hindi
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",Sony Entertainment
+http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="" tvg-language="English" group-title="Entertainment", Superhitz
 http://103.151.60.162:2122/play/a02f/index.m3u8?hls
@@ -547,6 +552,13 @@ http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
+http://107.167.16.138/sonymax2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gTgLrOS.png" group-title="Movies",Sony PIX
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="Hindi Movies",South Hindi Dubbed Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
@@ -1204,6 +1216,11 @@ https://jmp2.uk/stvp-IN2200004MX
 Sports
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BBhJXAG.png" group-title="Sports",Sony Sports 1
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/feRR4ts.png" group-title="Sports",Sony Sports 2
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-language="English" group-title="Sports", Star Sports 1 HD
 http://103.151.60.162:2122/play/a01a/index.m3u8?hls
