@@ -141,8 +141,17 @@ Education
 
 Entertainment
 
+#EXTINF:-1 tvg-id="3492" tvg-name="Alright TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AlrightTV1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Alright TV
+http://14.96.244.82:5001/live/3492.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05LkN4NZ/download.jpg" group-title="Entertainment",Alright
 https://d3c7vdfq3tyeyw.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/ad59aa2b-99f6-4017-a965-3bdfcacb7f3d/4.m3u8
+ 
+#EXTINF:-1 tvg-id="978" tvg-name="TEST1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", B4U Kadak
+http://14.96.244.82:5001/live/978.m3u8
+
+#EXTINF:-1 tvg-id="3028" tvg-name="BH Style Icons Awards" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH Style Icons Awards
+http://14.96.244.82:5001/live/3028.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VLMzLPCT/c5b6c1edda79180a42a0c1212b8e9510.png" group-title="Entertainment",Bollywood Masala
 https://streams2.sofast.tv/vglive-sk-373192/SD480/SD480.m3u8
@@ -174,12 +183,33 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://i.postimg.cc/tgfkBHJX/download.jpg" group-title="Entertainment",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="3533" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dice Media
+http://14.96.244.82:5001/live/3533.m3u8
+
+
 #EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" tvg-language="Hindi" group-title="Entertainment", EPIC TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+
+#EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", EPIC TV
+http://14.96.244.82:5001/live/3382.m3u8
+
+#EXTINF:-1 tvg-id="3383" tvg-name="Epic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic Bharat
+http://14.96.244.82:5001/live/3383.m3u8
+
+#EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FilterCopy
+http://14.96.244.82:5001/live/3534.m3u8
+
+#EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Green Chillies
+http://14.96.244.82:5001/live/1834.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors  HD" tvg-logo="https://i.postimg.cc/R0FGkLHr/unnamed.png" tvg-language="English" group-title="Entertainment",Kuting
 https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/kutingg_4000k.m3u8
 
+#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Lionsgate Play
+http://14.96.244.82:5001/live/2327.m3u8
+
+#EXTINF:-1 tvg-id="3535" tvg-name="Mr. Bean" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MrBean.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Mr. Bean
+http://14.96.244.82:5001/live/3535.m3u8
 
 #EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Music", MTV HD
 http://27.116.22.53:5001/live/1145.m3u8
@@ -203,8 +233,12 @@ http://103.151.60.162:2122/play/a015/index.m3u8?hls
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",Sony Entertainment
 http://38.96.178.205/SONYHD/index.m3u8
+
+#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
+http://14.96.244.82:5001/live/474.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="" tvg-language="English" group-title="Entertainment", Superhitz
 http://103.151.60.162:2122/play/a02f/index.m3u8?hls
@@ -334,9 +368,12 @@ http://200.115.120.1:8000/play/ca99/index.m3u8
 
 Game and Esports
 
-#EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" tvg-language="English" group-title="Sports", Bein @
+#EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" tvg-language="English" group-title="Game and Esports", Bein @
 http://2806-2026.gold:8089/live/1826465239420/4192874740371/85691310.ts
 
+
+#EXTINF:-1 tvg-id="1163" tvg-name="JioGames HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/JioGamesHD1.png" tvg-language="English" tvg-type="Sports" group-title="Game and Esports", JioGames HD
+http://14.96.244.82:5001/live/1163.m3u8
 
 #EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" tvg-language="English" group-title="Game and Esports", Penta TV
 http://27.116.22.53:5001/live/3204.m3u8
@@ -405,6 +442,9 @@ Movies
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
+http://14.96.244.82:5001/live/1295.m3u8 
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
@@ -450,6 +490,19 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chun
 
 
 
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplex1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
+http://14.96.244.82:5001/live/482.m3u8
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexHD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+http://14.96.244.82:5001/live/1477.m3u8
+
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+http://14.96.244.82:5001/live/1763.m3u8
+
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
+http://14.96.244.82:5001/live/1450.m3u8
+
+
 
 #EXTINF:-1 tvg-id="IN460001727" tvg-name="Dishoom Films" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001727_20260708T005907SQUARE.png" group-title="Movies",Dishoom Films
 https://jmp2.uk/stvp-IN460001727
@@ -458,6 +511,11 @@ https://jmp2.uk/stvp-IN460001727
 
 
 
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blywcm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
+http://14.96.244.82:5001/live/3543.m3u8
+
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ersent.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
+http://14.96.244.82:5001/live/3544.m3u8
 
 
 
@@ -526,6 +584,16 @@ https://jmp2.uk/stvp-IN46000140Q
 https://jmp2.uk/stvp-IN460001727
 
 
+#EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH BollyFlix
+http://14.96.244.82:5001/live/3336.m3u8
+
+#EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH BollyGold
+http://14.96.244.82:5001/live/3338.m3u8
+
+#EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
+http://14.96.244.82:5001/live/3259.m3u8
+
+
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/hjFWnbm6/2f66f13b85531977f2990c18ca414e83.png" group-title="Movies",Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb543d1f7d6c638884cb3663cef342a8f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c515677b000ce0d4187822fcf0466074e30859db17cc79a1419aaa3774e57cf660e0da75540c0520671d2e65348a635a7760816a7583a0e7cddf359b37642b8df58d2237c9bce8c37683f03409a5e5afba358b38ab50a34c76da5b902488b2f5be790569fd548efd38608965e8223a7108093f1ddd20dd0d3c432b457b4650b0d7524c8d72ec4cc6faeb0f501f55b5f52243065a4c6bdfb5e3d8a352c369adef8cfae7b8eacf341a0733eba7af7274cf9a419c322a6f546adacb5db570342cc7da4e342d28790d9814511bc61f6a3fdd4334c8bf9027149ca689242797cf8f9baeb2909ba236078a5cdead8c364d171aebdf8edcea3844bd30ecbd3fc953c4c4a763ef3e737bcb762c120d174a981466f0c0d0c81935bd19e821e116c4b948f57d0534ae980cba8964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebbed4482b852e73d7c740db1fb205a057f7cd6ef74047f2c9012aa809ca1520d07cdb89caa981d68496959027ee6888051958ad2261412b33177300e701df4578689bef8dff29eaf20eaa1d0bf466b2737ff792adab52269/30/848x480_1686360/index.m3u8
 
@@ -559,6 +627,10 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTgLrOS.png" group-title="Movies",Sony PIX
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyWAH.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Wah
+http://14.96.244.82:5001/live/1393.m3u8
+
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="Hindi Movies",South Hindi Dubbed Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
@@ -572,6 +644,10 @@ http://41.205.93.154/STAR-GOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold 2 HD
 http://107.167.16.138/stargold2/index.m3u8?token=test
+
+
+#EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
+http://14.96.244.82:5001/live/3345.m3u8 
 
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://i.postimg.cc/zXBBLhCp/download.jpg" group-title="Movies",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
@@ -628,7 +704,8 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xVmNq9q/Chat-GPT-Image-Jan-28-2026-01-08-02-PM-1-200x300.png" group-title="KDrama",AVS Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 
-
+#EXTINF:-1 tvg-id="1232" tvg-name="Hi Dost!" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" tvg-language="English" tvg-type="Entertainment" group-title="KDrama", Hi Dost!
+http://14.96.244.82:5001/live/1232.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/yNptjqsD/Chat-GPT-Image-Feb-18-2026-09-17-41-PM-1-185x278.png" group-title="KDrama",New k movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
@@ -677,7 +754,8 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=genie
 Kids
 
 
-
+#EXTINF:-1 tvg-id="2258" tvg-name="Animax" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="Kids", Animax
+http://14.96.244.82:5001/live/2258.m3u8
 
 #EXTINF:-1 tvg-id="IN4900012F9" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900012F9_20251015T010534SQUARE.png" group-title="Kids",BABY SHARK TV
 https://jmp2.uk/stvp-IN4900012F9
@@ -823,6 +901,9 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playli
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 
+#EXTINF:-1 tvg-id="2252" tvg-name="Desi Music Station" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Music_Station.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Desi Music Station
+http://14.96.244.82:5001/live/2252.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c19K6Y5v/images.jpg" group-title="Music",Deewana HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
@@ -868,6 +949,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 
+
+#EXTINF:-1 tvg-id="903" tvg-name="Only Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Only Music
+http://14.96.244.82:5001/live/903.m3u8
 
 #EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/hjHtmBT9/cb01062db1ba78c1bccc3e53db893b6b.png" tvg-language="Hindi" group-title="Music", Only music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
