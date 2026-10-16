@@ -1334,9 +1334,36 @@ https://raw.githubusercontent.com/zaxacaasada/zaxatv/refs/heads/main/bein1.m3u8
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein 2 English 
 http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/21
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 Qatar
+http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein 2 Qatar
+http://primetv.cc.cd/beinfhd2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/kg8cK8G5/ch643-425-305.png" group-title="Sports",Bein 3 Qatar
+http://primetv.cc.cd/beinfhd3/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/6QXh03GK/ch644-425-305.png" group-title="Sports",Bein 4 Qatar
+http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/prpQT53j/Logo-Bein-Sports-5-MAX-svg.png" group-title="Sports",Bein 5 Qatar
+http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/7YJMr7gN/Logo-Bein-Sports-6-MAX-svg.png" group-title="Sports",Bein 6 Qatar
+http://primetv.cc.cd/beinfhd6/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/8CNhv0qD/BEIN7.png" group-title="Sports",Bein 7 Qatar
+http://primetv.cc.cd/beinfhd7/index.m3u8
+
+#EXTINF:-1 tvg-id="beinSports8" tvg-logo="https://i.ibb.co/Lz0244TM/BEIN8.jpg" group-title="Sports",bein SPORTS 8
+http://primetv.cc.cd/beinfhd8/index.m3u8
+
+#EXTINF:-1 tvg-id="beinSports8" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="Sports",bein SPORTS 9
+http://primetv.cc.cd/beinfhd9/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN sports Xtra" tvg-logo="https://i.postimg.cc/Fs1c5Q0n/download.png" group-title="Sports",beIN sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="isl" tvg-logo="https://i.postimg.cc/k4yVDsy9/Multimedios-Canal-Seis-Logo-svg.png" group-title="Sports",Canal 6 Tv
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
