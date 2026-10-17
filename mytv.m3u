@@ -240,6 +240,9 @@ http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
 http://14.96.244.82:5001/live/474.m3u8
 
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://i.postimg.cc/SQWDqYYd/Sony-SAB.jpg" group-title="Entertainment",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
 #EXTINF:-1 tvg-id="161" tvg-name="Colors 1 HD" tvg-logo="" tvg-language="English" group-title="Entertainment", Superhitz
 http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 
@@ -617,6 +620,10 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies",Sony Max HD
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
 
 #EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://i.ibb.co/HDcSBkxP/Sony-Max-1.png" group-title="Movies",Sony Max 1
 http://27.116.22.53:5001/live/3418.m3u8
