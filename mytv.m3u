@@ -61,6 +61,7 @@ https://jmp2.uk/stvp-IN46000184H
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
 
+
 Cooking
 
 #EXTINF:-1 tvg-id="ChefChampion.us@SD" tvg-logo="https://i.postimg.cc/KYzJGFH5/cooking-channel-logo-design-template-600nw-2004081224.webp" group-title="Cooking",Chef Champion (720p) [Not 24/7]
@@ -160,6 +161,11 @@ http://14.96.244.82:5001/live/3492.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05LkN4NZ/download.jpg" group-title="Entertainment",Alright
 https://d3c7vdfq3tyeyw.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/ad59aa2b-99f6-4017-a965-3bdfcacb7f3d/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05LkN4NZ/download.jpg" group-title="Entertainment",Alright
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/ruskmedia/stream/alrght/manifest/2.m3u8
  
 #EXTINF:-1 tvg-id="978" tvg-name="TEST1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", B4U Kadak
 http://14.96.244.82:5001/live/978.m3u8
@@ -910,6 +916,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
 http://27.116.22.53:5001/live/559.m3u8
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T31QR5LP/images_(6).jpg" group-title="Kids",Powerkids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
