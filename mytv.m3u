@@ -226,16 +226,18 @@ http://27.116.22.53:5001/live/1145.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Entertainment",Shemaroo Kids
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://shemaroo.keralive.workers.dev/du_kids/du_kids_1080/chunklist_w1663340529.m3u8
+
 
 #EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Entertainment", MTV HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Nazara (1080p)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnkV4qGP/Chat-GPT-Image-Aug-18-2026-07-48-45-AM-1-200x300.webp" group-title="Entertainment",RunnTv Shorts Film
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/runntv/stream/p_runshf/manifest/1.m3u8
 
 #EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
@@ -490,6 +492,10 @@ https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee9
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/SKK6prvn/Bollywood-HD-(2018-present).jpg" group-title="Movies",Bollywood 
 http://176.118.197.101/Bollywood_HD/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CK7gR3hQ/Chat-GPT-Image-Jan-23-2026-05-55-28-PM-1-200x300.webp" group-title="Movies",Bollywood Nonstop Tv
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://bhoomtv.org/tv/restream-tv/stream.m3u8?segment=f7864e36f1790dc4069812f5a2847117353b586467f0424edef42b56f51612da8caaf6911fa1d9e91ca2b3101e2e97273e8cf8cde210e4079aaf483ce3b1d6d1abbaf86127613eac8d6cf18d6e3a2524a4eddf23779462688a608a5d8db3a108
 
 #EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Bollywood Classic Movies 
 https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
@@ -627,6 +633,16 @@ http://14.96.244.82:5001/live/3338.m3u8
 #EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
 http://14.96.244.82:5001/live/3259.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0rhgt97/Chat-GPT-Image-Aug-18-2026-07-49-20-AM-1-200x300.webp" group-title="Movies",Runn Tv Action
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/runntv/stream/p_runact/manifest/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6Q8QZzQ/Chat-GPT-Image-Aug-18-2026-07-51-04-AM-1-200x300.webp" group-title="Movies",Runn Tv Thrillers
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/runntv/stream/p_runthr/manifest/1.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/hjFWnbm6/2f66f13b85531977f2990c18ca414e83.png" group-title="Movies",Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb543d1f7d6c638884cb3663cef342a8f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c515677b000ce0d4187822fcf0466074e30859db17cc79a1419aaa3774e57cf660e0da75540c0520671d2e65348a635a7760816a7583a0e7cddf359b37642b8df58d2237c9bce8c37683f03409a5e5afba358b38ab50a34c76da5b902488b2f5be790569fd548efd38608965e8223a7108093f1ddd20dd0d3c432b457b4650b0d7524c8d72ec4cc6faeb0f501f55b5f52243065a4c6bdfb5e3d8a352c369adef8cfae7b8eacf341a0733eba7af7274cf9a419c322a6f546adacb5db570342cc7da4e342d28790d9814511bc61f6a3fdd4334c8bf9027149ca689242797cf8f9baeb2909ba236078a5cdead8c364d171aebdf8edcea3844bd30ecbd3fc953c4c4a763ef3e737bcb762c120d174a981466f0c0d0c81935bd19e821e116c4b948f57d0534ae980cba8964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebbed4482b852e73d7c740db1fb205a057f7cd6ef74047f2c9012aa809ca1520d07cdb89caa981d68496959027ee6888051958ad2261412b33177300e701df4578689bef8dff29eaf20eaa1d0bf466b2737ff792adab52269/30/848x480_1686360/index.m3u8
@@ -896,6 +912,10 @@ https://jmp2.uk/stvp-IN2500003JW
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W19bs1qt/download.jpg" group-title="Kids",Power Rangers
 https://aka-live1050.delivery.roku.com/5f50daaa-1789-48e2-b536-559a5a86a052/t2-origin/out/v1/live_404.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVZ29ndg/unnamed.jpg" group-title="Kids",Shemaroo Kids
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://shemaroo.keralive.workers.dev/du_kids/du_kids_1080/chunklist_w1663340529.m3u8
 
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic  Hindi
 http://103.185.24.134:3001/SONIC/index.m3u8
