@@ -1570,6 +1570,9 @@ http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/9fvhhZbn/La-Liga-por-Movistar-Plus-2025.webp" group-title="Sports",M Laliga
 http://neoyjpw.top:8080/fernando/fernando/63369
 
+#EXTINF:-1 tvg-id="PKSports.pk" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Sports",PK Sports
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.postimg.cc/gktpccMs/Polsat-Sport-2-2024-svg.png" group-title="Sports",Polsat Sports 2
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8
 
