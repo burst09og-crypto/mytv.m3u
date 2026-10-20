@@ -56,7 +56,10 @@ https://jmp2.uk/stvp-IN3600006RT
 #EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png" group-title="Comedy",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
 
-
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.postimg.cc/bJHc74Mk/Chat-GPT-Image-Aug-1-2026-11-41-28-PM-1-200x300.webp" group-title="Entertainment",&TV HD International
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
 
 Cooking
 
@@ -144,6 +147,13 @@ Education
 
 
 Entertainment
+
+
+
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Comedy",Shemaroo Comedy
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/chunklist_w373308795.m3u8
 
 #EXTINF:-1 tvg-id="3492" tvg-name="Alright TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AlrightTV1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Alright TV
 http://14.96.244.82:5001/live/3492.m3u8
@@ -492,10 +502,6 @@ https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee9
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/SKK6prvn/Bollywood-HD-(2018-present).jpg" group-title="Movies",Bollywood 
 http://176.118.197.101/Bollywood_HD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CK7gR3hQ/Chat-GPT-Image-Jan-23-2026-05-55-28-PM-1-200x300.webp" group-title="Movies",Bollywood Nonstop Tv
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://bhoomtv.org/tv/restream-tv/stream.m3u8?segment=f7864e36f1790dc4069812f5a2847117353b586467f0424edef42b56f51612da8caaf6911fa1d9e91ca2b3101e2e97273e8cf8cde210e4079aaf483ce3b1d6d1abbaf86127613eac8d6cf18d6e3a2524a4eddf23779462688a608a5d8db3a108
 
 #EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Bollywood Classic Movies 
 https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
@@ -724,6 +730,10 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K87fmF5T/logo-for-website.png" group-title="Movies",The Q Tv
 https://mumt05.tangotv.in/87NeALx2THEQ/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15Kh7x64/Chat-GPT-Image-Jan-23-2026-05-41-15-PM-1-200x300.webp" group-title="Movies",YYZ TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yyz-tv.keralive.workers.dev/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Movies",Zee Action
 http://107.167.16.138/zeeaction/index.m3u8?token=test
@@ -1046,7 +1056,10 @@ https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/k5jyVZbQ/16c286c174d2ff21f9b3072028ede430.png" group-title="Music",Saga Music
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/kXgfCLzm/Vision-Beats-dynamic-logo-design-1-200x300.webp" group-title="Music",Vision Beats
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://visionbeats.keralive.workers.dev/Visionbeats/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-language="Hindi" group-title="Music", YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
