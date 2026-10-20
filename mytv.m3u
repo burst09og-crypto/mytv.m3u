@@ -56,7 +56,7 @@ https://jmp2.uk/stvp-IN3600006RT
 #EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png" group-title="Comedy",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
 
-#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Comedy",Shemaroo Comedy
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.postimg.cc/bJHc74Mk/Chat-GPT-Image-Aug-1-2026-11-41-28-PM-1-200x300.webp" group-title="Comedy",Shemaroo Comedy
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
@@ -150,7 +150,7 @@ Entertainment
 
 
 
-#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.postimg.cc/bJHc74Mk/Chat-GPT-Image-Aug-1-2026-11-41-28-PM-1-200x300.webp" group-title="Entertainment",&TV HD International
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png"group-title="Entertainment",&TV HD International
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/chunklist_w373308795.m3u8
