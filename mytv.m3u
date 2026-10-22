@@ -1710,6 +1710,30 @@ http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feRR4ts.png" group-title="Sports",Sony Sports 2
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
+http://103.17.193.159:5001/live/162.m3u8
+
+#EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
+http://103.17.193.159:5001/live/891.m3u8
+
+#EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
+http://103.17.193.159:5001/live/892.m3u8
+
+#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5 HD
+http://103.17.193.159:5001/live/155.m3u8
+
+#EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1
+http://103.17.193.159:5001/live/514.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Ten 2
+http://103.17.193.159:5001/live/523.m3u8
+
+#EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
+http://103.17.193.159:5001/live/524.m3u8
+
+#EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-logo="http://103.17.193.159:5001/jtvimage/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5
+http://103.17.193.159:5001/live/525.m3u8
+
 #EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" group-title="Sports", Sony Ten 1
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
