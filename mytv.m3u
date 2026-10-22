@@ -853,14 +853,17 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8B0Lpzd/1000021166.png" group-title="Kids",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" tvg-language="Hindi" group-title="Kids", Cartoon Network HD+ Hindi
-http://27.116.22.53:5001/live/3436.m3u8
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/CNHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
+http://103.17.193.159:5001/live/816.m3u8
+
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/CNHDHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Hindi
+http://103.17.193.159:5001/live/3436.m3u8
 
 #EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" tvg-language="Hindi" group-title="Kids", Cartoon Network HD+ Hindi
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" tvg-language="Hindi" group-title="Kids", Discovery Kids Hindi
-http://27.116.22.53:5001/live/554.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/DiscoveryKidsHin1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids Hindi
+http://103.17.193.159:5001/live/554.m3u8
 
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" tvg-language="Hindi" group-title="Kids", Discovery Kids Hindi
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
@@ -902,6 +905,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZvCrgTb/Nick-Hindi.png" group-title="Kids",Nick
 http://103.185.24.134:3001/NICK/index.m3u8
 
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
+http://103.17.193.159:5001/live/545.m3u8
+
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="http://103.17.193.159:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+http://103.17.193.159:5001/live/1226.m3u8
 
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" group-title="Kids", Nick Junior (Tata Play)
 http://103.185.24.134:3001/NICK-JR/index.m3u8
@@ -913,9 +921,8 @@ http://27.116.22.53:5001/live/548.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxc7PHnR/Oggy-and-the-Cockroaches-Logo.webp" group-title="Kids",Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
-
-#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
-http://27.116.22.53:5001/live/559.m3u8
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
+http://103.17.193.159:5001/live/559.m3u8
 
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
@@ -938,6 +945,9 @@ https://shemaroo.keralive.workers.dev/du_kids/du_kids_1080/chunklist_w1663340529
 
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic  Hindi
 http://103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
+http://103.17.193.159:5001/live/815.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZT2gx8R/Super-Hungama-Logo.png" group-title="Kids",Super hungama 
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
