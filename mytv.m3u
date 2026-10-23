@@ -567,6 +567,11 @@ https://streams2.sofast.tv/title-bollywood_tv/ptnr-swifttv/sofast3/v1/019807928d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZCC0ZTL/Cinex-old.webp" group-title="Movies",Cinex
 https://gcinemahls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Cineshot Premier
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/runntv/stream/p_cinshf/manifest/1.m3u8
+
 #EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplex1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://103.17.193.159:5001/live/482.m3u8
 
@@ -683,6 +688,11 @@ http://103.17.193.159:5001/live/3338.m3u8
 
 #EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
 http://103.17.193.159:5001/live/3259.m3u8
+
+#EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/runntv/stream/p_pktflm/manifest/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0rhgt97/Chat-GPT-Image-Aug-18-2026-07-49-20-AM-1-200x300.webp" group-title="Movies",Runn Tv Action
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
