@@ -4,7 +4,7 @@
 Test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9T9rYux.png" group-title="Nepali",NTV News HD
-#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-wlink-01.nettv.com.np/ott_abr/ntvnewshdabr.stream/ottlive/netNTVNEWS720.stream/chunks.m3u8
 
