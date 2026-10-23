@@ -225,7 +225,7 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.17.193.159:5001/live/3382.m3u8
 
 #EXTINF:-1 tvg-id="3383" tvg-name="Epic Bharat" tvg-logo="http://103.17.193.159:5001/jtvimage/Nazara.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic Bharat
-http://103.17.193.159:5001/live/3383.m3u8
+https://d1mbzned5sqs2u.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2umk3abbv7b2o/b3ee049e-0a62-496e-8624-4a84b2615ead/0.m3u8
 
 #EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="http://103.17.193.159:5001/jtvimage/fltrcopy.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FilterCopy
 http://103.17.193.159:5001/live/3534.m3u8
@@ -768,6 +768,11 @@ http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 #EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
 http://103.17.193.159:5001/live/3345.m3u8
 
+#EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/runntv/stream/p_supjio/manifest/1.m3u8
+
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://i.postimg.cc/zXBBLhCp/download.jpg" group-title="Movies",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
@@ -924,6 +929,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="3537" tvg-name="Duck TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DuckTV.png" tvg-language="English" group-title="Kids", Duck TV
 https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="http://103.17.193.159:5001/jtvimage/Gubbare.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Epic Kids
+https://cc-t8lqe1o99pszu.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/a2e3da9a-3dd6-4f04-8ccf-1642e05e5600/0.m3u8
 
 #EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260528T040546SQUARE.png" group-title="Kids",Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
