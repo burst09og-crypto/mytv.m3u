@@ -228,7 +228,7 @@ http://223.25.71.211:5001/live/3382.m3u8
 https://d1mbzned5sqs2u.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2umk3abbv7b2o/b3ee049e-0a62-496e-8624-4a84b2615ead/0.m3u8
 
 #EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="http://103.17.193.159:5001/jtvimage/fltrcopy.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FilterCopy
-http://103.17.193.159:5001/live/3534.m3u8
+http://223.25.71.211:5001/live/3534.m3u8
 
 #EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="http://103.17.193.159:5001/jtvimage/fltrcopy.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FilterCopy
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
@@ -236,7 +236,7 @@ http://103.17.193.159:5001/live/3534.m3u8
 https://runn-tv.keralive.workers.dev/pocketaces/stream/fltrcopy/manifest/1.m3u8
 
 #EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Green Chillies
-http://14.96.244.82:5001/live/1834.m3u8
+http://223.25.71.211:5001/live/1834.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-name="Colors  HD" tvg-logo="https://i.postimg.cc/R0FGkLHr/unnamed.png" tvg-language="English" group-title="Entertainment",Kuting
 https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/kutingg_4000k.m3u8
@@ -245,7 +245,7 @@ https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d6
 http://223.25.71.211:5001/live/2327.m3u8
 
 #EXTINF:-1 tvg-id="3535" tvg-name="Mr. Bean" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MrBean.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Mr. Bean
-http://14.96.244.82:5001/live/3535.m3u8
+http://223.25.71.211:5001/live/3535.m3u8
 
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
 http://223.25.71.211:5001/live/248.m3u8
@@ -529,6 +529,9 @@ https://jmp2.uk/stvp-IN46000011Q
 Movies
 
 
+#EXTINF:-1 tvg-id="2189" tvg-name="Aaryaa Cinema" tvg-logo="http://103.17.193.159:5001/jtvimage/Aaryaa_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Aaryaa Cinema
+http://223.25.71.211:5001/live/2189.m3u8
+
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 
@@ -752,8 +755,12 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTgLrOS.png" group-title="Movies",Sony PIX
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyPIX.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Sony Pix HD
+http://223.25.71.211:5001/live/762.m3u8
+
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Wah
 http://223.25.71.211:5001/live/1393.m3u8
+
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="Hindi Movies",South Hindi Dubbed Movies
@@ -773,6 +780,7 @@ http://107.167.16.138/stargold2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold 2 HD
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
 http://223.25.71.211:5001/live/3345.m3u8
