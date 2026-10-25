@@ -1802,6 +1802,10 @@ http://103.151.60.162:2122/play/a026/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (1080p)
 http://103.151.60.162:2122/play/a027/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports HD
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Pakistan" group-title="Sports",Ten Sports HD (Pakistan)
 https://cdn4.mjunoon.tv:8087/streamtest/157-3M/chunks.m3u8
 
