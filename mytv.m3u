@@ -156,7 +156,7 @@ Entertainment
 https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/chunklist_w373308795.m3u8
 
 #EXTINF:-1 tvg-id="3492" tvg-name="Alright TV" tvg-logo="http://103.17.193.159:5001/jtvimage/AlrightTV1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Alright TV
-http://103.17.193.159:5001/live/3492.m3u8
+http://223.25.71.211:5001/live/3492.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05LkN4NZ/download.jpg" group-title="Entertainment",Alright
 https://d3c7vdfq3tyeyw.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/ad59aa2b-99f6-4017-a965-3bdfcacb7f3d/4.m3u8
@@ -170,7 +170,7 @@ https://runn-tv.keralive.workers.dev/ruskmedia/stream/alrght/manifest/2.m3u8
 http://14.96.244.82:5001/live/978.m3u8
 
 #EXTINF:-1 tvg-id="3028" tvg-name="BH Style Icons Awards" tvg-logo="http://103.17.193.159:5001/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH Style Icons Awards
-http://103.17.193.159:5001/live/3028.m3u8
+http://223.25.71.211:5001/live/3028.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VLMzLPCT/c5b6c1edda79180a42a0c1212b8e9510.png" group-title="Entertainment",Bollywood Masala
 https://streams2.sofast.tv/vglive-sk-373192/SD480/SD480.m3u8
@@ -286,6 +286,9 @@ http://38.96.178.205/SONYHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="3223" tvg-name="Shark Tank India S5" tvg-logo="http://223.25.71.211:5001/jtvimage/SharkTankIndia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shark Tank India S5
+http://223.25.71.211:5001/live/3223.m3u8
 
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Entertainment",Sony KAL Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
