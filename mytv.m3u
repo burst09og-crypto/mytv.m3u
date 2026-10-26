@@ -148,6 +148,8 @@ Education
 
 Entertainment
 
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png"group-title="Entertainment",&TV HD International
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png"group-title="Entertainment",&TV HD International
@@ -165,6 +167,9 @@ https://d3c7vdfq3tyeyw.cloudfront.net/v1/manifest/071c0467fcd02420cdf0d8a1ca3524
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://runn-tv.keralive.workers.dev/ruskmedia/stream/alrght/manifest/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" group-title="Entertainment",Anmol TV
+https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
  
 #EXTINF:-1 tvg-id="978" tvg-name="TEST1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", B4U Kadak
 http://14.96.244.82:5001/live/978.m3u8
