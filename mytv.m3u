@@ -1427,6 +1427,7 @@ https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
 Reality Shows
 
 #EXTINF:-1 tvg-id="6661f11a41af6400080e90d8" tvg-name="Big Brother" tvg-logo="https://i.postimg.cc/MZCCkjDG/images.jpg" group-title="Reality shows",Big Brother hrs live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://stream2.zoloj.com/stream/hindi.m3u8?sid=71ca00435ef161c7455508c6d81907666545cb12923f7a70602cd0f766b424ad
 
 #EXTINF:-1 tvg-id="6661f11a41af6400080e90d8" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="Reality shows",Big Brother
@@ -1754,6 +1755,7 @@ http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://223.25.71.211:5001/live/162.m3u8
 
 #EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
@@ -1834,6 +1836,7 @@ https://cdn4.mjunoon.tv:8087/streamtest/157-3M/chunks.m3u8
 https://jmp2.uk/plu-62ea4dadce395f0007086df2.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/5thbsMNZ/TNT-Sports-1-Stacked.webp" group-title="Sports",Tnt sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=77413&extension=m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/KvS3RdPT/TNT-Sports-2-Stacked.webp" group-title="Sports",Tnt sports 2
