@@ -1539,13 +1539,13 @@ https://raw.githubusercontent.com/zaxacaasada/zaxatv/refs/heads/main/bein1.m3u8
 http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/21
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 Qatar
-http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+http://ihsyidtg.topiptv66.com/live/G2MZMF9/331QL74/39559.ts
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein 2 Qatar
 http://primetv.cc.cd/beinfhd2/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/kg8cK8G5/ch643-425-305.png" group-title="Sports",Bein 3 Qatar
-http://primetv.cc.cd/beinfhd3/index.m3u8
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1030238&extension=ts
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/6QXh03GK/ch644-425-305.png" group-title="Sports",Bein 4 Qatar
 http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
@@ -1747,6 +1747,9 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/chunklist_w1126
 
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo="https://i.postimg.cc/MKHbSMGq/Sky-Sports-La-Liga.webp" group-title="Sports",Skysports LaLiga TV
 http://45.171.64.30:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo="https://i.postimg.cc/MKHbSMGq/Sky-Sports-La-Liga.webp" group-title="Sports",Skysports LaLiga TV
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBhJXAG.png" group-title="Sports",Sony Sports 1
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
