@@ -730,6 +730,7 @@ http://14.96.244.82:5001/live/3336.m3u8
 http://14.96.244.82:5001/live/3338.m3u8
 
 #EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://14.96.244.82:5001/live/3259.m3u8
 
 #EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
@@ -783,6 +784,7 @@ http://223.25.71.211:5001/live/476.m3u8
 http://14.96.244.82:5001/live/476.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://i.ibb.co/HDcSBkxP/Sony-Max-1.png" group-title="Movies",Sony Max 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://14.96.244.82:5001/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
@@ -801,6 +803,7 @@ http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 http://223.25.71.211:5001/live/762.m3u8
 
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Wah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://14.96.244.82:5001/live/1393.m3u8
 
 
@@ -825,6 +828,7 @@ http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://14.96.244.82:5001/live/3345.m3u8
 
 #EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
