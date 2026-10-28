@@ -4,8 +4,10 @@
 Test
 
 
-
-
+#EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.postimg.cc/bJHc74Mk/Chat-GPT-Image-Aug-1-2026-11-41-28-PM-1-200x300.webp" group-title="Comedy",Shemaroo Comedy
+#EXTVLCOPT:http-referrer=https://thedaddy.pk//24-7-channels.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://edge.cowedd4855ws.sbs/premium61/index.m3u8
 
 Anime
 
