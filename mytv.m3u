@@ -1596,23 +1596,26 @@ http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/21
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 Qatar
 http://ihsyidtg.topiptv66.com/live/G2MZMF9/331QL74/39559.ts
 
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 Qatar
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/7h3Kpj8F/ch639-425-305.png" group-title="Sports",Bein 2 Qatar
-http://primetv.cc.cd/beinfhd2/index.m3u8
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6124/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/kg8cK8G5/ch643-425-305.png" group-title="Sports",Bein 3 Qatar
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1030238&extension=ts
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/6QXh03GK/ch644-425-305.png" group-title="Sports",Bein 4 Qatar
-http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6125/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/prpQT53j/Logo-Bein-Sports-5-MAX-svg.png" group-title="Sports",Bein 5 Qatar
-http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6126/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/7YJMr7gN/Logo-Bein-Sports-6-MAX-svg.png" group-title="Sports",Bein 6 Qatar
-http://primetv.cc.cd/beinfhd6/index.m3u8
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6127/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/8CNhv0qD/BEIN7.png" group-title="Sports",Bein 7 Qatar
-http://primetv.cc.cd/beinfhd7/index.m3u8
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8
 
 #EXTINF:-1 tvg-id="beinSports8" tvg-logo="https://i.ibb.co/Lz0244TM/BEIN8.jpg" group-title="Sports",bein SPORTS 8
 http://primetv.cc.cd/beinfhd8/index.m3u8
@@ -1796,6 +1799,17 @@ http://stream.mcquack.net/234/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzQ7VwWY/channel-1669618628.png" group-title="Sports",Setanta 2
 http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo=" " group-title="Sports",Sky Sports Cricket
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
+
+#EXTINF:-1 tvg-chno="166" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football (Alt)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sports",Sky Sports Football (Alt)
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
+
+#EXTINF:-1 tvg-chno="192" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League (Alt)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sports",Sky Sports Premier League (Alt)
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.postimg.cc/kXJMXp76/Sky-au-racing.png" group-title="Sports",Sky racing
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/chunklist_w1126457871.m3u8
