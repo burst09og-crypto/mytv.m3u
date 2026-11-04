@@ -989,6 +989,10 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://193.33.39.108:9019/play/a00n
 
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://58.147.140.106:8000/play/a0e0/93974278.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (India) (576p)
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
@@ -1583,6 +1587,9 @@ http://223.25.71.211:5001/live/3146.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/HkK9vSGh/MLBNetwork-Logo-svg.png" group-title="Sports",Baseball
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/109110
+
+#EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 English
+https://tvsen6.aynaott.com/beinsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.uk@SD" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1 English
 http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/20
