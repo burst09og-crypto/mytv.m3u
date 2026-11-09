@@ -818,7 +818,7 @@ https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sony_max_hd&sm=.m3u8
+http://223.25.71.211:5001/live/476.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://i.ibb.co/HDcSBkxP/Sony-Max-1.png" group-title="Movies",Sony Max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -837,7 +837,7 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyPIX.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Sony Pix HD
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sony_pix_hd&sm=.m3u8
+http://223.25.71.211:5001/live/762.m3u8
 
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Wah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1099,10 +1099,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 http://103.185.24.134:3001/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=nick&sm=.m3u8
+http://103.17.193.159:5001/live/545.m3u8
 
-#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
-http://103.135.253.32:8080/NICK/index.m3u8
+
 
 #EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="http://103.17.193.159:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
 http://223.25.71.211:5001/live/1226.m3u8
@@ -1114,13 +1113,14 @@ http://103.185.24.134:3001/NICK-JR/index.m3u8
 
 #EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" group-title="Kids", Nickelodeon Jr.
 http://223.25.71.211:5001/live/548.m3u8
-http://14.96.244.82:5001/live/548.m3u8
+http://14.96.244.82:5001/live/139.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxc7PHnR/Oggy-and-the-Cockroaches-Logo.webp" group-title="Kids",Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=pogo&sm=.m3u8
+http://103.17.193.159:5001/live/559.m3u8
 
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
@@ -1145,7 +1145,7 @@ https://shemaroo.keralive.workers.dev/du_kids/du_kids_1080/chunklist_w1663340529
 http://103.185.24.134:3001/SONIC/index.m3u8
 
 #EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sonic&sm=.m3u8
+http://103.17.193.159:5001/live/815.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Kids",Sony YaY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
