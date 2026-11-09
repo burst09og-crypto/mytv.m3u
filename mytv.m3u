@@ -88,7 +88,8 @@ https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-language="Hindi" group-title="Cooking", Food Food
 http://14.96.244.82:5001/live/561.m3u8
 
-http://223.25.71.211:5001/live/561.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-language="Hindi" group-title="Cooking", Food Food
+http://103.17.193.159:5001/live/561.m3u8
 
 #EXTINF:-1 tvg-id="IN460000313" tvg-name="Foodie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="Cooking",Foodie Hub
 https://jmp2.uk/stvp-IN460000313
@@ -161,6 +162,9 @@ https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/chunklist_w373308
 #EXTINF:-1 tvg-id="3492" tvg-name="Alright TV" tvg-logo="http://103.17.193.159:5001/jtvimage/AlrightTV1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Alright TV
 http://14.96.244.82:5001/live/3492.m3u8
 
+#EXTINF:-1 tvg-id="3492" tvg-name="Alright TV" tvg-logo="http://103.17.193.159:5001/jtvimage/AlrightTV1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Alright TV
+http://103.17.193.159:5001/live/3492.m3u8
+
 
 http://223.25.71.211:5001/live/3492.m3u8
 
@@ -185,6 +189,9 @@ http://14.96.244.82:5001/live/978.m3u8
 #EXTINF:-1 tvg-id="3028" tvg-name="BH Style Icons Awards" tvg-logo="http://103.17.193.159:5001/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH Style Icons Awards
 http://14.96.244.82:5001/live/3028.m3u8
 
+#EXTINF:-1 tvg-id="3028" tvg-name="BH Style Icons Awards" tvg-logo="http://103.17.193.159:5001/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH Style Icons Awards
+http://103.17.193.159:5001/live/3028.m3u8
+
 http://223.25.71.211:5001/live/3028.m3u8
 
 #EXTINF:-1 tvg-id="Colorcineplex@hd" tvg-logo="https://i.postimg.cc/VLMzLPCT/c5b6c1edda79180a42a0c1212b8e9510.png" group-title="Entertainment",Bollywood Masala
@@ -194,11 +201,11 @@ https://streams2.sofast.tv/vglive-sk-373192/SD480/SD480.m3u8
 https://sofast-lg.vgcdn.net/vglive-sk-373192/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://14.96.244.82:5001/live/144.m3u8
+http://103.17.193.159:5001/live/144.m3u8
 
 
 #EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-logo="http://103.17.193.159:5001/jtvimage/Colors1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
-http://14.96.244.82:5001/live/1368.m3u8
+http://103.17.193.159:5001/live/1368.m3u8
 
 
 
@@ -276,10 +283,10 @@ http://14.96.244.82:5001/live/2327.m3u8
 http://14.96.244.82:5001/live/3535.m3u8
 
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
-http://14.96.244.82:5001/live/248.m3u8
+http://103.17.193.159:5001/live/248.m3u8
 
 #EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
-http://14.96.244.82:5001/live/1145.m3u8
+http://103.17.193.159:5001/live/1145.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Entertainment",MTV India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
@@ -316,7 +323,7 @@ http://38.96.178.205/SONYHD/tracks-v1a1/mono.m3u8
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3223" tvg-name="Shark Tank India S5" tvg-logo="http://223.25.71.211:5001/jtvimage/SharkTankIndia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shark Tank India S5
-http://14.96.244.82:5001/live/3223.m3u8
+http://103.17.193.159:5001/live/3223.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 http://103.135.253.32:8080/SONY_AATH/index.m3u8
@@ -342,10 +349,10 @@ http://14.96.244.82:5001/live/474.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="http://103.17.193.159:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
-http://14.96.244.82:5001/live/154.m3u8
+http://103.17.193.159:5001/live/154.m3u8
 
 #EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://103.17.193.159:5001/jtvimage/SonySAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-http://14.96.244.82:5001/live/471.m3u8
+http://103.17.193.159:5001/live/471.m3u8
 
 #EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",STAR PLUS
 http://103.135.253.32:8080/STAR-PLUS/index.m3u8
@@ -503,7 +510,7 @@ http://2806-2026.gold:8089/live/1826465239420/4192874740371/85691310.ts
 http://14.96.244.82:5001/live/1163.m3u8
 
 #EXTINF:-1 tvg-id="1163" tvg-name="JioGames HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/JioGamesHD1.png" tvg-language="English" tvg-type="Sports" group-title="Game and Esports", JioGames HD
-http://14.96.244.82:5001/live/1163.m3u8
+http://103.17.193.159:5001/live/1163.m3u8
 
 #EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" tvg-language="English" group-title="Game and Esports", Penta TV
 http://14.96.244.82:5001/live/3204.m3u8
@@ -537,20 +544,20 @@ http://107.167.16.138/zeezesthd/index.m3u8?token=test
 Infotainment
 
 #EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/AnimalPlanetHin1.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
-http://14.96.244.82:5001/live/566.m3u8
+http://103.17.193.159:5001/live/566.m3u8
 
 #EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/DiscoveryHin1.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Hindi
-http://14.96.244.82:5001/live/575.m3u8
+http://103.17.193.159:5001/live/575.m3u8
 
 #EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/DiscoveryHDHin1.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery HD Hindi
-http://223.25.71.211:5001/live/3444.m3u8
+http://103.17.193.159:5001/live/3444.m3u8
 http://14.96.244.82:5001/live/3444.m3u8
 
 #EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHindi.png" tvg-language="Hindi" group-title="Infotainment", Investigation Discovery Hindi
-http://223.25.71.211:5001/live/527.m3u8
+http://103.17.193.159:5001/live/527.m3u8
 
 #EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="Hindi" group-title="Infotainment", Travelxp HD Hindi
-http://223.25.71.211:5001/live/562.m3u8
+http://103.17.193.159:5001/live/562.m3u8
 
 #EXTINF:-1 tvg-id="IN460000585" tvg-name="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20260623T013240SQUARE.png" group-title="Infotainment",Wild Flix
 https://jmp2.uk/stvp-IN460000585
@@ -658,16 +665,16 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chun
 
 
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplexHD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
-http://14.96.244.82:5001/live/1477.m3u8
+http://103.17.193.159:5001/live/1477.m3u8
 
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplexBollywood1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
-http://14.96.244.82:5001/live/1763.m3u8
+http://103.17.193.159:5001/live/1763.m3u8
 
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplexBollywood1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
 http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 
 #EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
-http://14.96.244.82:5001/live/1450.m3u8
+http://103.17.193.159:5001/live/1450.m3u8
 
 #EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
@@ -929,7 +936,7 @@ http://107.167.16.138/zeeclassic/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassic.png" tvg-language="Hindi" group-title="Movies", Zee Classic
-http://14.96.244.82:5001/live/1691.m3u8
+http://103.17.193.159:5001/live/1691.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies", Zee Cinema APAC HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
@@ -1023,7 +1030,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/CNHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
-http://14.96.244.82:5001/live/816.m3u8
+http://103.17.193.159:5001/live/816.m3u8
 
 #EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/CNHDHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -1034,7 +1041,9 @@ https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/DiscoveryKidsHin1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids Hindi
 http://223.25.71.211:5001/live/554.m3u8
-http://14.96.244.82:5001/live/554.m3u8
+
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/DiscoveryKidsHin1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids Hindi
+http://103.17.193.159:5001/live/554.m3u8
 
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" tvg-language="Hindi" group-title="Kids", Discovery Kids Hindi
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
