@@ -1108,16 +1108,14 @@ http://103.17.193.159:5001/live/545.m3u8
 
 
 #EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="http://103.17.193.159:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
-http://223.25.71.211:5001/live/1226.m3u8
-http://14.96.244.82:5001/live/1226.m3u8
+http://103.17.193.159:5001/live/1226.m3u8
 
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" group-title="Kids", Nick Junior (Tata Play)
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 
 
 #EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" group-title="Kids", Nickelodeon Jr.
-http://223.25.71.211:5001/live/548.m3u8
-http://14.96.244.82:5001/live/139.m3u8
+http://103.17.193.159:5001/live/548.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxc7PHnR/Oggy-and-the-Cockroaches-Logo.webp" group-title="Kids",Oggy and the Cockroaches
