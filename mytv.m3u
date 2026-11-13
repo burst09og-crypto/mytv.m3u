@@ -1509,9 +1509,13 @@ http://103.180.240.141:8080/hls/main1/playlist.m3u8
 https://webott.viatv.com.np/v0t1/RayTv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmL4xNnM/download.jpg" group-title="Nepali",Sagarmatha TV
+#EXTVLCOPT:http-referrer=https://www.viatv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4HmqpWY/download.jpg" group-title="Nepali",Sajha Tv
+#EXTVLCOPT:http-referrer=https://www.viatv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://webott.viatv.com.np/v0t1/SajhaTV.stream/chunks.m3u8
 
 
