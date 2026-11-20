@@ -151,8 +151,8 @@ Education
 Entertainment
 
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png"group-title="Entertainment",&TV HD International
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a133/index.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png"group-title="Entertainment",&TV HD International
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
@@ -584,8 +584,7 @@ Movies
 
 #EXTINF:-1 tvg-id="1843" tvg-name="And Pictures" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPictures.png" tvg-language="Hindi" group-title="Movies", And Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.135.253.32:8080/PICTURE-HD/index.m3u8
-
+http://116.90.120.149:8000/play/a132/index.m3u8
 
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPicturesHD.png" tvg-language="Hindi" group-title="Movies", And Pictures HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -885,8 +884,16 @@ https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_2_hd&sm=.m3u8
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold 2 HD
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Star Gold Romance (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a12c/index.m3u8
+
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" group-title="Movies", Star Gold Select
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_select_hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" group-title="Movies", Star Gold Select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a131/index.m3u8
 
 #EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://103.17.193.159:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1056,6 +1063,15 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://193.33.39.108:9019/play/a00n
 
+
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a124/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a11r/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://58.147.140.106:8000/play/a0e0/93974278.m3u8
@@ -1145,6 +1161,10 @@ https://shemaroo.keralive.workers.dev/du_kids/du_kids_1080/chunklist_w1663340529
 
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic  Hindi
 http://103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic  Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a12e/index.m3u8
 
 #EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
 http://103.17.193.159:5001/live/815.m3u8
@@ -1989,6 +2009,14 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=95935
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYPZBwcq/Star_Sports_1_HD.png" group-title="Sports",Star sports 1 hindi
 http://103.185.24.134:3001/StarSports1/index.m3u8?tv4wap
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYPZBwcq/Star_Sports_1_HD.png" group-title="Sports",Star sports 1 hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a122/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYPZBwcq/Star_Sports_1_HD.png" group-title="Sports",Star sports 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a11x/index.m3u8
+
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e85f3514b9823f0d47fe17/images/LANDSCAPE_169/LANDSCAPE_169_GMDfQnyvO_STAR-SPORTS-2-HD.png" group-title="Sports",Star Sports 2 HD (Tata Play)
 http://103.185.24.134:3001/StarSports2/tracks-v1a1/mono.m3u8?tv4wap
 
@@ -1999,6 +2027,9 @@ http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
+#EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" group-title="Sports",Star Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a12w/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports",Star Sports Select 1 HD (1080p)
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
@@ -2038,6 +2069,14 @@ https://raw.githubusercontent.com/ALittleAnt4161/m3u8/refs/heads/main/truesport2
 
 #EXTINF:-1 tvg-id="65ea8b928145cb0008509426" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="Sports",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Unite8_Sports_1_HD_%282026%29.svg/revision/latest?cb=20260808170412" group-title="Sports", Unite8 Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a11l/index.m3u8
+
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Unite8_Sports_1_HD_%282026%29.svg/revision/latest?cb=20260808170412" group-title="Sports", Unite8 Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://116.90.120.149:8000/play/a129/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tN4fP4f/Willow-2023-stacked.webp" group-title="Sports",Willow SD
 https://tvsen5.aynascope.net/willowhd/index.m3u8
