@@ -871,6 +871,9 @@ http://41.205.93.154/STAR-GOLD/index.m3u8
 https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
 
 
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="http://103.17.193.159:5001/jtvimage/StarGoldHD11.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold HD
+http://103.17.193.159:5001/live/156.m3u8
+
 #EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold HD (Tata Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
@@ -883,6 +886,15 @@ https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=star_gold_2_hd&sm=.m3u8
 
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold 2 HD
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="http://103.17.193.159:5001/jtvimage/StarGold2HD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold 2 HD
+http://103.17.193.159:5001/live/3096.m3u8
+
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="http://103.17.193.159:5001/jtvimage/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
+http://103.17.193.159:5001/live/3097.m3u8
+
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="http://103.17.193.159:5001/jtvimage/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
+http://103.17.193.159:5001/live/3098.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Star Gold Romance (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1059,10 +1071,15 @@ http://103.17.193.159:5001/live/554.m3u8
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" tvg-language="Hindi" group-title="Kids", Discovery Kids Hindi
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://193.33.39.108:9019/play/a00n
 
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_Channel.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Disney Channel
+http://103.17.193.159:5001/live/1373.m3u8
+
+#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Disney Junior
+http://103.17.193.159:5001/live/1374.m3u8
+
+#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Disney_International_HD.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Disney International HD
+http://103.17.193.159:5001/live/1375.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (Tata Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -1099,8 +1116,9 @@ https://jmp2.uk/stvp-IN4600009F9
 https://jmp2.uk/stvp-IN4600007TC
 
 
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://i.postimg.cc/MZ0K3hSB/Hungama-Photoroom.webp" group-title="Kids",Hungama TV
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=hungama&sm=.m3u8
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="http://103.17.193.159:5001/jtvimage/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
+http://103.17.193.159:5001/live/1391.m3u8
+
 
 #EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://i.postimg.cc/MZ0K3hSB/Hungama-Photoroom.webp" group-title="Kids",Hungama TV
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
@@ -1187,9 +1205,8 @@ https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sony_yay&sm=.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZT2gx8R/Super-Hungama-Logo.png" group-title="Kids",Super hungama 
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=super_hungama&sm=.m3u8
-
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="http://103.17.193.159:5001/jtvimage/Super_Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Super Hungama
+http://103.17.193.159:5001/live/1392.m3u8
 #EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20260121T010843SQUARE.png" group-title="Kids",The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 
