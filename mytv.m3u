@@ -691,6 +691,11 @@ https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/tCQRfCTN/download.jpg" group-title="Movies",Bollywood Movies 
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 
+#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.postimg.cc/MHhM2F0x/Chat-GPT-Image-Jan-23-2026-05-55-28-PM-1-200x300.webp" group-title="Movies",Bollywood Nonstop
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=1160e0e7ca2d&t=1795687845
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5txVJXdw/download.jpg" group-title="Movies",Bollywood TV
 https://streams2.sofast.tv/title-bollywood_tv/ptnr-swifttv/sofast3/v1/019807928d161eb4611d2d9080f41f/0198079394eb1eb4611d2d9080f422/BOLLYWOOD_TV_3500k.m3u8
 
@@ -1363,7 +1368,7 @@ https://amigofx.com:1936/hitzentertainment/hitzentertainment/chunklist_w20659277
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx6k1r8p/images.jpg" group-title="Music",Jalwa
-https://cdn01.medialive.one:2096/JALWAMUSICFHD/tracks-v1a1/mono.m3u8
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkfYvfvh/download.png" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
