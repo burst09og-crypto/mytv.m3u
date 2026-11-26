@@ -340,7 +340,9 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",Sony Entertainment
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sony_ent_hd&sm=.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://techandeat.online/sliv/stream.m3u8?id=1000001971
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
 http://14.96.244.82:5001/live/474.m3u8
